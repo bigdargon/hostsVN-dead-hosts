@@ -1,0 +1,24 @@
+idna_subject,checker_type,destination,tested_at
+ads.aws.viber.com,AVAILABILITY,origin.list,2022-03-22 07:01:37.227974
+glance-internal.inmobi.com,AVAILABILITY,origin.list,2022-03-22 07:01:44.479659
+w.eastus.trafficmanager.inmobi.com,AVAILABILITY,origin.list,2022-03-22 07:01:55.055123
+ads.mobclix.com,AVAILABILITY,origin.list,2022-03-22 07:03:57.448734
+launchpad.chitika.com,AVAILABILITY,origin.list,2022-03-22 07:04:18.860637
+server.chitika.com,AVAILABILITY,origin.list,2022-03-22 07:04:23.426054
+in.meet.ssl2.duapps.com,AVAILABILITY,origin.list,2022-03-22 07:06:04.963704
+www.addthiscdn.com,AVAILABILITY,origin.list,2022-03-22 07:08:50.222344
+nexus.adswizz.com,AVAILABILITY,origin.list,2022-03-22 07:09:26.737075
+iad.appboy.com,AVAILABILITY,origin.list,2022-03-22 07:09:41.466866
+hwstats.unity3d.com,AVAILABILITY,origin.list,2022-03-22 07:10:39.530599
+stats.unity3d.com,AVAILABILITY,origin.list,2022-03-22 07:10:39.964737
+dsp-vast.unityads.unity3d.com,AVAILABILITY,origin.list,2022-03-22 07:10:48.285597
+portal.ad4screen.com,AVAILABILITY,origin.list,2022-03-22 07:11:10.788859
+my.ad4screen.com,AVAILABILITY,origin.list,2022-03-22 07:11:11.088606
+hb.pubmatic.com,AVAILABILITY,origin.list,2022-03-22 07:12:19.763380
+pub-sdk-cfg.criteo.com,AVAILABILITY,origin.list,2022-03-22 07:12:44.667977
+fastlane-adv.rubiconproject.com,AVAILABILITY,origin.list,2022-03-22 07:13:19.279321
+mrp.rubiconproject.com,AVAILABILITY,origin.list,2022-03-22 07:13:19.367464
+sdk-config.fyber.com,AVAILABILITY,origin.list,2022-03-22 07:13:28.547054
+integration.sharethrough.com,AVAILABILITY,origin.list,2022-03-22 07:14:18.216010
+banner-gateway.supersonicads.com,AVAILABILITY,origin.list,2022-03-22 07:15:02.480185
+images.mxpnl.com,AVAILABILITY,origin.list,2022-03-22 07:15:43.027993
