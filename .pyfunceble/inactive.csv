@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mobilereport.agency,AVAILABILITY,origin.list,2022-03-22 14:34:09.754264
-screenshielded.com,AVAILABILITY,origin.list,2022-03-22 14:34:11.348034
-view-appleid.com,AVAILABILITY,origin.list,2022-03-22 14:34:14.247027
-global.appsflyer.com,AVAILABILITY,origin.list,2022-03-22 14:34:18.660795
 ads.aws.viber.com,AVAILABILITY,origin.list,2022-03-23 12:37:10.413033
 glance-internal.inmobi.com,AVAILABILITY,origin.list,2022-03-23 12:37:10.491697
 w.eastus.trafficmanager.inmobi.com,AVAILABILITY,origin.list,2022-03-23 12:37:10.789939
@@ -296,3 +292,7 @@ youyou.ezimar.com,AVAILABILITY,origin.list,2022-03-24 07:38:25.226238
 adlike.net,AVAILABILITY,origin.list,2022-03-24 08:17:56.909114
 www.comwgi.com,AVAILABILITY,origin.list,2022-03-24 10:29:25.327987
 www.binary1.website,AVAILABILITY,origin.list,2022-03-24 10:29:55.651205
+mobilereport.agency,AVAILABILITY,origin.list,2022-03-24 11:52:29.624209
+global.appsflyer.com,AVAILABILITY,origin.list,2022-03-24 11:52:30.162830
+view-appleid.com,AVAILABILITY,origin.list,2022-03-24 11:52:30.252015
+screenshielded.com,AVAILABILITY,origin.list,2022-03-24 11:52:30.257993
