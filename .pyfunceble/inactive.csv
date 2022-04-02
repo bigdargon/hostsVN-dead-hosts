@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rtb-mobfox.tenmax.io,AVAILABILITY,origin.list,2022-04-01 07:13:36.545476
-p-tky-ebs.adsymptotic.com,AVAILABILITY,origin.list,2022-04-01 07:34:46.437925
-apx.appier.net,AVAILABILITY,origin.list,2022-04-01 08:18:06.770618
-www.revsci.net,AVAILABILITY,origin.list,2022-04-01 08:28:36.194651
-ad132m.com,AVAILABILITY,origin.list,2022-04-01 09:25:38.142191
 b.logrocket.com,AVAILABILITY,origin.list,2022-04-01 14:02:24.945141
 pixel.logrocket.com,AVAILABILITY,origin.list,2022-04-01 14:02:25.862678
 telemetry.swiftkey.com,AVAILABILITY,origin.list,2022-04-01 14:02:26.475227
@@ -309,3 +304,4 @@ www.ezimar.com,AVAILABILITY,origin.list,2022-04-01 14:45:33.750642
 youyou.ezimar.com,AVAILABILITY,origin.list,2022-04-01 15:05:00.227331
 pix.hk.as.criteo.net,AVAILABILITY,origin.list,2022-04-02 05:53:21.097701
 ntvp.wpu.sh,AVAILABILITY,origin.list,2022-04-02 06:52:59.540348
+ad132m.com,AVAILABILITY,origin.list,2022-04-02 12:34:27.936038
