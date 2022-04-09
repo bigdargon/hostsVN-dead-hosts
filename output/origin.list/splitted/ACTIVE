@@ -15314,3 +15314,12 @@ www.revsci.net                                                                  
 cdn.serving.ad.org.vn                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 app.oncustomer.asia                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        301        AVAILABILITY 
 www.ad.org.vn                                                                                        ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+api-internal.oncustomer.asia                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.ad.org.vn                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn.serving.ad.org.vn                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+wifi-api2.adsplay.xyz                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+app.oncustomer.asia                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cp.adsplay.xyz                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+wifi.adsplay.xyz                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+sony1.adsplay.xyz                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cluster.adultworld.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 

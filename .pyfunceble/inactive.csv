@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-collect.igodigital.com,AVAILABILITY,origin.list,2022-04-08 08:03:00.711406
-cdn.serving.ad.org.vn,AVAILABILITY,origin.list,2022-04-08 08:21:25.934929
-www.ad.org.vn,AVAILABILITY,origin.list,2022-04-08 08:21:49.213578
-app.oncustomer.asia,AVAILABILITY,origin.list,2022-04-08 08:22:59.625721
-api-internal.oncustomer.asia,AVAILABILITY,origin.list,2022-04-08 08:23:03.575562
-cp.adsplay.xyz,AVAILABILITY,origin.list,2022-04-08 08:25:34.457673
-wifi.adsplay.xyz,AVAILABILITY,origin.list,2022-04-08 08:26:25.317720
-sony1.adsplay.xyz,AVAILABILITY,origin.list,2022-04-08 08:26:26.082255
-wifi-api2.adsplay.xyz,AVAILABILITY,origin.list,2022-04-08 08:26:37.174516
-cluster.adultworld.com,AVAILABILITY,origin.list,2022-04-08 09:47:22.994990
 u-on.eu,AVAILABILITY,origin.list,2022-04-08 15:49:38.164533
 native-creative.triplelift.com,AVAILABILITY,origin.list,2022-04-08 15:49:38.549917
 www.smartadnetwork.net,AVAILABILITY,origin.list,2022-04-08 15:49:38.736888
@@ -369,3 +359,4 @@ services.visualstudio.com,AVAILABILITY,origin.list,2022-04-09 15:01:25.958048
 vet-us-east-1.smaato.net,AVAILABILITY,origin.list,2022-04-09 15:01:26.715450
 pix.revsci.net,AVAILABILITY,origin.list,2022-04-09 15:01:27.308373
 log-global.aliyuncs.com,AVAILABILITY,origin.list,2022-04-09 15:01:52.990978
+collect.igodigital.com,AVAILABILITY,origin.list,2022-04-09 15:21:31.165371
