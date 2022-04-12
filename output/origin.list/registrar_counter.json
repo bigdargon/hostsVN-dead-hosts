@@ -1,0 +1,28 @@
+{
+    "counter": {
+        "Amazon Registrar, Inc.": 3,
+        "BigRock Solutions Ltd.": 1,
+        "DropCatch.com 600 LLC": 1,
+        "EPAG DOMAINSERVICES GmbH": 1,
+        "GoDaddy.com, LLC": 4,
+        "Gransy, s.r.o.": 1,
+        "MarkMonitor Inc.": 7,
+        "NameCheap, Inc.": 3,
+        "Regional Network Information Center, JSC dba RU-CENTER": 3,
+        "total": 25,
+        "阿里云计算有限公司（万网）": 1
+    },
+    "percentage": {
+        "Amazon Registrar, Inc.": 12.0,
+        "BigRock Solutions Ltd.": 4.0,
+        "DropCatch.com 600 LLC": 4.0,
+        "EPAG DOMAINSERVICES GmbH": 4.0,
+        "GoDaddy.com, LLC": 16.0,
+        "Gransy, s.r.o.": 4.0,
+        "MarkMonitor Inc.": 28.0,
+        "NameCheap, Inc.": 12.0,
+        "Regional Network Information Center, JSC dba RU-CENTER": 12.0,
+        "total": 100.0,
+        "阿里云计算有限公司（万网）": 4.0
+    }
+}
