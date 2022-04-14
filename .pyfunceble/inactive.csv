@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.pennet.com,AVAILABILITY,origin.list,2022-04-12 16:28:06.605776
-res.ayads.co,AVAILABILITY,origin.list,2022-04-13 13:39:54.903875
-seg.ayads.co,AVAILABILITY,origin.list,2022-04-13 13:39:55.695374
-chris-gcp.logrocket.io,AVAILABILITY,origin.list,2022-04-13 13:39:55.825197
-pub-sdk-cfg.criteo.com,AVAILABILITY,origin.list,2022-04-13 13:39:55.998018
-cdn.gameanalytics.com,AVAILABILITY,origin.list,2022-04-13 13:39:56.072444
-banner-gateway.supersonicads.com,AVAILABILITY,origin.list,2022-04-13 13:39:57.329950
-stats.unity3d.com,AVAILABILITY,origin.list,2022-04-13 13:39:57.512038
-apiv3.moengage.com,AVAILABILITY,origin.list,2022-04-13 13:39:57.511031
 xlmc.sec.miui.com,AVAILABILITY,origin.list,2022-04-14 05:52:01.048155
 exchange.unrulymedia.com,AVAILABILITY,origin.list,2022-04-14 06:27:43.984089
 adxxx.com,AVAILABILITY,origin.list,2022-04-14 07:11:48.412571
@@ -369,3 +360,12 @@ integration.sharethrough.com,AVAILABILITY,origin.list,2022-04-14 16:47:36.790564
 seg2.ayads.co,AVAILABILITY,origin.list,2022-04-14 16:47:37.660245
 hwstats.unity3d.com,AVAILABILITY,origin.list,2022-04-14 16:47:37.782648
 w.eastus.trafficmanager.inmobi.com,AVAILABILITY,origin.list,2022-04-14 16:47:38.047737
+chris-gcp.logrocket.io,AVAILABILITY,origin.list,2022-04-14 17:28:49.375548
+res.ayads.co,AVAILABILITY,origin.list,2022-04-14 17:28:49.500557
+seg.ayads.co,AVAILABILITY,origin.list,2022-04-14 17:28:49.519508
+cdn.gameanalytics.com,AVAILABILITY,origin.list,2022-04-14 17:28:50.633837
+pub-sdk-cfg.criteo.com,AVAILABILITY,origin.list,2022-04-14 17:28:51.428577
+banner-gateway.supersonicads.com,AVAILABILITY,origin.list,2022-04-14 17:28:51.454192
+apiv3.moengage.com,AVAILABILITY,origin.list,2022-04-14 17:28:52.221376
+stats.unity3d.com,AVAILABILITY,origin.list,2022-04-14 17:28:52.465508
+ads.pennet.com,AVAILABILITY,origin.list,2022-04-14 17:29:55.792495
