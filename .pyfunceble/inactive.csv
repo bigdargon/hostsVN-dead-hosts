@@ -1,14 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-xlmc.sec.miui.com,AVAILABILITY,origin.list,2022-04-14 05:52:01.048155
-exchange.unrulymedia.com,AVAILABILITY,origin.list,2022-04-14 06:27:43.984089
-adxxx.com,AVAILABILITY,origin.list,2022-04-14 07:11:48.412571
-cdn.asdfix.com,AVAILABILITY,origin.list,2022-04-14 07:41:35.271564
-p.asdfix.com,AVAILABILITY,origin.list,2022-04-14 07:41:36.354184
-relaido.jp,AVAILABILITY,origin.list,2022-04-14 07:57:45.018469
-perf.logsss.com,AVAILABILITY,origin.list,2022-04-14 08:00:32.455128
-rum.logsss.com,AVAILABILITY,origin.list,2022-04-14 08:00:33.433465
 entobservic.info,AVAILABILITY,origin.list,2022-04-14 09:45:20.836969
-massicrathem.info,AVAILABILITY,origin.list,2022-04-14 10:07:41.089373
 plugrush.com,AVAILABILITY,origin.list,2022-04-14 10:29:33.213986
 www.bzrmxfxu.com,AVAILABILITY,origin.list,2022-04-14 11:53:53.985280
 devwiki.mobfox.com,AVAILABILITY,origin.list,2022-04-14 14:41:37.602874
@@ -379,3 +370,9 @@ r-ad.ne.jp,AVAILABILITY,origin.list,2022-04-15 07:44:52.051855
 vnd247.vn,AVAILABILITY,origin.list,2022-04-15 08:45:09.073327
 extractorandburner.com,AVAILABILITY,origin.list,2022-04-15 09:51:26.487014
 www.binary1.website,AVAILABILITY,origin.list,2022-04-15 11:58:07.306702
+xlmc.sec.miui.com,AVAILABILITY,origin.list,2022-04-15 13:22:50.106334
+cdn.asdfix.com,AVAILABILITY,origin.list,2022-04-15 13:22:51.001467
+p.asdfix.com,AVAILABILITY,origin.list,2022-04-15 13:22:51.040390
+perf.logsss.com,AVAILABILITY,origin.list,2022-04-15 13:22:51.873175
+rum.logsss.com,AVAILABILITY,origin.list,2022-04-15 13:22:52.410593
+massicrathem.info,AVAILABILITY,origin.list,2022-04-15 13:23:13.330045
