@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-fp.measure.office.com,AVAILABILITY,origin.list,2022-04-20 05:41:06.915566
-cdn.im-apps.net,AVAILABILITY,origin.list,2022-04-20 06:52:26.498005
-pwm.exelator.com,AVAILABILITY,origin.list,2022-04-20 07:11:05.773175
-dev.adthrive.com,AVAILABILITY,origin.list,2022-04-20 07:13:49.851098
-adserver.quizdingo.com,AVAILABILITY,origin.list,2022-04-20 08:57:04.382061
-adworx.at,AVAILABILITY,origin.list,2022-04-20 08:58:54.908911
-dmtracking2.alibaba.com,AVAILABILITY,origin.list,2022-04-20 09:22:19.119614
-drumcash.com,AVAILABILITY,origin.list,2022-04-20 09:22:45.210384
 newclicks.appsflyer.com,AVAILABILITY,origin.list,2022-04-20 14:58:30.631212
 vektor-us-east-1.axonix.com,AVAILABILITY,origin.list,2022-04-20 14:58:34.440799
 adscdn.axonix.com,AVAILABILITY,origin.list,2022-04-20 14:58:34.686113
@@ -401,3 +393,4 @@ ad-track.adiiix.com,AVAILABILITY,origin.list,2022-04-21 08:18:09.739501
 ads.adiiix.com,AVAILABILITY,origin.list,2022-04-21 08:18:10.196701
 fleshlightcash.com,AVAILABILITY,origin.list,2022-04-21 10:06:09.445550
 kenbtec.github.io,AVAILABILITY,origin.list,2022-04-21 10:24:26.748888
+fp.measure.office.com,AVAILABILITY,origin.list,2022-04-21 13:36:31.910023
