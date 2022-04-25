@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-24 15:21:58.316307
 vl2.adsparc.com,AVAILABILITY,origin.list,2022-04-24 16:34:36.058224
 e.crashlytics.com,AVAILABILITY,origin.list,2022-04-24 16:34:36.067810
 api.traq.li,AVAILABILITY,origin.list,2022-04-24 16:34:36.509498
@@ -400,3 +399,4 @@ clck.lentainform.com,AVAILABILITY,origin.list,2022-04-25 16:21:14.591061
 my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-25 16:21:14.950038
 servicer.lentainform.com,AVAILABILITY,origin.list,2022-04-25 16:21:15.044474
 bc.mobisage.cn,AVAILABILITY,origin.list,2022-04-25 16:21:17.301785
+vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-25 16:41:14.834986
