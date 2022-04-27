@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-gadsecs.com,AVAILABILITY,origin.list,2022-04-26 07:02:57.543584
-gadsips.com,AVAILABILITY,origin.list,2022-04-26 07:02:58.824476
-gadsoks.com,AVAILABILITY,origin.list,2022-04-26 07:03:01.716109
-gadslims.com,AVAILABILITY,origin.list,2022-04-26 07:03:02.723081
-gadsipz.com,AVAILABILITY,origin.list,2022-04-26 07:03:06.824087
-gadsecz.com,AVAILABILITY,origin.list,2022-04-26 07:03:07.091333
-gadsimz.com,AVAILABILITY,origin.list,2022-04-26 07:03:07.611886
-iad-01.braze.com,AVAILABILITY,origin.list,2022-04-26 07:23:59.787767
-ateam-ad.jp,AVAILABILITY,origin.list,2022-04-26 07:41:15.419100
-openads.org,AVAILABILITY,origin.list,2022-04-26 10:12:17.819539
-popcain.com,AVAILABILITY,origin.list,2022-04-26 10:32:28.786867
-rtpdn10.com,AVAILABILITY,origin.list,2022-04-26 10:53:44.941007
-www.binary1.website,AVAILABILITY,origin.list,2022-04-26 11:58:08.066182
 vl2.adsparc.com,AVAILABILITY,origin.list,2022-04-27 00:19:25.835567
 e.crashlytics.com,AVAILABILITY,origin.list,2022-04-27 00:19:26.382904
 vl4.adsparc.com,AVAILABILITY,origin.list,2022-04-27 00:19:26.691762
@@ -414,3 +401,13 @@ adimg.cbsi.com,AVAILABILITY,origin.list,2022-04-27 08:33:12.167011
 assignedlikecrawford.com,AVAILABILITY,origin.list,2022-04-27 08:56:15.360608
 ivwbox.de,AVAILABILITY,origin.list,2022-04-27 09:38:54.629552
 www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-04-27 12:24:45.119514
+gadsecs.com,AVAILABILITY,origin.list,2022-04-27 14:10:44.065143
+gadsips.com,AVAILABILITY,origin.list,2022-04-27 14:10:44.251636
+gadsoks.com,AVAILABILITY,origin.list,2022-04-27 14:10:45.008920
+gadslims.com,AVAILABILITY,origin.list,2022-04-27 14:10:45.342483
+gadsipz.com,AVAILABILITY,origin.list,2022-04-27 14:10:45.556796
+gadsecz.com,AVAILABILITY,origin.list,2022-04-27 14:10:46.155193
+gadsimz.com,AVAILABILITY,origin.list,2022-04-27 14:10:46.625271
+popcain.com,AVAILABILITY,origin.list,2022-04-27 14:10:47.710285
+rtpdn10.com,AVAILABILITY,origin.list,2022-04-27 14:10:48.154627
+www.binary1.website,AVAILABILITY,origin.list,2022-04-27 14:11:44.097035
