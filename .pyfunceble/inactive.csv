@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.pennet.com,AVAILABILITY,origin.list,2022-04-24 17:59:45.325800
-my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-25 16:21:14.950038
-bc.mobisage.cn,AVAILABILITY,origin.list,2022-04-25 16:21:17.301785
-vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-25 16:41:14.834986
 gadsecs.com,AVAILABILITY,origin.list,2022-04-26 07:02:57.543584
 gadsips.com,AVAILABILITY,origin.list,2022-04-26 07:02:58.824476
 gadsoks.com,AVAILABILITY,origin.list,2022-04-26 07:03:01.716109
@@ -404,3 +400,7 @@ rm2.adtilt.com,AVAILABILITY,origin.list,2022-04-27 01:43:44.723985
 cm.lentainform.com,AVAILABILITY,origin.list,2022-04-27 01:43:45.337273
 clck.lentainform.com,AVAILABILITY,origin.list,2022-04-27 01:43:45.521021
 servicer.lentainform.com,AVAILABILITY,origin.list,2022-04-27 01:44:14.361335
+bc.mobisage.cn,AVAILABILITY,origin.list,2022-04-27 02:04:37.358843
+my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-27 02:04:38.924898
+vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-04-27 02:04:38.980042
+ads.pennet.com,AVAILABILITY,origin.list,2022-04-27 02:05:42.639141
