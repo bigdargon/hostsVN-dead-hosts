@@ -1,16 +1,8 @@
 idna_subject,checker_type,destination,tested_at
-ad.about.com,AVAILABILITY,origin.list,2022-04-28 14:23:51.127455
 action-rtb.ibillboard.com,AVAILABILITY,origin.list,2022-04-28 14:23:51.444280
-ads.ask.com,AVAILABILITY,origin.list,2022-04-28 14:23:52.032859
 ads.jiwire.com,AVAILABILITY,origin.list,2022-04-28 14:23:52.356443
 log.o2o.service.zaloapp.com,AVAILABILITY,origin.list,2022-04-28 14:23:52.600579
-ad.altervista.org,AVAILABILITY,origin.list,2022-04-28 14:23:53.643114
-api.appsee.com,AVAILABILITY,origin.list,2022-04-28 14:23:54.898225
-indochina.mangoads.vn,AVAILABILITY,origin.list,2022-04-28 14:23:55.160646
-fbg.mangoads.vn,AVAILABILITY,origin.list,2022-04-28 14:23:55.691567
 anc.mangoads.vn,AVAILABILITY,origin.list,2022-04-28 14:23:56.528870
-adserver.libero.it,AVAILABILITY,origin.list,2022-04-28 14:23:56.645276
-thecliff.mangoads.vn,AVAILABILITY,origin.list,2022-04-28 14:23:58.343911
 facebookz.co,AVAILABILITY,origin.list,2022-04-28 14:23:58.931962
 ads.ncm.com,AVAILABILITY,origin.list,2022-04-28 14:24:00.956443
 phuclong2.mangoads.vn,AVAILABILITY,origin.list,2022-04-28 14:24:01.365043
@@ -392,3 +384,11 @@ media.adasiaholdings.com,AVAILABILITY,origin.list,2022-04-29 19:30:06.659736
 ad.caradisiac.com,AVAILABILITY,origin.list,2022-04-29 19:30:06.999751
 ads-target.coccoc.com,AVAILABILITY,origin.list,2022-04-29 19:30:08.014750
 www.vietnamnetad.vn,AVAILABILITY,origin.list,2022-04-29 19:30:27.864839
+ads.ask.com,AVAILABILITY,origin.list,2022-04-29 19:50:35.977217
+ad.altervista.org,AVAILABILITY,origin.list,2022-04-29 19:50:42.246332
+ad.about.com,AVAILABILITY,origin.list,2022-04-29 19:50:50.029516
+api.appsee.com,AVAILABILITY,origin.list,2022-04-29 19:50:53.294052
+indochina.mangoads.vn,AVAILABILITY,origin.list,2022-04-29 19:50:59.414161
+fbg.mangoads.vn,AVAILABILITY,origin.list,2022-04-29 19:51:05.643579
+adserver.libero.it,AVAILABILITY,origin.list,2022-04-29 19:51:06.743766
+thecliff.mangoads.vn,AVAILABILITY,origin.list,2022-04-29 19:51:16.190288
