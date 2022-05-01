@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.pennet.com,AVAILABILITY,origin.list,2022-04-30 02:16:14.767907
-s1.admarket.network,AVAILABILITY,origin.list,2022-04-30 14:18:40.111353
 staging.kargo.com,AVAILABILITY,origin.list,2022-05-01 07:02:15.337981
 apx.appier.net,AVAILABILITY,origin.list,2022-05-01 07:06:13.350479
 www.binary1.website,AVAILABILITY,origin.list,2022-05-01 11:38:31.377591
@@ -389,3 +387,5 @@ vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-01 15:08:13.713902
 rtpdn10.com,AVAILABILITY,origin.list,2022-05-01 15:08:13.968066
 my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-01 15:08:14.389948
 www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-01 15:08:41.817892
+s1.admarket.network,AVAILABILITY,origin.list,2022-05-01 15:29:24.318956
+ads.pennet.com,AVAILABILITY,origin.list,2022-05-01 15:30:25.075614
