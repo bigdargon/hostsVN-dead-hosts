@@ -1,15 +1,8 @@
 idna_subject,checker_type,destination,tested_at
 api.safedk.com,AVAILABILITY,origin.list,2022-05-01 14:47:10.233401
-www.addthiscdn.com,AVAILABILITY,origin.list,2022-05-01 14:47:16.414807
-a2.server.cpmstar.com,AVAILABILITY,origin.list,2022-05-01 14:47:17.348166
-cts.ad.daum.net,AVAILABILITY,origin.list,2022-05-01 14:47:18.195995
 youyou.ezimar.com,AVAILABILITY,origin.list,2022-05-01 14:47:21.991027
 www.ezimar.com,AVAILABILITY,origin.list,2022-05-01 14:47:22.196551
 www.bzrmxfxu.com,AVAILABILITY,origin.list,2022-05-01 14:47:23.431621
-cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2022-05-01 14:47:23.874676
-images.mxpnl.com,AVAILABILITY,origin.list,2022-05-01 14:47:23.929221
-lg.appnexus.com,AVAILABILITY,origin.list,2022-05-01 14:47:23.988363
-portal.ad4screen.com,AVAILABILITY,origin.list,2022-05-01 14:47:24.360354
 s07.id5-sync.com,AVAILABILITY,origin.list,2022-05-01 14:47:24.753673
 s03.id5-sync.com,AVAILABILITY,origin.list,2022-05-01 14:47:24.845461
 vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-05-01 14:47:25.095181
@@ -390,3 +383,12 @@ s08.id5-sync.com,AVAILABILITY,origin.list,2022-05-02 15:46:03.269024
 c.union.ucweb.com,AVAILABILITY,origin.list,2022-05-02 15:46:03.380108
 kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-05-02 15:46:09.292492
 vietravel.ezimar.com,AVAILABILITY,origin.list,2022-05-02 15:46:27.862494
+www.0i0i0i0.com,AVAILABILITY,origin.list,2022-05-02 15:55:55.802931
+1004.hostedprebid.com,AVAILABILITY,origin.list,2022-05-02 15:55:58.949494
+a2.server.cpmstar.com,AVAILABILITY,origin.list,2022-05-02 16:07:06.881933
+cts.ad.daum.net,AVAILABILITY,origin.list,2022-05-02 16:07:07.518776
+www.addthiscdn.com,AVAILABILITY,origin.list,2022-05-02 16:07:08.154706
+cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2022-05-02 16:07:10.271481
+images.mxpnl.com,AVAILABILITY,origin.list,2022-05-02 16:07:12.245354
+lg.appnexus.com,AVAILABILITY,origin.list,2022-05-02 16:07:13.128181
+portal.ad4screen.com,AVAILABILITY,origin.list,2022-05-02 16:07:14.763317
