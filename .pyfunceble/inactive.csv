@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-fp.measure.office.com,AVAILABILITY,origin.list,2022-05-02 05:35:38.265105
-hb.pubmatic.com,AVAILABILITY,origin.list,2022-05-02 05:52:40.577428
-cdn-b.yieldlove.com,AVAILABILITY,origin.list,2022-05-02 06:41:48.976925
-dm.gg,AVAILABILITY,origin.list,2022-05-02 12:06:34.884761
 vl2.adsparc.com,AVAILABILITY,origin.list,2022-05-02 14:32:27.574379
 performanceleading.com,AVAILABILITY,origin.list,2022-05-02 14:32:27.674261
 e.crashlytics.com,AVAILABILITY,origin.list,2022-05-02 14:32:27.794290
@@ -400,3 +396,4 @@ ivwbox.de,AVAILABILITY,origin.list,2022-05-03 09:30:03.530530
 collect.data.tm-awx.com,AVAILABILITY,origin.list,2022-05-03 11:50:46.266388
 matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-03 11:52:12.174835
 analytics.edgekey.net,AVAILABILITY,origin.list,2022-05-03 12:00:32.856970
+hb.pubmatic.com,AVAILABILITY,origin.list,2022-05-03 14:27:42.954032
