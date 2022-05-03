@@ -1,18 +1,8 @@
 idna_subject,checker_type,destination,tested_at
-urchrevening.info,AVAILABILITY,origin.list,2022-05-02 15:45:21.674723
 ezdns.ezimar.com,AVAILABILITY,origin.list,2022-05-02 15:45:27.413045
 caohavan.ezimar.com,AVAILABILITY,origin.list,2022-05-02 15:45:27.530765
-vpn2.bam-x.com,AVAILABILITY,origin.list,2022-05-02 15:45:28.538335
-vi.gumgum.com,AVAILABILITY,origin.list,2022-05-02 15:45:28.541419
-ousseventi.info,AVAILABILITY,origin.list,2022-05-02 15:45:28.786912
-imap.netcoresmartech.com,AVAILABILITY,origin.list,2022-05-02 15:45:29.544081
-cdn.admarvel.com,AVAILABILITY,origin.list,2022-05-02 15:45:29.619431
-ums.adtechus.com,AVAILABILITY,origin.list,2022-05-02 15:45:50.476323
 tanyen.ezimar.com,AVAILABILITY,origin.list,2022-05-02 15:45:57.679513
 server.ezimar.com,AVAILABILITY,origin.list,2022-05-02 15:45:57.693945
-mon1.marketo.com,AVAILABILITY,origin.list,2022-05-02 15:45:57.752033
-s01.id5-sync.com,AVAILABILITY,origin.list,2022-05-02 15:45:58.488686
-rpc.adpopcorn.com,AVAILABILITY,origin.list,2022-05-02 15:45:58.621190
 ad.daum.net,AVAILABILITY,origin.list,2022-05-02 15:46:00.086293
 assets.prebid.org,AVAILABILITY,origin.list,2022-05-02 15:46:01.257266
 alea.adam.ad.daum.net,AVAILABILITY,origin.list,2022-05-02 15:46:01.358932
@@ -395,3 +385,13 @@ cdn.88-f.net,AVAILABILITY,origin.list,2022-05-03 18:57:37.003258
 urgent-notice.com,AVAILABILITY,origin.list,2022-05-03 18:57:37.745380
 info2.bizible.com,AVAILABILITY,origin.list,2022-05-03 18:57:37.973468
 frionene.xyz,AVAILABILITY,origin.list,2022-05-03 18:57:38.574504
+vpn2.bam-x.com,AVAILABILITY,origin.list,2022-05-03 19:18:17.212275
+vi.gumgum.com,AVAILABILITY,origin.list,2022-05-03 19:18:17.272024
+urchrevening.info,AVAILABILITY,origin.list,2022-05-03 19:18:17.976981
+imap.netcoresmartech.com,AVAILABILITY,origin.list,2022-05-03 19:18:18.420854
+cdn.admarvel.com,AVAILABILITY,origin.list,2022-05-03 19:18:18.843521
+ums.adtechus.com,AVAILABILITY,origin.list,2022-05-03 19:18:19.359973
+ousseventi.info,AVAILABILITY,origin.list,2022-05-03 19:18:20.692076
+mon1.marketo.com,AVAILABILITY,origin.list,2022-05-03 19:18:21.461959
+s01.id5-sync.com,AVAILABILITY,origin.list,2022-05-03 19:18:22.135597
+rpc.adpopcorn.com,AVAILABILITY,origin.list,2022-05-03 19:18:23.039795
