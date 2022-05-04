@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-gssprt.jp,AVAILABILITY,origin.list,2022-05-03 06:12:42.053474
-dmx.districtm.io,AVAILABILITY,origin.list,2022-05-03 06:35:32.652947
-relaido.jp,AVAILABILITY,origin.list,2022-05-03 07:18:31.356490
-nanda.vn,AVAILABILITY,origin.list,2022-05-03 07:45:17.947952
-ivwbox.de,AVAILABILITY,origin.list,2022-05-03 09:30:03.530530
-collect.data.tm-awx.com,AVAILABILITY,origin.list,2022-05-03 11:50:46.266388
-matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-03 11:52:12.174835
-analytics.edgekey.net,AVAILABILITY,origin.list,2022-05-03 12:00:32.856970
 hb.pubmatic.com,AVAILABILITY,origin.list,2022-05-03 14:27:42.954032
 vl4.adsparc.com,AVAILABILITY,origin.list,2022-05-03 15:09:11.518154
 vl2.adsparc.com,AVAILABILITY,origin.list,2022-05-03 15:09:11.535146
@@ -399,3 +391,7 @@ o.agentanalytics.com,AVAILABILITY,origin.list,2022-05-04 05:37:18.175174
 p.agentanalytics.com,AVAILABILITY,origin.list,2022-05-04 05:37:18.989797
 t.agentanalytics.com,AVAILABILITY,origin.list,2022-05-04 05:37:20.643626
 u.agentanalytics.com,AVAILABILITY,origin.list,2022-05-04 05:37:20.955036
+dmx.districtm.io,AVAILABILITY,origin.list,2022-05-04 14:46:58.510592
+collect.data.tm-awx.com,AVAILABILITY,origin.list,2022-05-04 14:47:00.178597
+analytics.edgekey.net,AVAILABILITY,origin.list,2022-05-04 14:47:01.203717
+matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-04 14:47:03.577020
