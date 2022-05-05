@@ -1,19 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-preview.ad.daum.net,AVAILABILITY,origin.list,2022-05-03 22:04:17.317624
-new.img.24smi.net,AVAILABILITY,origin.list,2022-05-03 22:45:00.204993
-www.bzrmxfxu.com,AVAILABILITY,origin.list,2022-05-03 22:45:07.373303
-vietravel.ezimar.com,AVAILABILITY,origin.list,2022-05-03 22:45:07.430381
-www.ezimar.com,AVAILABILITY,origin.list,2022-05-03 22:45:07.517962
-youyou.ezimar.com,AVAILABILITY,origin.list,2022-05-03 22:45:07.596361
-m.faktor.io,AVAILABILITY,origin.list,2022-05-03 22:45:08.569062
-js.mobileoffers-bn-download.com,AVAILABILITY,origin.list,2022-05-03 22:45:09.185960
-intranet.faktor.io,AVAILABILITY,origin.list,2022-05-03 22:45:10.220147
-cm.send.microadinc.com,AVAILABILITY,origin.list,2022-05-03 22:45:10.235085
-analytics2.ad.daum.net,AVAILABILITY,origin.list,2022-05-03 22:45:10.636627
 tessera.ad.daum.net,AVAILABILITY,origin.list,2022-05-03 22:45:10.822512
 api.safedk.com,AVAILABILITY,origin.list,2022-05-03 22:45:11.000614
-faktornet.faktor.io,AVAILABILITY,origin.list,2022-05-03 22:45:11.101843
-gitlab.connatix.com,AVAILABILITY,origin.list,2022-05-03 22:45:11.584349
 data-eu-west-1.axonix.com,AVAILABILITY,origin.list,2022-05-03 22:45:11.882435
 ads-us-east-1.axonix.com,AVAILABILITY,origin.list,2022-05-03 22:45:12.248245
 dsp.send.microadinc.com,AVAILABILITY,origin.list,2022-05-03 22:45:12.400859
@@ -398,3 +385,16 @@ api-internal-us-east-1.mathtag.com,AVAILABILITY,origin.list,2022-05-05 16:54:07.
 stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2022-05-05 16:54:08.128773
 kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-05-05 16:54:08.218438
 s11.id5-sync.com,AVAILABILITY,origin.list,2022-05-05 16:54:08.647023
+new.img.24smi.net,AVAILABILITY,origin.list,2022-05-05 17:14:45.590494
+preview.ad.daum.net,AVAILABILITY,origin.list,2022-05-05 17:14:47.950340
+m.faktor.io,AVAILABILITY,origin.list,2022-05-05 17:14:48.829387
+js.mobileoffers-bn-download.com,AVAILABILITY,origin.list,2022-05-05 17:14:49.763330
+intranet.faktor.io,AVAILABILITY,origin.list,2022-05-05 17:14:50.562189
+cm.send.microadinc.com,AVAILABILITY,origin.list,2022-05-05 17:14:51.772472
+analytics2.ad.daum.net,AVAILABILITY,origin.list,2022-05-05 17:14:54.818745
+www.bzrmxfxu.com,AVAILABILITY,origin.list,2022-05-05 17:14:55.850316
+www.ezimar.com,AVAILABILITY,origin.list,2022-05-05 17:14:56.294907
+vietravel.ezimar.com,AVAILABILITY,origin.list,2022-05-05 17:14:56.303366
+youyou.ezimar.com,AVAILABILITY,origin.list,2022-05-05 17:14:56.866119
+gitlab.connatix.com,AVAILABILITY,origin.list,2022-05-05 17:14:57.106134
+faktornet.faktor.io,AVAILABILITY,origin.list,2022-05-05 17:14:57.149577
