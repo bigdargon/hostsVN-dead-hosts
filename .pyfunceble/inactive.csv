@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-05 18:17:14.978907
-vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-05 18:17:15.091337
-dmx.districtm.io,AVAILABILITY,origin.list,2022-05-05 18:17:17.449029
-u.agentanalytics.com,AVAILABILITY,origin.list,2022-05-05 18:17:17.577391
-analytics.edgekey.net,AVAILABILITY,origin.list,2022-05-05 18:17:18.575571
-matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-05 18:17:20.440028
-www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-05 18:17:23.203869
-ads.pennet.com,AVAILABILITY,origin.list,2022-05-05 18:18:15.844920
-hb.pubmatic.com,AVAILABILITY,origin.list,2022-05-06 05:39:55.757655
-pbs01.automatad.com,AVAILABILITY,origin.list,2022-05-06 06:41:32.159525
-pbc.automatad.com,AVAILABILITY,origin.list,2022-05-06 06:41:32.597010
-rtb2.automatad.com,AVAILABILITY,origin.list,2022-05-06 06:41:32.832323
-ads.harpers.org,AVAILABILITY,origin.list,2022-05-06 08:31:03.502413
 fp.measure.office.com,AVAILABILITY,origin.list,2022-05-07 05:22:26.920868
 px.quantserve.com,AVAILABILITY,origin.list,2022-05-07 05:45:50.685820
 gsspat.jp,AVAILABILITY,origin.list,2022-05-07 05:57:57.946638
@@ -413,3 +400,15 @@ s1.admarket.network,AVAILABILITY,origin.list,2022-05-07 19:29:23.257142
 bc.mobisage.cn,AVAILABILITY,origin.list,2022-05-07 19:29:23.361190
 p.agentanalytics.com,AVAILABILITY,origin.list,2022-05-07 19:29:23.705600
 collect.data.tm-awx.com,AVAILABILITY,origin.list,2022-05-07 19:29:24.038506
+u.agentanalytics.com,AVAILABILITY,origin.list,2022-05-07 19:50:51.133559
+dmx.districtm.io,AVAILABILITY,origin.list,2022-05-07 19:50:51.199532
+analytics.edgekey.net,AVAILABILITY,origin.list,2022-05-07 19:50:51.576569
+my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-07 19:50:54.185851
+vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-07 19:50:54.519292
+matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-07 19:50:54.669095
+pbs01.automatad.com,AVAILABILITY,origin.list,2022-05-07 19:50:55.370567
+pbc.automatad.com,AVAILABILITY,origin.list,2022-05-07 19:50:55.562865
+rtb2.automatad.com,AVAILABILITY,origin.list,2022-05-07 19:50:56.212142
+ads.harpers.org,AVAILABILITY,origin.list,2022-05-07 19:50:56.246081
+www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-07 19:51:02.472653
+ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
