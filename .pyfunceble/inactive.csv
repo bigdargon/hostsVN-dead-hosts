@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 admin.runative.com,AVAILABILITY,origin.list,2022-05-07 06:09:54.168367
 auth.runative.com,AVAILABILITY,origin.list,2022-05-07 06:09:57.100066
-pusher.staging.runative.com,AVAILABILITY,origin.list,2022-05-07 06:09:58.985996
 rotator.staging.runative.com,AVAILABILITY,origin.list,2022-05-07 06:09:59.493888
 single.runative.com,AVAILABILITY,origin.list,2022-05-07 06:10:06.036523
 staging.runative.com,AVAILABILITY,origin.list,2022-05-07 06:10:06.659973
@@ -415,3 +414,4 @@ ateam-ad.jp,AVAILABILITY,origin.list,2022-05-08 06:58:11.724283
 testcentre.vn,AVAILABILITY,origin.list,2022-05-08 07:37:29.649205
 jg.wensixuetang.com,AVAILABILITY,origin.list,2022-05-08 11:43:33.488904
 api.runative.com,AVAILABILITY,origin.list,2022-05-08 15:01:42.769895
+pusher.staging.runative.com,AVAILABILITY,origin.list,2022-05-08 15:22:32.157847
