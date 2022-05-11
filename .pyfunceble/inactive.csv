@@ -1,7 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-vektor-us-east-1.axonix.com,AVAILABILITY,origin.list,2022-05-07 19:29:09.687167
 stmp.ad.daum.net,AVAILABILITY,origin.list,2022-05-07 19:29:09.900378
-trk.eskimi.com,AVAILABILITY,origin.list,2022-05-07 19:29:10.898580
 legacy-ads.axonix.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.818117
 res.adxplay.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.860235
 static-res.adxplay.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.971333
@@ -431,3 +429,5 @@ www.da-ads.com,AVAILABILITY,origin.list,2022-05-11 03:28:17.203159
 api-hw.adxplay.com,AVAILABILITY,origin.list,2022-05-11 03:28:17.538761
 s-eu-west-1.axonix.com,AVAILABILITY,origin.list,2022-05-11 03:28:17.847049
 ads.axonix.com,AVAILABILITY,origin.list,2022-05-11 03:28:18.307072
+vektor-us-east-1.axonix.com,AVAILABILITY,origin.list,2022-05-11 04:51:17.271493
+trk.eskimi.com,AVAILABILITY,origin.list,2022-05-11 04:51:17.636645
