@@ -1,8 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 stmp.ad.daum.net,AVAILABILITY,origin.list,2022-05-07 19:29:09.900378
-legacy-ads.axonix.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.818117
-res.adxplay.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.860235
-static-res.adxplay.com,AVAILABILITY,origin.list,2022-05-07 19:29:11.971333
 www.dfbanners.com,AVAILABILITY,origin.list,2022-05-07 19:29:12.165457
 dync2.c.appier.net,AVAILABILITY,origin.list,2022-05-07 19:29:12.782692
 track.vdo.ai,AVAILABILITY,origin.list,2022-05-07 19:29:12.834074
@@ -436,3 +433,6 @@ cdna.adgrx.com,AVAILABILITY,origin.list,2022-05-11 06:19:37.145099
 stag.beeketing.com,AVAILABILITY,origin.list,2022-05-11 06:52:36.749679
 ad.jiguang.cn,AVAILABILITY,origin.list,2022-05-11 08:04:42.580780
 quarterserver.de,AVAILABILITY,origin.list,2022-05-11 09:59:30.413907
+legacy-ads.axonix.com,AVAILABILITY,origin.list,2022-05-12 00:50:35.494886
+res.adxplay.com,AVAILABILITY,origin.list,2022-05-12 00:50:35.599053
+static-res.adxplay.com,AVAILABILITY,origin.list,2022-05-12 00:50:35.688121
