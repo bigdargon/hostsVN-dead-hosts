@@ -1,17 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
-vietnamhouse.mangoads.vn,AVAILABILITY,origin.list,2022-05-10 02:35:46.368685
-hwstats.unity3d.com,AVAILABILITY,origin.list,2022-05-11 01:41:08.975209
-pub-sdk-cfg.criteo.com,AVAILABILITY,origin.list,2022-05-11 01:41:09.207152
-rum.logsss.com,AVAILABILITY,origin.list,2022-05-11 01:41:09.760965
-xlmc.sec.miui.com,AVAILABILITY,origin.list,2022-05-11 01:41:10.233212
-fadslims.com,AVAILABILITY,origin.list,2022-05-11 01:41:10.728502
 quangcao.eva.vn,AVAILABILITY,origin.list,2022-05-11 01:41:11.459310
-extractorandburner.com,AVAILABILITY,origin.list,2022-05-11 01:41:12.409244
-fadsabs.com,AVAILABILITY,origin.list,2022-05-11 01:41:13.443469
 rsyslog.24h.com.vn,AVAILABILITY,origin.list,2022-05-11 01:41:14.265490
-fadsips.com,AVAILABILITY,origin.list,2022-05-11 01:41:14.332329
-fadsecs.com,AVAILABILITY,origin.list,2022-05-11 01:41:15.373315
 stats.unity3d.com,AVAILABILITY,origin.list,2022-05-11 01:41:15.847240
 getedicta.info,AVAILABILITY,origin.list,2022-05-11 01:41:16.560961
 mautic.yola.vn,AVAILABILITY,origin.list,2022-05-11 01:41:16.709236
@@ -424,3 +414,13 @@ f2.ad.gt,AVAILABILITY,origin.list,2022-05-15 06:45:15.266163
 p2.ad.gt,AVAILABILITY,origin.list,2022-05-15 06:45:15.276533
 pq.ad.gt,AVAILABILITY,origin.list,2022-05-15 06:45:15.553283
 perf.logsss.com,AVAILABILITY,origin.list,2022-05-15 06:45:16.124277
+rum.logsss.com,AVAILABILITY,origin.list,2022-05-15 07:21:26.231579
+pub-sdk-cfg.criteo.com,AVAILABILITY,origin.list,2022-05-15 07:21:26.887056
+hwstats.unity3d.com,AVAILABILITY,origin.list,2022-05-15 07:21:26.905479
+xlmc.sec.miui.com,AVAILABILITY,origin.list,2022-05-15 07:21:27.278458
+fadslims.com,AVAILABILITY,origin.list,2022-05-15 07:21:28.308510
+extractorandburner.com,AVAILABILITY,origin.list,2022-05-15 07:21:28.342897
+vietnamhouse.mangoads.vn,AVAILABILITY,origin.list,2022-05-15 07:21:28.439179
+fadsabs.com,AVAILABILITY,origin.list,2022-05-15 07:21:29.522774
+fadsips.com,AVAILABILITY,origin.list,2022-05-15 07:21:29.627598
+fadsecs.com,AVAILABILITY,origin.list,2022-05-15 07:21:30.571395
