@@ -1,8 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
-s.vclick.vn,AVAILABILITY,origin.list,2022-05-12 01:52:44.329388
-popcain.com,AVAILABILITY,origin.list,2022-05-12 01:52:44.495053
-gadsecs.com,AVAILABILITY,origin.list,2022-05-12 01:52:44.896675
 gadsoks.com,AVAILABILITY,origin.list,2022-05-12 01:52:45.073120
 gadsipz.com,AVAILABILITY,origin.list,2022-05-12 01:52:45.454029
 gadsips.com,AVAILABILITY,origin.list,2022-05-12 01:52:45.628593
@@ -421,3 +418,6 @@ prebid.fqtag.com,AVAILABILITY,origin.list,2022-05-15 18:51:13.102832
 servicer.lentainform.com,AVAILABILITY,origin.list,2022-05-15 18:51:13.113427
 clck.lentainform.com,AVAILABILITY,origin.list,2022-05-15 18:51:13.214741
 rm2.adtilt.com,AVAILABILITY,origin.list,2022-05-15 18:51:13.775407
+s.vclick.vn,AVAILABILITY,origin.list,2022-05-15 19:54:14.540867
+popcain.com,AVAILABILITY,origin.list,2022-05-15 19:54:14.755324
+gadsecs.com,AVAILABILITY,origin.list,2022-05-15 19:54:14.774845
