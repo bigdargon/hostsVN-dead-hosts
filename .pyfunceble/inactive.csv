@@ -1,13 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
-quangcao.eva.vn,AVAILABILITY,origin.list,2022-05-11 01:41:11.459310
-rsyslog.24h.com.vn,AVAILABILITY,origin.list,2022-05-11 01:41:14.265490
-stats.unity3d.com,AVAILABILITY,origin.list,2022-05-11 01:41:15.847240
-getedicta.info,AVAILABILITY,origin.list,2022-05-11 01:41:16.560961
-mautic.yola.vn,AVAILABILITY,origin.list,2022-05-11 01:41:16.709236
-massicrathem.info,AVAILABILITY,origin.list,2022-05-11 01:41:16.749584
-entobservic.info,AVAILABILITY,origin.list,2022-05-11 01:41:17.560169
-fadsokz.com,AVAILABILITY,origin.list,2022-05-11 01:41:17.728627
 mautic.emso.vn,AVAILABILITY,origin.list,2022-05-11 01:41:18.233097
 dev.mobfox.com,AVAILABILITY,origin.list,2022-05-11 01:41:18.271828
 devwiki.mobfox.com,AVAILABILITY,origin.list,2022-05-11 01:41:19.108769
@@ -424,3 +416,11 @@ vietnamhouse.mangoads.vn,AVAILABILITY,origin.list,2022-05-15 07:21:28.439179
 fadsabs.com,AVAILABILITY,origin.list,2022-05-15 07:21:29.522774
 fadsips.com,AVAILABILITY,origin.list,2022-05-15 07:21:29.627598
 fadsecs.com,AVAILABILITY,origin.list,2022-05-15 07:21:30.571395
+stats.unity3d.com,AVAILABILITY,origin.list,2022-05-15 09:05:52.766985
+getedicta.info,AVAILABILITY,origin.list,2022-05-15 09:05:53.518020
+rsyslog.24h.com.vn,AVAILABILITY,origin.list,2022-05-15 09:05:53.865455
+quangcao.eva.vn,AVAILABILITY,origin.list,2022-05-15 09:05:55.120544
+entobservic.info,AVAILABILITY,origin.list,2022-05-15 09:05:55.349808
+fadsokz.com,AVAILABILITY,origin.list,2022-05-15 09:05:56.337987
+massicrathem.info,AVAILABILITY,origin.list,2022-05-15 09:05:56.654658
+mautic.yola.vn,AVAILABILITY,origin.list,2022-05-15 09:05:56.696363
