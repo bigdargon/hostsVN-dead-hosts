@@ -2,8 +2,6 @@ idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
 a.anthill.vn,AVAILABILITY,origin.list,2022-05-13 18:10:24.058431
 url.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-13 18:10:28.968313
-api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-13 18:10:29.226163
-madskiz.com,AVAILABILITY,origin.list,2022-05-13 18:10:29.366782
 roughexampler.info,AVAILABILITY,origin.list,2022-05-13 18:10:30.429092
 croissed.info,AVAILABILITY,origin.list,2022-05-13 18:10:32.593854
 casterist.info,AVAILABILITY,origin.list,2022-05-13 18:10:33.672968
@@ -416,3 +414,5 @@ sadsanz.com,AVAILABILITY,origin.list,2022-05-16 04:16:18.084575
 madsabz.com,AVAILABILITY,origin.list,2022-05-16 04:16:18.328337
 pix.hk.as.criteo.net,AVAILABILITY,origin.list,2022-05-16 04:16:19.190801
 hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-16 04:16:21.047732
+madskiz.com,AVAILABILITY,origin.list,2022-05-16 05:39:52.629659
+api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-16 05:39:54.483242
