@@ -1,10 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
 a.anthill.vn,AVAILABILITY,origin.list,2022-05-13 18:10:24.058431
-hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-13 18:10:27.329571
-sadsanz.com,AVAILABILITY,origin.list,2022-05-13 18:10:27.601187
-madsabz.com,AVAILABILITY,origin.list,2022-05-13 18:10:28.282545
-pix.hk.as.criteo.net,AVAILABILITY,origin.list,2022-05-13 18:10:28.426099
 url.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-13 18:10:28.968313
 api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-13 18:10:29.226163
 madskiz.com,AVAILABILITY,origin.list,2022-05-13 18:10:29.366782
@@ -416,3 +412,7 @@ ad132m.com,AVAILABILITY,origin.list,2022-05-16 01:49:29.731879
 stormyshock.com,AVAILABILITY,origin.list,2022-05-16 01:49:29.960986
 app.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-16 01:49:32.563899
 carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-16 03:54:49.316466
+sadsanz.com,AVAILABILITY,origin.list,2022-05-16 04:16:18.084575
+madsabz.com,AVAILABILITY,origin.list,2022-05-16 04:16:18.328337
+pix.hk.as.criteo.net,AVAILABILITY,origin.list,2022-05-16 04:16:19.190801
+hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-16 04:16:21.047732
