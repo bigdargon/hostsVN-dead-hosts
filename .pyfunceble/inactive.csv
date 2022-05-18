@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-07 19:51:52.250921
 my-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-15 20:36:13.417143
-vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-15 20:36:13.627416
 matomo.magicmarketing.vn,AVAILABILITY,origin.list,2022-05-15 20:36:13.679789
 api.safedk.com,AVAILABILITY,origin.list,2022-05-15 20:36:20.707683
 e.crashlytics.com,AVAILABILITY,origin.list,2022-05-15 20:36:21.358854
@@ -418,3 +417,4 @@ rtb2.automatad.com,AVAILABILITY,origin.list,2022-05-18 06:20:44.966945
 s1.admarket.network,AVAILABILITY,origin.list,2022-05-18 06:20:45.423277
 pbc.automatad.com,AVAILABILITY,origin.list,2022-05-18 06:20:46.346516
 cdn.heycdn91.xyz,AVAILABILITY,origin.list,2022-05-18 06:20:47.213949
+vn-pvmax.tenmax.io,AVAILABILITY,origin.list,2022-05-18 07:25:11.444034
