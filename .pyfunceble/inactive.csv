@@ -1,17 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 api.safedk.com,AVAILABILITY,origin.list,2022-05-18 09:54:46.632889
 front-logs.voodoo-ads.io,AVAILABILITY,origin.list,2022-05-18 09:54:54.330331
-adserver.libero.it,AVAILABILITY,origin.list,2022-05-18 09:54:54.393418
-a.consumer.net,AVAILABILITY,origin.list,2022-05-18 09:54:54.804818
 www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-18 09:54:55.163681
-everlastingdolphins.com,AVAILABILITY,origin.list,2022-05-18 09:54:55.323961
-ad.altervista.org,AVAILABILITY,origin.list,2022-05-18 09:54:55.543138
-chargingsensationmetropolitan.com,AVAILABILITY,origin.list,2022-05-18 09:54:56.031085
-ads.ncm.com,AVAILABILITY,origin.list,2022-05-18 09:54:56.578659
-fdbtvavxtfvpbx.com,AVAILABILITY,origin.list,2022-05-18 09:54:56.851193
-e-adimages.scrippsnetworks.com,AVAILABILITY,origin.list,2022-05-18 09:54:57.799310
-banner.ad.nu,AVAILABILITY,origin.list,2022-05-18 10:36:53.294020
-img.adview.com,AVAILABILITY,origin.list,2022-05-18 10:46:12.775182
 googleads.github.io,AVAILABILITY,origin.list,2022-05-18 11:19:05.203278
 config.mobisage.cn,AVAILABILITY,origin.list,2022-05-18 11:19:06.478350
 www.mobisage.cn,AVAILABILITY,origin.list,2022-05-18 11:19:06.945376
@@ -423,3 +413,13 @@ ad.caradisiac.com,AVAILABILITY,origin.list,2022-05-20 07:13:11.032092
 api.appsee.com,AVAILABILITY,origin.list,2022-05-20 07:13:11.206842
 banner.casinodelrio.com,AVAILABILITY,origin.list,2022-05-20 07:13:11.289429
 garrena.vn,AVAILABILITY,origin.list,2022-05-20 07:13:11.511453
+adserver.libero.it,AVAILABILITY,origin.list,2022-05-20 08:08:16.803658
+a.consumer.net,AVAILABILITY,origin.list,2022-05-20 08:08:17.059133
+everlastingdolphins.com,AVAILABILITY,origin.list,2022-05-20 08:08:17.852567
+ad.altervista.org,AVAILABILITY,origin.list,2022-05-20 08:08:18.102667
+chargingsensationmetropolitan.com,AVAILABILITY,origin.list,2022-05-20 08:08:18.787330
+ads.ncm.com,AVAILABILITY,origin.list,2022-05-20 08:08:19.212665
+fdbtvavxtfvpbx.com,AVAILABILITY,origin.list,2022-05-20 08:08:19.647760
+e-adimages.scrippsnetworks.com,AVAILABILITY,origin.list,2022-05-20 08:08:20.265319
+banner.ad.nu,AVAILABILITY,origin.list,2022-05-20 08:08:20.658406
+img.adview.com,AVAILABILITY,origin.list,2022-05-20 08:08:21.553027
