@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.pennet.com,AVAILABILITY,origin.list,2022-05-18 12:23:09.736314
-focus.mangoads.vn,AVAILABILITY,origin.list,2022-05-18 15:22:32.501493
-demos.mangoads.vn,AVAILABILITY,origin.list,2022-05-18 15:22:33.017228
-carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-18 15:22:35.340891
-hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-18 15:22:37.348835
-api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-18 15:22:38.411661
-croissed.info,AVAILABILITY,origin.list,2022-05-18 15:22:42.066251
-roughexampler.info,AVAILABILITY,origin.list,2022-05-18 15:22:42.208663
 fp.measure.office.com,AVAILABILITY,origin.list,2022-05-19 05:28:46.820664
 analytics.kau.li,AVAILABILITY,origin.list,2022-05-19 06:02:52.206105
 clk.kau.li,AVAILABILITY,origin.list,2022-05-19 06:02:52.711756
@@ -423,3 +415,11 @@ dev.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 11:01:22.121638
 m.ambientplatform.vn,AVAILABILITY,origin.list,2022-05-20 13:06:24.062840
 app.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-20 14:30:19.899807
 madskiz.com,AVAILABILITY,origin.list,2022-05-20 14:30:21.258722
+demos.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 17:04:05.110618
+focus.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 17:04:05.830051
+hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-20 17:04:06.081735
+carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 17:04:06.774887
+croissed.info,AVAILABILITY,origin.list,2022-05-20 17:04:07.717988
+roughexampler.info,AVAILABILITY,origin.list,2022-05-20 17:04:07.858142
+api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-20 17:04:08.406916
+ads.pennet.com,AVAILABILITY,origin.list,2022-05-20 17:05:07.127535
