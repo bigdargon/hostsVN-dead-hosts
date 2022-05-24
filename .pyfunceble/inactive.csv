@@ -1,14 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 api.safedk.com,AVAILABILITY,origin.list,2022-05-20 11:01:03.513009
 www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-20 11:01:03.960558
-www.phanquang.vn,AVAILABILITY,origin.list,2022-05-20 11:01:08.195754
-sistacked.com,AVAILABILITY,origin.list,2022-05-20 11:01:08.605465
-lb.ns1p.net,AVAILABILITY,origin.list,2022-05-20 11:01:09.107863
-screenshielded.com,AVAILABILITY,origin.list,2022-05-20 11:01:09.618656
-sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2022-05-20 11:01:09.935626
-iris.iad.apple.com,AVAILABILITY,origin.list,2022-05-20 11:01:10.264797
 anc.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 11:01:10.908083
-mobilereport.agency,AVAILABILITY,origin.list,2022-05-20 11:01:11.511077
 fbg.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 11:01:11.843552
 ads.gamershell.com,AVAILABILITY,origin.list,2022-05-20 11:01:12.725707
 thecliff.mangoads.vn,AVAILABILITY,origin.list,2022-05-20 11:01:13.424735
@@ -426,3 +419,10 @@ log.o2o.service.zaloapp.com,AVAILABILITY,origin.list,2022-05-24 06:28:12.559527
 adlike.net,AVAILABILITY,origin.list,2022-05-24 06:28:12.960125
 askaspalb.online,AVAILABILITY,origin.list,2022-05-24 06:28:13.129437
 hollowshake.com,AVAILABILITY,origin.list,2022-05-24 06:28:13.655737
+lb.ns1p.net,AVAILABILITY,origin.list,2022-05-24 06:48:52.993340
+sistacked.com,AVAILABILITY,origin.list,2022-05-24 06:48:53.111384
+screenshielded.com,AVAILABILITY,origin.list,2022-05-24 06:48:54.034524
+sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2022-05-24 06:48:54.100942
+iris.iad.apple.com,AVAILABILITY,origin.list,2022-05-24 06:48:54.922252
+www.phanquang.vn,AVAILABILITY,origin.list,2022-05-24 06:48:55.457077
+mobilereport.agency,AVAILABILITY,origin.list,2022-05-24 06:48:56.068696
