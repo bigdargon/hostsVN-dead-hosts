@@ -4,6 +4,4 @@
     "cli_testing.ci.active": True,
     "cli_testing.ci.command": "hash dead_hosts_launcher && dead_hosts_launcher --save",
     "cli_testing.ci.end_command": "hash dead_hosts_launcher && dead_hosts_launcher --end",
-    "cli_testing.ci.commit_message": "[Autosave][Dead-Hosts::hostsVN-dead-hosts]",
-    "cli_testing.ci.end_commit_message": "[Final/Result][Dead-Hosts::hostsVN-dead-hosts]",
 }
