@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 www.weigezhiyao.com,AVAILABILITY,origin.list,2022-05-23 14:27:26.540630
-cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2022-05-23 19:19:35.943464
 www.gyfumobo.com,AVAILABILITY,origin.list,2022-05-23 19:19:38.043113
 www.wgcsxqkyry.com,AVAILABILITY,origin.list,2022-05-23 19:19:38.738334
 www.vbscgrnkoceya.com,AVAILABILITY,origin.list,2022-05-23 19:19:39.287220
@@ -431,3 +430,4 @@ js.mobileoffers-bn-download.com,AVAILABILITY,origin.list,2022-05-26 08:01:50.147
 vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-05-26 08:01:50.972149
 cm.send.microadinc.com,AVAILABILITY,origin.list,2022-05-26 08:01:51.276276
 data-eu-west-1.axonix.com,AVAILABILITY,origin.list,2022-05-26 08:01:51.587836
+cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2022-05-26 16:07:47.642700
