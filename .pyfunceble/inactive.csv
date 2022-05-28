@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.weigezhiyao.com,AVAILABILITY,origin.list,2022-05-26 18:13:46.481762
-api.safedk.com,AVAILABILITY,origin.list,2022-05-26 23:23:51.597374
-m.ambientplatform.vn,AVAILABILITY,origin.list,2022-05-26 23:23:52.661869
-www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-26 23:23:55.848778
-api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-26 23:23:56.576712
-carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-26 23:23:57.242051
-demos.mangoads.vn,AVAILABILITY,origin.list,2022-05-26 23:23:58.637706
 ads.pennet.com,AVAILABILITY,origin.list,2022-05-26 23:24:56.685181
 appmetrica.yandex.net,AVAILABILITY,origin.list,2022-05-27 05:54:23.633592
 mask.pubnative.info,AVAILABILITY,origin.list,2022-05-27 07:02:40.202766
@@ -433,3 +426,10 @@ dev.mangoads.vn,AVAILABILITY,origin.list,2022-05-28 13:54:58.057468
 roughexampler.info,AVAILABILITY,origin.list,2022-05-28 13:54:59.723375
 croissed.info,AVAILABILITY,origin.list,2022-05-28 13:55:00.812483
 hub.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-28 13:55:01.262269
+m.ambientplatform.vn,AVAILABILITY,origin.list,2022-05-28 16:03:37.617947
+api.omarketer.viettelpost.vn,AVAILABILITY,origin.list,2022-05-28 16:03:38.645464
+api.safedk.com,AVAILABILITY,origin.list,2022-05-28 16:03:41.746453
+demos.mangoads.vn,AVAILABILITY,origin.list,2022-05-28 16:03:42.436692
+carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-28 16:03:42.468697
+www.tgzobwoutuwn.com,AVAILABILITY,origin.list,2022-05-28 16:03:46.219652
+www.weigezhiyao.com,AVAILABILITY,origin.list,2022-05-28 16:04:30.854846
