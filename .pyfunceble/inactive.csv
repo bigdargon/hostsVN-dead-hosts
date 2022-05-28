@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.pennet.com,AVAILABILITY,origin.list,2022-05-26 23:24:56.685181
 appmetrica.yandex.net,AVAILABILITY,origin.list,2022-05-27 05:54:23.633592
 mask.pubnative.info,AVAILABILITY,origin.list,2022-05-27 07:02:40.202766
 sub.pubnative.info,AVAILABILITY,origin.list,2022-05-27 07:02:42.310930
@@ -433,3 +432,4 @@ api.safedk.com,AVAILABILITY,origin.list,2022-05-28 16:20:28.118620
 carpenter.mangoads.vn,AVAILABILITY,origin.list,2022-05-28 16:20:28.307416
 demos.mangoads.vn,AVAILABILITY,origin.list,2022-05-28 16:20:29.904585
 www.weigezhiyao.com,AVAILABILITY,origin.list,2022-05-28 16:21:11.031758
+ads.pennet.com,AVAILABILITY,origin.list,2022-05-28 19:32:15.954129
