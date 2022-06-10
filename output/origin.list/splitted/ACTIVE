@@ -16492,19 +16492,19 @@ app-analytics-v2.snapchat.com                                                   
 tr6.snapchat.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 cdn.sb4you1.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 www.sb4you1.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
-contentsquare.net                                                                                    ACTIVE      WHOIS      16-feb-2023       Amazon Registrar, Inc.         Unknown    AVAILABILITY 
 c.contentsquare.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+contentsquare.net                                                                                    ACTIVE      WHOIS      16-feb-2023       Amazon Registrar, Inc.         Unknown    AVAILABILITY 
 l.contentsquare.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 r.contentsquare.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 t.contentsquare.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+analytics.mobile.walmart.com                                                                         ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+beacon.affil.walmart.com                                                                             ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
 drfdisvc.walmart.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        400        AVAILABILITY 
-analytics.mobile.walmart.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 metrics.walmart.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
-beacon.affil.walmart.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 smetrics.walmart.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 2468.go2cloud.org                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
 bvoffers-elb.go2cloud.org                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
-bigbangads.go2cloud.org                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+bigbangads.go2cloud.org                                                                              ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
 directoffers.go2cloud.org                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 tabmo2018.go2cloud.org                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
 tapjoy.go2cloud.org                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
@@ -16512,29 +16512,29 @@ col.site24x7rum.eu                                                              
 site24x7rum.eu                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 static.site24x7rum.eu                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 rpdn.relateddigital.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        400        AVAILABILITY 
-atrack.avplayer.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
-js.media-lab.ai                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+atrack.avplayer.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+apps.media-lab.ai                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 track1.avplayer.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
 wps.relateddigital.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
-apps.media-lab.ai                                                                                    ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+js.media-lab.ai                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 t.imgur.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
-omtrdc.net                                                                                           ACTIVE      WHOIS      22-jul-2022       Nom-iq Ltd. dba COM LAUDE      Unknown    AVAILABILITY 
 hb.omtrdc.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 cdn.tt.omtrdc.net                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
 sc.omtrdc.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+omtrdc.net                                                                                           ACTIVE      WHOIS      22-jul-2022       Nom-iq Ltd. dba COM LAUDE      Unknown    AVAILABILITY 
 cdn-0.d41.co                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
-d41.co                                                                                               ACTIVE      WHOIS      08-jul-2024       MarkMonitor, Inc.              301        AVAILABILITY 
 ecf.d41.co                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+d41.co                                                                                               ACTIVE      WHOIS      08-jul-2024       MarkMonitor, Inc.              301        AVAILABILITY 
 dpm.demdex.net                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 vid1240.d41.co                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 6sc.co                                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 j.6sc.co                                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
 tt.omtrdc.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 topdisplayformat.com                                                                                 ACTIVE      WHOIS      30-may-2023       eNom, LLC                      301        AVAILABILITY 
-hatbenchmajestic.com                                                                                 ACTIVE      WHOIS      27-may-2023       eNom, LLC                      301        AVAILABILITY 
-driftstupidityopponent.com                                                                           ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
 profitablecpmgate.com                                                                                ACTIVE      WHOIS      30-may-2023       eNom, LLC                      301        AVAILABILITY 
 creepingbrings.com                                                                                   ACTIVE      WHOIS      27-may-2023       eNom, LLC                      301        AVAILABILITY 
+driftstupidityopponent.com                                                                           ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+hatbenchmajestic.com                                                                                 ACTIVE      WHOIS      27-may-2023       eNom, LLC                      301        AVAILABILITY 
 lockerdomecdn.com                                                                                    ACTIVE      WHOIS      05-may-2027       GoDaddy.com, LLC               Unknown    AVAILABILITY 
 visilabs.com                                                                                         ACTIVE      WHOIS      24-nov-2023       IHS Telekom, Inc.              200        AVAILABILITY 
 visilabs.net                                                                                         ACTIVE      WHOIS      05-sep-2022       IHS Telekom, Inc.              302        AVAILABILITY 
