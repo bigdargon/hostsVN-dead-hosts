@@ -550,3 +550,6 @@ analytics-statistics.machbird.com,AVAILABILITY,origin.list,2022-07-27 21:50:12.6
 api.safegraph.com,AVAILABILITY,origin.list,2022-07-27 21:50:39.575372
 p.update.fbsbx.com,AVAILABILITY,origin.list,2022-07-29 05:39:00.969745
 api.adhaven.com,AVAILABILITY,origin.list,2022-07-29 06:21:04.075452
+logs.datadoghq.eu,AVAILABILITY,origin.list,2022-07-29 07:25:41.223426
+log.aliyuncs.com,AVAILABILITY,origin.list,2022-07-29 07:26:08.961073
+api.jeeng.com,AVAILABILITY,origin.list,2022-07-29 07:36:09.135139
