@@ -8,3 +8,4 @@ api.adhaven.com                                                                 
 logs.datadoghq.eu                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 log.aliyuncs.com                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 api.jeeng.com                                                                                        INACTIVE    COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics-usf.hotyon.com                                                                             INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
