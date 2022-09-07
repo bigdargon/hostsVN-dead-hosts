@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Aug 2022 15:33 UTC+7
-# Version: 2208181533
-# Blocked: 17.374 domains
+# Last modified: 06 Sep 2022 16:31 UTC+7
+# Version: 2209061631
+# Blocked: 17.426 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -173,7 +173,6 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 #[l.google.com]
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -189,6 +188,9 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 mail-ads.google.com
+#[app-measurement.com]
+0.0.0.0 app-measurement.com
+0.0.0.0 region1.app-measurement.com
 #[microsoft.com]
 0.0.0.0 target.microsoft.com
 #[telemetry.microsoft.com]
@@ -216,10 +218,12 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 rad.live.com
 #[measure.office.com]
+0.0.0.0 measure.office.com
 0.0.0.0 config.fp.measure.office.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
+0.0.0.0 wan.measure.office.com
 #[windows.net]
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 tenmaxsgads.blob.core.windows.net
@@ -410,6 +414,8 @@
 #[amazonaws.com]
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+#[popadex-*.us-east-1.elb.amazonaws.com]
+0.0.0.0 popadex-1919430815.us-east-1.elb.amazonaws.com
 #[a2z.com]
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 metrics.client-eng.a2z.com
@@ -9793,21 +9799,6 @@
 0.0.0.0 tag.pubpowerplatform.io
 0.0.0.0 ul.pubpowerplatform.io
 0.0.0.0 www.pubpowerplatform.io
-#[appsflyersdk.com]
-0.0.0.0 api.appsflyersdk.com
-0.0.0.0 appsflyersdk.com
-0.0.0.0 attr.appsflyersdk.com
-0.0.0.0 cdn-settings.appsflyersdk.com
-0.0.0.0 cdn-testsettings.appsflyersdk.com
-0.0.0.0 conversions.appsflyersdk.com
-0.0.0.0 events.appsflyersdk.com
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 launches.appsflyersdk.com
-0.0.0.0 monitorsdk.appsflyersdk.com
-0.0.0.0 onelink.appsflyersdk.com
-0.0.0.0 register.appsflyersdk.com
-0.0.0.0 sdk.appsflyersdk.com
-0.0.0.0 t.appsflyersdk.com
 #[hetaruvg.com]
 0.0.0.0 ak.hetaruvg.com
 0.0.0.0 hetaruvg.com
@@ -10374,8 +10365,6 @@
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
-0.0.0.0 asia-compnrt-stsdk.vivoglobal.com
-0.0.0.0 asia-comprt-stsdk.vivoglobal.com
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-ort-stsdk.vivoglobal.com
@@ -11005,6 +10994,43 @@
 #[conductrics.com]
 0.0.0.0 conductrics.com
 0.0.0.0 cdn-v3.conductrics.com
+#[nakanohito.jp]
+0.0.0.0 bs.nakanohito.jp
+0.0.0.0 cm-beacon.nakanohito.jp
+0.0.0.0 cm-widget.nakanohito.jp
+0.0.0.0 cs.nakanohito.jp
+0.0.0.0 nakanohito.jp
+0.0.0.0 support-widget.nakanohito.jp
+0.0.0.0 uh.nakanohito.jp
+#[adingo.jp]
+0.0.0.0 adingo.jp
+0.0.0.0 cdn-fluct.sh.adingo.jp
+0.0.0.0 cs.adingo.jp
+0.0.0.0 fam.adingo.jp
+0.0.0.0 pdn.adingo.jp
+0.0.0.0 sh.adingo.jp
+#[flat-ads.com]
+0.0.0.0 api.flat-ads.com
+0.0.0.0 flat-ads.com
+#[waze.com]
+0.0.0.0 ads-resources-legacy.waze.com
+0.0.0.0 ads-resources.waze.com
+0.0.0.0 adsassets.waze.com
+0.0.0.0 advil.waze.com
+#[promo-*.vercel.app]
+0.0.0.0 promo-1.vercel.app
+0.0.0.0 promo-3.vercel.app
+0.0.0.0 promo-4.vercel.app
+#[wiztube.xyz]
+0.0.0.0 advert.wiztube.xyz
+0.0.0.0 cdn.wiztube.xyz
+0.0.0.0 netu.wiztube.xyz
+0.0.0.0 wiztube.xyz
+0.0.0.0 www.wiztube.xyz
+#[ff.avast.com]
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12657,6 +12683,8 @@
 0.0.0.0 www.v9banners.com
 0.0.0.0 www.vietbuzzad.com
 0.0.0.0 www.vietdorje.com
+0.0.0.0 xads.joboko.com
+0.0.0.0 xmadsapi.joboko.com
 # --- Block trackingVN ---
 0.0.0.0 360.anatic.net
 0.0.0.0 a.vtvdigital.vn
@@ -12833,6 +12861,7 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
+0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 socialloginplus-apps.haravan.com
@@ -12929,6 +12958,7 @@
 0.0.0.0 za.baomoi.com
 0.0.0.0 zigzag.vn
 # --- Block scamVN ---
+0.0.0.0 247vi-bank.com
 0.0.0.0 atspace.tv
 0.0.0.0 bloodleian.club
 0.0.0.0 bluvenie.com
@@ -13949,6 +13979,7 @@
 0.0.0.0 ahreprh2kfk8rfjr09.com
 0.0.0.0 ahscdn.com
 0.0.0.0 aiaisharetrace.com
+0.0.0.0 aihoasso.net
 0.0.0.0 ailalbapt.club
 0.0.0.0 ailpielei.com
 0.0.0.0 aim4media.com
@@ -14073,6 +14104,7 @@
 0.0.0.0 arisedammiral.com
 0.0.0.0 aromamirror.com
 0.0.0.0 arsdev.net
+0.0.0.0 arswabluchan.com
 0.0.0.0 artpever.com
 0.0.0.0 as.sexad.net
 0.0.0.0 as.webmd.com
@@ -14376,6 +14408,7 @@
 0.0.0.0 bngpt.com
 0.0.0.0 bnserving.com
 0.0.0.0 bo2ffe45ss4gie.com
+0.0.0.0 boakauso.com
 0.0.0.0 boasstylijoked.com
 0.0.0.0 bodyclick.net
 0.0.0.0 bohonef.com
@@ -14453,6 +14486,7 @@
 0.0.0.0 byrledmtscmd.com
 0.0.0.0 bzrmxfxu.com
 0.0.0.0 bzwcgscqnf.com
+0.0.0.0 bzwdksdngjhay.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.cdn-server.top
 0.0.0.0 c.tmyzer.com
@@ -14537,6 +14571,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cf.adxcel.com
 0.0.0.0 cgicounter.puretec.de
+0.0.0.0 chachophigy.pro
 0.0.0.0 chaerel.com
 0.0.0.0 chaglihysty.pro
 0.0.0.0 chairscrack.com
@@ -14598,6 +14633,7 @@
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.revsharecash.com
+0.0.0.0 click.tecdo-ec.com
 0.0.0.0 click.tracksummer.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 clickability.com
@@ -14630,6 +14666,7 @@
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktracks.com
 0.0.0.0 clicktrade.com
+0.0.0.0 clicktut.site
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
 0.0.0.0 clicmanager.fr
@@ -14860,6 +14897,7 @@
 0.0.0.0 decoycreation.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 deecqem892bg5er.com
+0.0.0.0 deehalig.net
 0.0.0.0 deepermagnes.com
 0.0.0.0 deewansturacin.com
 0.0.0.0 defectivesun.com
@@ -14898,6 +14936,7 @@
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitru.st
 0.0.0.0 diguver.com
+0.0.0.0 dihkstwa.com
 0.0.0.0 dimfarlow.com
 0.0.0.0 diqkldlh.com
 0.0.0.0 direct-xxx-access.com
@@ -14999,6 +15038,7 @@
 0.0.0.0 e335udnv6drg78b7.com
 0.0.0.0 e4nglis56hcoo5nhou6nd.com
 0.0.0.0 e5asyhilodice.com
+0.0.0.0 e67repidwnfu7gcha.com
 0.0.0.0 eabids.com
 0.0.0.0 eacdn.com
 0.0.0.0 eadexchange.com
@@ -15383,6 +15423,7 @@
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 gqsufwoasgfmex.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 graceofnoon.com
 0.0.0.0 graizoah.com
@@ -15406,6 +15447,7 @@
 0.0.0.0 gtsads.com
 0.0.0.0 gtsmobi.com
 0.0.0.0 guardedschool.com
+0.0.0.0 guchihyfa.pro
 0.0.0.0 gumbolersgthb.com
 0.0.0.0 gunggo.com
 0.0.0.0 gungpurre.com
@@ -15415,6 +15457,7 @@
 0.0.0.0 gyppedsquiss.com
 0.0.0.0 h2aek6rv0ard.com
 0.0.0.0 h78xb.pw
+0.0.0.0 hacbfyvvsw.com
 0.0.0.0 hadarone.com
 0.0.0.0 hadesleta.com
 0.0.0.0 hairdosslitter.casa
@@ -15515,6 +15558,7 @@
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 huskypartydance.com
+0.0.0.0 hvxqkunspvtln.com
 0.0.0.0 hw.zuimeitianqi.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hydra.alibaba.com
@@ -15779,6 +15823,7 @@
 0.0.0.0 kqzyfj.com
 0.0.0.0 kronervisile.com
 0.0.0.0 kronosspell.com
+0.0.0.0 ksznidltg.com
 0.0.0.0 ktkjmp.com
 0.0.0.0 kts.visitstats.com
 0.0.0.0 ktu.sv2.biz
@@ -15787,6 +15832,7 @@
 0.0.0.0 kupona.de
 0.0.0.0 kurlichan.com
 0.0.0.0 kw3y5otoeuniv7e9rsi.com
+0.0.0.0 kxnggkh2nj.com
 0.0.0.0 ladsreds.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lambingsyddir.com
@@ -15797,6 +15843,7 @@
 0.0.0.0 lassampy.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughcloth.com
+0.0.0.0 laughedaffront.com
 0.0.0.0 lauk.icu
 0.0.0.0 launchbit.com
 0.0.0.0 layer-ad.de
@@ -15854,7 +15901,6 @@
 0.0.0.0 linktarget.com
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 litheremility.site
-0.0.0.0 littlecdn.com
 0.0.0.0 littlecutecats.com
 0.0.0.0 littlecutedogs.com
 0.0.0.0 littlecutelions.com
@@ -16113,6 +16159,7 @@
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
+0.0.0.0 mscoldness.com
 0.0.0.0 msgose.com
 0.0.0.0 mstrlytcs.com
 0.0.0.0 mt34iofvjay.com
@@ -16275,6 +16322,8 @@
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
+0.0.0.0 oataltaul.com
+0.0.0.0 obituaryfuneral.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 ocio.leadzu.com
@@ -16460,6 +16509,7 @@
 0.0.0.0 perigshfnon.com
 0.0.0.0 permanentnearly.com
 0.0.0.0 permutive.app
+0.0.0.0 perryvolleyball.com
 0.0.0.0 personagraph.com
 0.0.0.0 personaly.click
 0.0.0.0 pertersacstyli.com
@@ -16551,6 +16601,7 @@
 0.0.0.0 popuptraffic.com
 0.0.0.0 porngraph.com
 0.0.0.0 porntrack.com
+0.0.0.0 pornve.sexyadsrun.com
 0.0.0.0 poseidthewave.com
 0.0.0.0 poshhateful.com
 0.0.0.0 pososrhwu2jf8jf09.com
@@ -16746,6 +16797,7 @@
 0.0.0.0 rapleaf.com
 0.0.0.0 raresummer.com
 0.0.0.0 rate.ru
+0.0.0.0 rdgtvgmtauro.com
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
@@ -16761,6 +16813,7 @@
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
+0.0.0.0 reasonablelandmark.com
 0.0.0.0 rebel.ai
 0.0.0.0 rebelsubway.com
 0.0.0.0 rebiraert.com
@@ -16943,6 +16996,7 @@
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
 0.0.0.0 secure.webconnect.net
+0.0.0.0 secureaddisplay.com
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
 0.0.0.0 seedtag.com
@@ -17089,6 +17143,7 @@
 0.0.0.0 specificationheadless.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
+0.0.0.0 speechfountaindigestion.com
 0.0.0.0 speedomizer.com
 0.0.0.0 speedshiftmedia.com
 0.0.0.0 speee-ad.akamaized.net
@@ -17256,6 +17311,7 @@
 0.0.0.0 t85itha3nitde.com
 0.0.0.0 ta3nfsordd.com
 0.0.0.0 ta5ast2ffeyvhjitde.com
+0.0.0.0 taaqhr6axacd2um.com
 0.0.0.0 tabookbusines.info
 0.0.0.0 tacoda.net
 0.0.0.0 tacticmarshannouncing.com
@@ -17511,6 +17567,7 @@
 0.0.0.0 ucxfdvhuqwpig.com
 0.0.0.0 uebadu.com
 0.0.0.0 ueikno.com
+0.0.0.0 uejwqbgtjxdw.com
 0.0.0.0 uge521.com
 0.0.0.0 uitopadxdy.com
 0.0.0.0 ukbanners.com
@@ -17524,6 +17581,7 @@
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unblestrustic.com
+0.0.0.0 uncoreswizzle.com
 0.0.0.0 undeenardoo.com
 0.0.0.0 understandintimidate.com
 0.0.0.0 undooptimisticsuction.com
@@ -17566,6 +17624,7 @@
 0.0.0.0 uwoaptee.com
 0.0.0.0 uyunad.com
 0.0.0.0 uzxkuwalnjp.com
+0.0.0.0 v6rxv5coo5.com
 0.0.0.0 v978np.tgtest.site
 0.0.0.0 valegaj.com
 0.0.0.0 validclick.com
@@ -17660,6 +17719,7 @@
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vtracy.de
 0.0.0.0 vugnubier.com
+0.0.0.0 vuwmxjusucnh.com
 0.0.0.0 vymhnxjyj.com
 0.0.0.0 w3i.com
 0.0.0.0 wa.and.co.uk
@@ -17722,6 +17782,7 @@
 0.0.0.0 whaiweel.com
 0.0.0.0 whaleads.com
 0.0.0.0 whazugho.com
+0.0.0.0 wheeksir.net
 0.0.0.0 whenu.com
 0.0.0.0 whereapps.com
 0.0.0.0 whingewost.com
@@ -17979,6 +18040,7 @@
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yiopse.com
 0.0.0.0 yjuydihly.com
+0.0.0.0 yjwumvme.com
 0.0.0.0 yldbt.com
 0.0.0.0 ylicxdkgkvfc.com
 0.0.0.0 ymetrica1.com
@@ -18037,6 +18099,8 @@
 0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
 0.0.0.0 zoosnet.net
+0.0.0.0 zorprhbnwbezie.com
+0.0.0.0 zrljkhcwhxhh.com
 0.0.0.0 zumobi.com
 0.0.0.0 zuphaims.com
 0.0.0.0 zvetokr2hr8pcng09.com
@@ -18083,7 +18147,6 @@
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.diyriver.io
-0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.gavelz.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gismart.xyz
@@ -18141,7 +18204,6 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 apolloprogram.io
-0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 applog.camera360.com
@@ -18155,7 +18217,6 @@
 0.0.0.0 bango.net
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
-0.0.0.0 beacon.fusioncdn.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.mlytics.com
 0.0.0.0 beacon.riskified.com
@@ -18640,7 +18701,6 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uciservice.com
-0.0.0.0 uh.nakanohito.jp
 0.0.0.0 ultimedia.com
 0.0.0.0 umeng.co
 0.0.0.0 unicaitaly.it
