@@ -16397,3 +16397,13 @@ analytics.archive.org                                                           
 analytics.ccgateway.net                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
 analytics.bitrix.info                                                                                ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
 adlog.foxitcloud.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.archive.org                                                                                ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+analytics.cdn.live                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.ccgateway.net                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.bitrix.info                                                                                ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+analytics.clickdimensions.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+analytics.getshogun.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+analytics.cloudron.io                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.gavelz.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.gismart.xyz                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adlog.foxitcloud.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
