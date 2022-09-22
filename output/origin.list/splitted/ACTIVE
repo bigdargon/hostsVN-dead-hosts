@@ -16442,3 +16442,9 @@ analytics.posttv.com                                                            
 analytics.mailmunch.co                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 analytics.mobilegamestats.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 analytics.poolshool.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.posttv.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+analytics.samdd.me                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+analytics.mobilegamestats.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.mailmunch.co                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.poolshool.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.s.id                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
