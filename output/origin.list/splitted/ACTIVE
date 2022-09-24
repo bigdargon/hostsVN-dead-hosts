@@ -16556,3 +16556,8 @@ cdn.shoplytics.com                                                              
 cdn.viglink.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
 cdn.usefathom.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
 bugsense.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.usefathom.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+cdn.viglink.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cedexis.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+cdn.shoplytics.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+bugsense.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
