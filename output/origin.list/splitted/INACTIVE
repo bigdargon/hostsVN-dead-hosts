@@ -31,3 +31,14 @@ cdn2.aniview.com                                                                
 www.eyeota.net                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 stats.vliplatform.com                                                                                INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 adc-ad-assets.adtilt.com                                                                             INACTIVE    COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.ad1x.com                                                                                         INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+eu-cdn.ad1x.com                                                                                      INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+edge.ad1x.com                                                                                        INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+eu-edge.ad1x.com                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+stg-cdn.ad1x.com                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+stg-edge.ad1x.com                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+wip-edge.ad1x.com                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.ad1x.com                                                                                         INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ad1.adfarm1.adition.com                                                                              INACTIVE    COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+ad8.adfarm1.adition.com                                                                              INACTIVE    COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+logs.datadoghq.eu                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 

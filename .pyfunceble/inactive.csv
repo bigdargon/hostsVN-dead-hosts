@@ -454,3 +454,14 @@ cdn2.aniview.com,AVAILABILITY,origin.list,2022-10-24 07:19:06.418357
 www.eyeota.net,AVAILABILITY,origin.list,2022-10-24 07:40:00.867270
 stats.vliplatform.com,AVAILABILITY,origin.list,2022-10-24 07:40:32.250588
 adc-ad-assets.adtilt.com,AVAILABILITY,origin.list,2022-10-24 07:42:25.730364
+cdn.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:00.042554
+eu-cdn.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:00.209818
+edge.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:00.270871
+eu-edge.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:00.527874
+stg-cdn.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:01.280109
+stg-edge.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:01.411156
+wip-edge.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:01.609654
+www.ad1x.com,AVAILABILITY,origin.list,2022-10-24 07:57:02.006911
+ad1.adfarm1.adition.com,AVAILABILITY,origin.list,2022-10-24 08:02:08.121232
+ad8.adfarm1.adition.com,AVAILABILITY,origin.list,2022-10-24 08:02:09.649117
+logs.datadoghq.eu,AVAILABILITY,origin.list,2022-10-24 08:03:10.112472
