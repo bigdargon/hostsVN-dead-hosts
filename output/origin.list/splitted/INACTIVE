@@ -42,3 +42,6 @@ www.ad1x.com                                                                    
 ad1.adfarm1.adition.com                                                                              INACTIVE    COLLECTION Unknown           Unknown                        404        AVAILABILITY 
 ad8.adfarm1.adition.com                                                                              INACTIVE    COLLECTION Unknown           Unknown                        404        AVAILABILITY 
 logs.datadoghq.eu                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+collect.igodigital.com                                                                               INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.edgekey.net                                                                                INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+t.everestop.io                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
