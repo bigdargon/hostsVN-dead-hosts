@@ -45,3 +45,4 @@ logs.datadoghq.eu                                                               
 collect.igodigital.com                                                                               INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 analytics.edgekey.net                                                                                INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 t.everestop.io                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+zminer.zaloapp.com                                                                                   INACTIVE    COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
