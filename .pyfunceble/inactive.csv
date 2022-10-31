@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pt.lijit.com,AVAILABILITY,origin.list,2022-10-30 06:00:00.310318
-clk.rtpdn14.com,AVAILABILITY,origin.list,2022-10-30 07:08:50.731178
-clkv6.rtpdn14.com,AVAILABILITY,origin.list,2022-10-30 07:08:51.356748
-cdn.ggsfq.com,AVAILABILITY,origin.list,2022-10-30 07:21:35.896281
-campaign.myad.vn,AVAILABILITY,origin.list,2022-10-30 08:07:10.113671
-adserver.sudo.vn,AVAILABILITY,origin.list,2022-10-30 08:11:40.521851
-lottery.headlines.pw,AVAILABILITY,origin.list,2022-10-30 08:12:49.522035
-www.yljyjadlx.com,AVAILABILITY,origin.list,2022-10-30 13:27:44.054916
-www.zdupdotxqwj.com,AVAILABILITY,origin.list,2022-10-30 13:27:44.741280
-ga.kvideo.io,AVAILABILITY,origin.list,2022-10-30 14:10:34.142665
 tracking.applift.com,AVAILABILITY,origin.list,2022-10-30 14:53:03.777054
 mobilereport.agency,AVAILABILITY,origin.list,2022-10-30 15:35:41.824741
 screenshielded.com,AVAILABILITY,origin.list,2022-10-30 15:35:42.383840
@@ -414,3 +404,12 @@ amazon-adsystem.amazon.com,AVAILABILITY,origin.list,2022-10-31 05:41:54.157209
 api.unibots.in,AVAILABILITY,origin.list,2022-10-31 08:02:47.164340
 vdo.unibots.in,AVAILABILITY,origin.list,2022-10-31 08:03:00.154262
 www.mpnoqwbkz.com,AVAILABILITY,origin.list,2022-10-31 12:17:01.430589
+cdn.ggsfq.com,AVAILABILITY,origin.list,2022-10-31 14:56:51.354120
+campaign.myad.vn,AVAILABILITY,origin.list,2022-10-31 14:56:52.099554
+adserver.sudo.vn,AVAILABILITY,origin.list,2022-10-31 14:56:52.347390
+lottery.headlines.pw,AVAILABILITY,origin.list,2022-10-31 14:56:52.785910
+ga.kvideo.io,AVAILABILITY,origin.list,2022-10-31 14:56:56.149702
+clk.rtpdn14.com,AVAILABILITY,origin.list,2022-10-31 14:57:01.381260
+clkv6.rtpdn14.com,AVAILABILITY,origin.list,2022-10-31 14:57:01.706327
+www.yljyjadlx.com,AVAILABILITY,origin.list,2022-10-31 14:57:03.366363
+www.zdupdotxqwj.com,AVAILABILITY,origin.list,2022-10-31 14:57:03.731785
