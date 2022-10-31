@@ -16681,3 +16681,200 @@ metric.picodi.com                                                               
 metric.huya.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
 log.mofa.go.kr                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 logs.amap.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+metric.picodi.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+metric.picodi.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+metricfast.com                                                                                       ACTIVE      WHOIS      07-mar-2023       NameCheap, Inc.                301        AVAILABILITY 
+metrics.beyondwords.io                                                                               ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+metric.huya.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+metrics.cloudflarebolt.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        204        AVAILABILITY 
+metrics.brightcove.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+logs.amap.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+metrics.sdkbox.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+metrics.roblox.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+mlog.appguard.co.kr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+moatpixel.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+mktoresp.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+monitoring.youronlinechoices.com                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+monorail-edge.shopifysvc.com                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+mobiletelemetry.ebay.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+monu.delivery                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+msg-intl.qy.net                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+mousestats.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+montacarichi.it                                                                                      ACTIVE      WHOIS      12-may-2022       Unknown                        301        AVAILABILITY 
+mybbc-analytics.files.bbci.co.uk                                                                     ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+munchkin.marketo.net                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+log.mofa.go.kr                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+nexus.ensighten.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+notify.bugsnag.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        405        AVAILABILITY 
+nonglirili.net                                                                                       ACTIVE      WHOIS      17-jul-2022       eName Technology Co., Ltd.     200        AVAILABILITY 
+netcore.co.in                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+nppmwatch.com                                                                                        ACTIVE      WHOIS      11-dec-2022       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+npttech.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+msg.qy.net                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ns.zdbb.net                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+online-prod.zenmxapps.com                                                                            ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+opensharecount.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+oms.expedia.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ophan.theguardian.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+optnmstr.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        501        AVAILABILITY 
+pegloang.com                                                                                         ACTIVE      WHOIS      13-apr-2022       URL Solutions, Inc.            200        AVAILABILITY 
+perf.hsforms.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+perr.h-cdn.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ping.kitidi.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pingback.issuu.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+pipedream.wistia.com                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+piwik.nobleprog.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+piwik.org                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+piwik.pro                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+piwik.digineo.de                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
+pix.pub                                                                                              ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+pix.nbcuni.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+pixel.s3xified.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+movestone.net                                                                                        ACTIVE      WHOIS      02-mar-2023       Chengdu West Dimension Digital Technology Co., Ltd. Unknown    AVAILABILITY 
+pixanalytics.pixnet.net                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pixel.condenastdigital.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        503        AVAILABILITY 
+pixanalytics2.pixnet.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+pixel.wp.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+pixels.truvidplayer.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+pixel.yabidos.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+pixiedust.buzzfeed.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+plausible.io                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+poole-collector-prod.n3twork.com                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+privacy-policy.truste.com                                                                            ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+playtomic.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+popupmaker.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+promotionengine.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+propeller-tracking.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+prooffactor.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+prx.wayfair.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+pjhku.com                                                                                            ACTIVE      WHOIS      10-jul-2022       Xin Net Technology Corporation 200        AVAILABILITY 
+pv.medialead.de                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+pymx5.com                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+q.quora.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
+pv.sohu.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        502        AVAILABILITY 
+qqkabb.com                                                                                           ACTIVE      WHOIS      05-nov-2022       West263 International Limited  Unknown    AVAILABILITY 
+r.3gl.net                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+q2melbourne.com                                                                                      ACTIVE      WHOIS      02-may-2022       GoDaddy.com, LLC               200        AVAILABILITY 
+r.bbci.co.uk                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+rabbitbreath.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        308        AVAILABILITY 
+rclog.rcplatformhk.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+r1.snnd.co                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+redfastlabs.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+redinvestor.com                                                                                      ACTIVE      WHOIS      02-aug-2023       TurnCommerce, Inc. DBA NameBright.com 302        AVAILABILITY 
+redretarget.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+play.leadzutw.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+relay.fiverr.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+referer.pixplug.in                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+reports.ubimo.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+report.uc.heytapmobi.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+reveal.clearbit.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+remyyadan.online.fr                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pv.pjtsu.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+richmetrics.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+risk.clearbit.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+rlog.9gag.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+rochesterdata.com                                                                                    ACTIVE      WHOIS      31-may-2023       TurnCommerce, Inc. DBA NameBright.com 302        AVAILABILITY 
+rs6.net                                                                                              ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+robinkornett.com                                                                                     ACTIVE      WHOIS      07-may-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+roistat.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+rta2.metro.co.uk                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+rtb123.com                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+rsrly.com                                                                                            ACTIVE      WHOIS      26-mar-2022       ! #1 Host Australia, LLC       301        AVAILABILITY 
+rum-collector-2.pingdom.net                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+rum-collector.pingdom.net                                                                            ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+rum-static.pingdom.net                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+s.iaudienc.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+rum.uptime.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+s.ntv.io                                                                                             ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+s.infogram.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+s3-analytics-events.easybrain.com                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s.yjtag.jp                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+safegraph.com                                                                                        ACTIVE      WHOIS      30-mar-2022       Google LLC                     302        AVAILABILITY 
+salecycle.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+safelyawake.com                                                                                      ACTIVE      WHOIS      25-apr-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+salesloft.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+salesiq.zoho.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+reachmax.cn                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+sc-static.net                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+sc.pages03.net                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+saspreview.com                                                                                       ACTIVE      WHOIS      06-aug-2022       SafeBrands SAS                 200        AVAILABILITY 
+sdk-monitoring.ogury.co                                                                              ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+seal.networksolutions.com                                                                            ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+seal.godaddy.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+sam4m.com                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+seal.digicert.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+selfishsnake.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        308        AVAILABILITY 
+sessions.bugsnag.com                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        405        AVAILABILITY 
+semantiqo.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+rta.dailymail.co.uk                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+siteimproveanalytics.com                                                                             ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+siteimproveanalytics.io                                                                              ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+smart-dmp.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+simplesharebuttons.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+smetrics.bestbuy.com                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+smetrics.boston.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+smetrics.fedex.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+snap.licdn.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+snowplow-pixel.tradingview.com                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+soflopxl.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+snnd.co                                                                                              ACTIVE      WHOIS      14-feb-2023       Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) Unknown    AVAILABILITY 
+soidc.com                                                                                            ACTIVE      WHOIS      10-aug-2024       Alibaba Cloud Computing (Beijing) Co., Ltd. 200        AVAILABILITY 
+srmdata.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+soperson.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ssc.api.bbc.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+ssm.codes                                                                                            ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+stat.analytiall.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+stat.hackedonlinegames.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+stat.i3.dmm.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+seal.qualys.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+stat.meitudata.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+stathat.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+static.leaddyno.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+showbiz.owndata.network                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static.intentarget.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+static.site24x7rum.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+stat2.openinstall.io                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+stats.avaaz.org                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+stats.apester.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+stats.betradar.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+stats.ccleanerbrowser.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+stats.fifthstarlabs.io                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+stats.norton.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        204        AVAILABILITY 
+stats.playrix.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+stats.popcap.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+stats.pornpics.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        204        AVAILABILITY 
+stats.pusher.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+stats.vk-portal.net                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+stats.searchftps.net                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+spt.performgroup.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+stats.wp.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+stats.zotabox.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+stats.xtraffic.xyz                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+stats.xtb.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+statsforads.com                                                                                      ACTIVE      WHOIS      28-nov-2022       OVH sas                        200        AVAILABILITY 
+summerhamster.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+subscribers.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+surveywall-api.survata.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+suriflowers.com                                                                                      ACTIVE      WHOIS      09-jul-2023       Key-Systems GmbH               302        AVAILABILITY 
+swa.and.co.uk                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+sync2ad.com                                                                                          ACTIVE      WHOIS      04-sep-2022       GoDaddy.com, LLC               301        AVAILABILITY 
+t.9gag.com                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+t.dtscdn.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+t.dailymail.co.uk                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+t.eloqua.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+t.freelancer.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+tag.wknd.ai                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+svibeacon.onezapp.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+tagmanager.alright.network                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+tagger.ope.scmp.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+tdf.ringier.ch                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tamgrt.com                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+ted.dailymail.co.uk                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+ted.metro.co.uk                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        500        AVAILABILITY 
+stats.unlimapps.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tedgenet.com                                                                                         ACTIVE      WHOIS      11-oct-2022       NameCheap, Inc.                Unknown    AVAILABILITY 
+telemetry.acronis.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+telemetry.api.swiftkey.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+telemetry.dropbox.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+telemetry.tradingview.com                                                                            ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+telemetry.art19.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
