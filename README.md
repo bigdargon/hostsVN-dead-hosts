@@ -1,6 +1,7 @@
-# About [repository-name]
+# About hostsVN-dead-hosts
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Dead Hosts Infrastructure Workflow](https://github.com/bigdargon/hostsVN-dead-hosts/actions/workflows/main.yml/badge.svg)](https://github.com/bigdargon/hostsVN-dead-hosts/actions/workflows/main.yml)
+
 
 ```
 [description]
