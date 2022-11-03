@@ -17078,3 +17078,10 @@ ntrb.qc.coccoc.com                                                              
 qc.coccoc.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
 shop-cdn.coccoc.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 banners-gallery.coccoc.com                                                                           ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+banners-gallery.coccoc.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+qc.coccoc.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
+cp.qc.coccoc.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
+searcher.qc.coccoc.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+shop-cdn.coccoc.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ssp.qc.coccoc.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static.adconnect.vn                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
