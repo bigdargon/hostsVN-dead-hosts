@@ -1,8 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-matomo.energyfacility.vn,AVAILABILITY,origin.list,2022-11-01 19:12:38.435518
 qc.coccoc.vn,AVAILABILITY,origin.list,2022-11-02 07:47:48.441803
 cdn2.cache.vn,AVAILABILITY,origin.list,2022-11-02 08:27:10.809233
-www.zlbdvgjlxm.com,AVAILABILITY,origin.list,2022-11-02 16:17:11.982524
 exchange.unrulymedia.com,AVAILABILITY,origin.list,2022-11-03 00:11:14.613033
 screenshielded.com,AVAILABILITY,origin.list,2022-11-03 12:38:41.483447
 mobilereport.agency,AVAILABILITY,origin.list,2022-11-03 12:38:41.910018
@@ -418,3 +416,5 @@ vad.appier.net,AVAILABILITY,origin.list,2022-11-03 18:01:20.683014
 api.adnet.mob.com,AVAILABILITY,origin.list,2022-11-03 18:01:21.514548
 www.ubewpjbfo.com,AVAILABILITY,origin.list,2022-11-03 18:01:30.965213
 www.jgejqdddslxry.com,AVAILABILITY,origin.list,2022-11-03 18:01:32.434041
+www.zlbdvgjlxm.com,AVAILABILITY,origin.list,2022-11-04 00:26:44.456643
+matomo.energyfacility.vn,AVAILABILITY,origin.list,2022-11-04 00:26:58.802005
