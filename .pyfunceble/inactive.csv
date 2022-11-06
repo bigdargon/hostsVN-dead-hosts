@@ -1,15 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 qc.coccoc.vn,AVAILABILITY,origin.list,2022-11-04 01:09:29.726308
-hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-04 20:26:49.323163
-hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-04 20:26:49.702613
-thongke.khampha.vn,AVAILABILITY,origin.list,2022-11-04 20:26:51.090903
-www5.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-04 20:26:51.507157
-cdn.ggsfq.com,AVAILABILITY,origin.list,2022-11-04 20:26:52.247912
-campaign.myad.vn,AVAILABILITY,origin.list,2022-11-04 20:26:52.403407
-adserver.sudo.vn,AVAILABILITY,origin.list,2022-11-04 20:26:52.557793
-zminer.zaloapp.com,AVAILABILITY,origin.list,2022-11-04 20:26:53.132269
-ga.kvideo.io,AVAILABILITY,origin.list,2022-11-04 20:26:53.252332
-www7.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-04 20:26:54.661469
 www.mvdwjofacq.com,AVAILABILITY,origin.list,2022-11-04 20:27:04.799981
 www.mpnoqwbkz.com,AVAILABILITY,origin.list,2022-11-04 20:47:25.937427
 www.yljyjadlx.com,AVAILABILITY,origin.list,2022-11-04 20:47:25.949137
@@ -456,3 +446,13 @@ count.advinci.net,AVAILABILITY,origin.list,2022-11-06 06:34:12.193214
 analytics.edgekey.net,AVAILABILITY,origin.list,2022-11-06 06:34:12.391223
 www.loopme.me,AVAILABILITY,origin.list,2022-11-06 06:34:13.164023
 www.kiolim.com,AVAILABILITY,origin.list,2022-11-06 06:34:13.353904
+thongke.khampha.vn,AVAILABILITY,origin.list,2022-11-06 06:55:29.150856
+hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-06 06:55:29.325099
+hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-06 06:55:29.417398
+campaign.myad.vn,AVAILABILITY,origin.list,2022-11-06 06:55:30.627961
+adserver.sudo.vn,AVAILABILITY,origin.list,2022-11-06 06:55:30.837074
+cdn.ggsfq.com,AVAILABILITY,origin.list,2022-11-06 06:55:30.844450
+ga.kvideo.io,AVAILABILITY,origin.list,2022-11-06 06:55:31.950478
+zminer.zaloapp.com,AVAILABILITY,origin.list,2022-11-06 06:55:32.356237
+www5.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-06 06:55:36.757461
+www7.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-06 06:55:43.975031
