@@ -1,17 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 matomo.energyfacility.vn,AVAILABILITY,origin.list,2022-11-05 16:59:42.879121
 kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-11-06 01:13:43.457336
-clk.gammadsp.com,AVAILABILITY,origin.list,2022-11-06 01:13:50.450097
-imp.gammadsp.com,AVAILABILITY,origin.list,2022-11-06 01:13:50.557742
-ad.kakaocorp.com,AVAILABILITY,origin.list,2022-11-06 01:13:50.780292
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,2022-11-06 01:13:50.905586
-www.gammadsp.com,AVAILABILITY,origin.list,2022-11-06 01:13:51.347686
-trk.gammadsp.com,AVAILABILITY,origin.list,2022-11-06 01:13:51.389518
-mautic.datium.vn,AVAILABILITY,origin.list,2022-11-06 01:13:52.234848
-adfill.fuseplatform.net,AVAILABILITY,origin.list,2022-11-06 01:13:52.283806
-mautic.itnavi.com.vn,AVAILABILITY,origin.list,2022-11-06 01:13:53.076206
-ad.kakao.com,AVAILABILITY,origin.list,2022-11-06 01:13:53.345485
-mautic.dongdomedia.vn,AVAILABILITY,origin.list,2022-11-06 01:34:53.535798
 js.chin-adnetwork.com,AVAILABILITY,origin.list,2022-11-06 01:34:53.604567
 media.adasiaholdings.com,AVAILABILITY,origin.list,2022-11-06 01:34:55.941559
 www.mobisage.cn,AVAILABILITY,origin.list,2022-11-06 01:34:56.250409
@@ -458,3 +448,13 @@ config.mobisage.cn,AVAILABILITY,origin.list,2022-11-08 04:32:44.317261
 bc.mobisage.cn,AVAILABILITY,origin.list,2022-11-08 04:32:44.575806
 cm.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:32:45.211026
 metrics.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:32:46.114878
+clk.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:53:19.787368
+imp.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:53:19.913742
+ad.kakaocorp.com,AVAILABILITY,origin.list,2022-11-08 04:53:20.450508
+www.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:53:21.875953
+trk.gammadsp.com,AVAILABILITY,origin.list,2022-11-08 04:53:22.309489
+adfill.fuseplatform.net,AVAILABILITY,origin.list,2022-11-08 04:53:24.482888
+mautic.datium.vn,AVAILABILITY,origin.list,2022-11-08 04:53:25.163602
+mautic.itnavi.com.vn,AVAILABILITY,origin.list,2022-11-08 04:53:27.029414
+ad.kakao.com,AVAILABILITY,origin.list,2022-11-08 04:53:28.810948
+mautic.dongdomedia.vn,AVAILABILITY,origin.list,2022-11-08 04:53:29.194355
