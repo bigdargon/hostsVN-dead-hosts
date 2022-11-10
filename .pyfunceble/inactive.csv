@@ -1,14 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:41.103174
-me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:42.355399
-me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:43.275348
-nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:43.321814
-cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:44.845381
 c.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:44.889423
 my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:45.738206
-sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:45.745704
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:46.590014
-sso.stats.vng.com.vn,AVAILABILITY,origin.list,2022-11-08 05:13:47.143120
 nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:47.892102
 pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:48.656048
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-08 05:13:49.449178
@@ -467,3 +460,10 @@ kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-11-10 0
 itx5-publicidad.smartadserver.com,AVAILABILITY,origin.list,2022-11-10 05:33:06.471248
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,2022-11-10 05:33:09.282714
 au-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 05:33:10.171821
+nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:13.875558
+me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:17.980763
+me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:18.554087
+in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:18.917051
+cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:23.107929
+sso.stats.vng.com.vn,AVAILABILITY,origin.list,2022-11-10 06:17:25.746569
+sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:38.405902

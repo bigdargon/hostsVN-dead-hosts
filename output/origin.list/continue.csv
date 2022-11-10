@@ -17295,3 +17295,10 @@ kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,origin.list,
 itx5-publicidad.smartadserver.com,AVAILABILITY,origin.list,origin.list,2022-11-10 05:33:06.471248,fef74c982d1a13143ec68094
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,origin.list,2022-11-10 05:33:09.282714,fef74c982d1a13143ec68094
 au-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 05:33:10.171821,fef74c982d1a13143ec68094
+nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:13.875558,fef74c982d1a13143ec68094
+me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:17.980763,fef74c982d1a13143ec68094
+me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:18.554087,fef74c982d1a13143ec68094
+in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:18.917051,fef74c982d1a13143ec68094
+cf.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:23.107929,fef74c982d1a13143ec68094
+sso.stats.vng.com.vn,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:25.746569,fef74c982d1a13143ec68094
+sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-10 06:17:38.405902,fef74c982d1a13143ec68094
