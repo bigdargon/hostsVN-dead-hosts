@@ -1,19 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:15.777728
-me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:15.817218
-me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:20.704172
-in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:20.719187
-cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:24.862741
-sso.stats.vng.com.vn,AVAILABILITY,origin.list,2022-11-10 06:14:29.291196
-my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:36.204165
-c.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:40.011024
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:41.234699
-sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:41.234666
-nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:49.273905
-pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:14:57.273279
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:15:00.556729
 th-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:15:02.149788
-www.rimpirbtmxg.com,AVAILABILITY,origin.list,2022-11-10 06:15:10.310662
 us-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:15:10.528394
 www.ucxfdvhuqwpig.com,AVAILABILITY,origin.list,2022-11-10 06:15:13.691978
 www.vbscgrnkoceya.com,AVAILABILITY,origin.list,2022-11-10 06:15:15.038914
@@ -469,3 +456,16 @@ kpi.stats.vng.com.vn,AVAILABILITY,origin.list,2022-11-11 17:35:17.669101
 au-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 17:35:37.295803
 kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-11-11 17:35:38.801200
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,2022-11-11 17:35:42.492140
+me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:16:50.846200
+nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:16:51.024243
+me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:16:55.423865
+sso.stats.vng.com.vn,AVAILABILITY,origin.list,2022-11-11 18:16:55.514200
+in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:16:55.738943
+cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:16:58.792316
+my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:08.718694
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:13.537507
+sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:13.571267
+nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:16.414122
+c.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:16.515254
+pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-11 18:17:26.647434
+www.rimpirbtmxg.com,AVAILABILITY,origin.list,2022-11-11 18:17:29.311513
