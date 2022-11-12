@@ -1,18 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 matomo.energyfacility.vn,AVAILABILITY,origin.list,2022-11-10 06:15:45.528959
-www8-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:16:43.221514
-au.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:16:46.878448
-me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:16:50.671961
-my.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:00.504309
-sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:05.207482
-loles.neostrada.pl,AVAILABILITY,origin.list,2022-11-10 06:17:05.790429
 msn-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:07.540838
-www.eyeota.net,AVAILABILITY,origin.list,2022-11-10 06:17:07.556409
 hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:08.465338
-cdn2.aniview.com,AVAILABILITY,origin.list,2022-11-10 06:17:09.180857
-stats.vliplatform.com,AVAILABILITY,origin.list,2022-11-10 06:17:10.951924
-ad.daum.net,AVAILABILITY,origin.list,2022-11-10 06:17:11.401481
-eu-edge.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:17:12.164617
 www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:15.546693
 cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:29.589518
 www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:31.868552
@@ -469,3 +458,14 @@ adt.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 00:54:10.033218
 in-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 00:54:12.334102
 id-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 00:54:14.853875
 ph-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 00:54:22.389571
+my.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:14:57.046320
+www8-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:14:57.925844
+au.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:01.004489
+me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:01.445898
+www.eyeota.net,AVAILABILITY,origin.list,2022-11-12 01:15:03.530948
+loles.neostrada.pl,AVAILABILITY,origin.list,2022-11-12 01:15:03.920178
+cdn2.aniview.com,AVAILABILITY,origin.list,2022-11-12 01:15:05.566345
+stats.vliplatform.com,AVAILABILITY,origin.list,2022-11-12 01:15:07.435379
+ad.daum.net,AVAILABILITY,origin.list,2022-11-12 01:15:09.658358
+eu-edge.ad1x.com,AVAILABILITY,origin.list,2022-11-12 01:15:11.017652
+sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:19.194204
