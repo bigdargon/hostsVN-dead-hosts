@@ -1,19 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 matomo.energyfacility.vn,AVAILABILITY,origin.list,2022-11-10 06:15:45.528959
-msn-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:07.540838
-hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:08.465338
-www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:15.546693
-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:29.589518
-www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:31.868552
-www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:36.310723
-www2.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:37.006270
-v.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-10 06:17:40.085754
-hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-10 06:17:41.653661
-hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-10 06:17:43.360786
-count.advinci.net,AVAILABILITY,origin.list,2022-11-10 06:17:45.045199
 www.loopme.me,AVAILABILITY,origin.list,2022-11-10 06:38:06.837282
 edge.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:38:08.573429
-stg-cdn.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:38:10.010586
 eu-cdn.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:38:11.494898
 cdn.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:38:13.195529
 stg-edge.ad1x.com,AVAILABILITY,origin.list,2022-11-10 06:38:14.484565
@@ -469,3 +457,15 @@ stats.vliplatform.com,AVAILABILITY,origin.list,2022-11-12 01:15:07.435379
 ad.daum.net,AVAILABILITY,origin.list,2022-11-12 01:15:09.658358
 eu-edge.ad1x.com,AVAILABILITY,origin.list,2022-11-12 01:15:11.017652
 sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:19.194204
+msn-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:45.089569
+www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.408098
+cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.419648
+hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.677378
+www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:06.101188
+hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-12 02:19:07.734009
+www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.207252
+hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-12 02:19:09.272618
+www2.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.462969
+v.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.491693
+count.advinci.net,AVAILABILITY,origin.list,2022-11-12 02:19:10.886980
+stg-cdn.ad1x.com,AVAILABILITY,origin.list,2022-11-12 02:19:10.889319
