@@ -1,14 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:01.445898
-sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 01:15:19.194204
-msn-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:45.089569
-www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.408098
-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.419648
-hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:18:48.677378
 www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:06.101188
-hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-12 02:19:07.734009
 www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.207252
-hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-12 02:19:09.272618
 www2.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.462969
 v.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 02:19:09.491693
 count.advinci.net,AVAILABILITY,origin.list,2022-11-12 02:19:10.886980
@@ -484,3 +476,11 @@ stats.vliplatform.com,AVAILABILITY,origin.list,2022-11-13 17:40:00.882035
 eu-edge.ad1x.com,AVAILABILITY,origin.list,2022-11-13 17:40:01.672421
 au.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 17:40:02.485592
 ad.daum.net,AVAILABILITY,origin.list,2022-11-13 17:40:02.532579
+msn-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:27.318546
+sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:29.790189
+me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:30.164468
+www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:30.219947
+cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:30.574822
+hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-13 18:21:31.936414
+hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-13 18:21:32.402773
+hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 18:21:49.347332
