@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:46:50.064341
-in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:46:59.338214
-my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:00.623986
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:00.830945
-cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:02.583705
-sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:07.501323
-www.rimpirbtmxg.com,AVAILABILITY,origin.list,2022-11-12 18:47:15.301051
-nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:16.790209
-pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:18.540176
-c.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-12 18:47:21.076629
 tearsheet-stg.ads.yahoo.com,AVAILABILITY,origin.list,2022-11-13 05:28:37.289243
 vpaid.adsafeprotected.com,AVAILABILITY,origin.list,2022-11-13 05:46:18.020304
 x.fidelity-media.com,AVAILABILITY,origin.list,2022-11-13 05:58:08.262929
@@ -475,3 +465,13 @@ kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,2022-11-14 0
 me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 04:39:36.529297
 nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 04:39:36.572383
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,2022-11-14 04:39:43.395075
+in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:15.775685
+me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:15.921104
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:15.930044
+my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:16.044175
+cf.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:18.711450
+www.rimpirbtmxg.com,AVAILABILITY,origin.list,2022-11-14 05:00:28.857035
+sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:33.734731
+pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:33.971247
+nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:33.999709
+c.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 05:00:39.467662

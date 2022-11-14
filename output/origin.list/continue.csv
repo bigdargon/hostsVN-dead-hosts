@@ -17423,3 +17423,13 @@ kraken.production.us-west-1.kops.kargo.com,AVAILABILITY,origin.list,origin.list,
 me-ssl.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 04:39:36.529297,ba4f156c2094e7c754a0a745
 nz-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 04:39:36.572383,ba4f156c2094e7c754a0a745
 stg-sync-jp.im-apps.net,AVAILABILITY,origin.list,origin.list,2022-11-14 04:39:43.395075,ba4f156c2094e7c754a0a745
+in-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:15.775685,ba4f156c2094e7c754a0a745
+me-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:15.921104,ba4f156c2094e7c754a0a745
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:15.930044,ba4f156c2094e7c754a0a745
+my-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:16.044175,ba4f156c2094e7c754a0a745
+cf.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:18.711450,ba4f156c2094e7c754a0a745
+www.rimpirbtmxg.com,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:28.857035,ba4f156c2094e7c754a0a745
+sg-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:33.734731,ba4f156c2094e7c754a0a745
+pk-cdn.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:33.971247,ba4f156c2094e7c754a0a745
+nz-ssl.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:33.999709,ba4f156c2094e7c754a0a745
+c.effectivemeasure.net,AVAILABILITY,origin.list,origin.list,2022-11-14 05:00:39.467662,ba4f156c2094e7c754a0a745
