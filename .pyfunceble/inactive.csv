@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-tearsheet-stg.ads.yahoo.com,AVAILABILITY,origin.list,2022-11-13 05:28:37.289243
-vpaid.adsafeprotected.com,AVAILABILITY,origin.list,2022-11-13 05:46:18.020304
-x.fidelity-media.com,AVAILABILITY,origin.list,2022-11-13 05:58:08.262929
-stats.fidelity-media.com,AVAILABILITY,origin.list,2022-11-13 05:58:09.554005
-dsp.smaato.net,AVAILABILITY,origin.list,2022-11-13 06:13:00.471742
-vietnamnetad.vn,AVAILABILITY,origin.list,2022-11-13 08:01:51.076381
-ads.lapalingo.com,AVAILABILITY,origin.list,2022-11-13 09:09:03.269122
-www.ucxfdvhuqwpig.com,AVAILABILITY,origin.list,2022-11-13 16:37:21.193971
-www.vbscgrnkoceya.com,AVAILABILITY,origin.list,2022-11-13 16:37:21.490316
-seb.scorecardresearch.com,AVAILABILITY,origin.list,2022-11-13 16:37:23.010666
-view-prod.ad.singular.net,AVAILABILITY,origin.list,2022-11-13 16:37:23.252290
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 16:37:23.915262
 ad.allstar.cz,AVAILABILITY,origin.list,2022-11-13 16:57:48.671458
 za-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-13 16:58:04.408112
@@ -479,3 +468,9 @@ iad-02.braze.com,AVAILABILITY,origin.list,2022-11-14 07:08:44.684306
 matching.truffle.bid,AVAILABILITY,origin.list,2022-11-14 07:42:33.619508
 ads.sift.co.uk,AVAILABILITY,origin.list,2022-11-14 09:13:57.597060
 www.goodnotification.net,AVAILABILITY,origin.list,2022-11-14 13:07:53.531633
+x.fidelity-media.com,AVAILABILITY,origin.list,2022-11-14 16:58:50.696983
+stats.fidelity-media.com,AVAILABILITY,origin.list,2022-11-14 16:58:50.796253
+seb.scorecardresearch.com,AVAILABILITY,origin.list,2022-11-14 16:58:52.650342
+view-prod.ad.singular.net,AVAILABILITY,origin.list,2022-11-14 16:58:53.650995
+www.ucxfdvhuqwpig.com,AVAILABILITY,origin.list,2022-11-14 16:59:03.040159
+www.vbscgrnkoceya.com,AVAILABILITY,origin.list,2022-11-14 16:59:03.644129
