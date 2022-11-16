@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www3.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 20:06:56.211926
-www4.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 20:06:56.355591
-yahoo.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-14 20:06:56.686350
-aos.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:37:48.191022
-g.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:37:48.235821
-geo.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:37:49.036647
-img.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:37:49.579874
-in1.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:37:50.119781
 log.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:38:00.127570
 offer.gop1.co,AVAILABILITY,origin.list,2022-11-15 06:38:00.275751
 ads.adservme.com,AVAILABILITY,origin.list,2022-11-15 06:42:55.490953
@@ -501,3 +493,11 @@ www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 16:56:26.275071
 www2.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 16:56:26.806360
 c.deployads.com,AVAILABILITY,origin.list,2022-11-16 16:56:28.756597
 www6.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 16:56:34.167744
+aos.gop1.co,AVAILABILITY,origin.list,2022-11-16 17:17:12.709764
+g.gop1.co,AVAILABILITY,origin.list,2022-11-16 17:17:12.748584
+yahoo.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 17:17:20.998321
+www3.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 17:17:21.067163
+www4.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-16 17:17:21.317515
+geo.gop1.co,AVAILABILITY,origin.list,2022-11-16 17:17:25.081676
+img.gop1.co,AVAILABILITY,origin.list,2022-11-16 17:17:25.256020
+in1.gop1.co,AVAILABILITY,origin.list,2022-11-16 17:17:33.335399
