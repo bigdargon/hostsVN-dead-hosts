@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-au.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 01:54:41.267097
-me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 01:54:44.357478
-hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 01:55:01.300985
-www.mpnoqwbkz.com,AVAILABILITY,origin.list,2022-11-18 02:15:06.142128
-cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:16.178876
-v.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:16.183393
-www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:16.305551
-www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:16.516720
-c.deployads.com,AVAILABILITY,origin.list,2022-11-18 02:15:18.339465
-www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:28.560664
-aos.gop1.co,AVAILABILITY,origin.list,2022-11-18 02:15:28.968920
-g.gop1.co,AVAILABILITY,origin.list,2022-11-18 02:15:30.468358
 www2.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:38.791873
 www6.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:39.908357
 yahoo.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-18 02:15:50.937520
@@ -504,3 +492,15 @@ diff4.smartadserver.com,AVAILABILITY,origin.list,2022-11-20 03:16:33.849078
 pixel.alexametrics.com,AVAILABILITY,origin.list,2022-11-20 03:16:35.738517
 sea.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:16:45.307008
 my.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:16:49.846777
+www.mpnoqwbkz.com,AVAILABILITY,origin.list,2022-11-20 03:58:00.410808
+au.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:04.441396
+cdn.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:09.183020
+me.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:09.190176
+hk.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:09.552734
+c.deployads.com,AVAILABILITY,origin.list,2022-11-20 03:58:11.363833
+v.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:21.266160
+aos.gop1.co,AVAILABILITY,origin.list,2022-11-20 03:58:23.692041
+www9.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:25.296781
+www.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:30.226395
+www1.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-20 03:58:30.641886
+g.gop1.co,AVAILABILITY,origin.list,2022-11-20 03:58:33.548863
