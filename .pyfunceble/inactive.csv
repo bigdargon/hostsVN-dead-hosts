@@ -1,13 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-reporting.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:30:56.929297
-reporting2.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:30:58.759534
-rex-east.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:31:34.939387
-rex-west.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:36:40.352585
-soundwave.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:36:53.032716
 rex.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:36:53.613559
 sj11.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:36:53.858978
 video.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:36:55.223267
-ums.adtechus.com,AVAILABILITY,origin.list,2022-11-22 06:37:19.298120
 vsb.bnmla.com,AVAILABILITY,origin.list,2022-11-22 06:37:39.750155
 metrics.linkshare.com,AVAILABILITY,origin.list,2022-11-22 06:41:32.364612
 services.scanscout.com,AVAILABILITY,origin.list,2022-11-22 06:42:02.589159
@@ -468,3 +462,9 @@ hound.bnmla.com,AVAILABILITY,origin.list,2022-11-23 19:12:37.903013
 mt.bnmla.com,AVAILABILITY,origin.list,2022-11-23 19:12:37.922027
 naing.bnmla.com,AVAILABILITY,origin.list,2022-11-23 19:12:41.832154
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-11-23 19:13:01.841857
+rex-west.bnmla.com,AVAILABILITY,origin.list,2022-11-23 20:15:33.686505
+rex-east.bnmla.com,AVAILABILITY,origin.list,2022-11-23 20:15:33.960065
+reporting.bnmla.com,AVAILABILITY,origin.list,2022-11-23 20:15:37.608350
+reporting2.bnmla.com,AVAILABILITY,origin.list,2022-11-23 20:15:37.897864
+ums.adtechus.com,AVAILABILITY,origin.list,2022-11-23 20:15:39.172827
+soundwave.bnmla.com,AVAILABILITY,origin.list,2022-11-23 20:15:57.046390
