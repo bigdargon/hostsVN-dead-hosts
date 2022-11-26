@@ -1,13 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-cdn0.bnmla.com,AVAILABILITY,origin.list,2022-11-25 01:41:57.716919
-ad.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:03.770845
-cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:04.525808
-cdnin.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:06.921644
-dc21.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:17.344670
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:32.890568
 edge.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:33.952728
 hound.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:36.407581
-dsp.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:36.777227
 mt.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:02:48.839503
 rex-west.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:23:21.012092
 rex-east.bnmla.com,AVAILABILITY,origin.list,2022-11-25 02:23:23.898127
@@ -485,3 +479,9 @@ www.servebom.com,AVAILABILITY,origin.list,2022-11-26 16:48:06.576227
 px.content-ad.net,AVAILABILITY,origin.list,2022-11-26 16:48:10.499132
 t.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-26 16:48:13.654275
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-11-26 16:48:51.100353
+cdn0.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:02.780411
+ad.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:02.961009
+cdnin.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:03.279638
+cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:03.463675
+dc21.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:24.318685
+dsp.bnmla.com,AVAILABILITY,origin.list,2022-11-26 17:09:34.998446
