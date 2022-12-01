@@ -1,17 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-rex-west.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:52:29.713358
-rex-east.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:52:30.923945
-hound.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:52:32.956906
-mt.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:52:35.201351
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:52:39.149590
-cdn2.aniview.com,AVAILABILITY,origin.list,2022-11-29 18:52:40.747997
-mon1.marketo.com,AVAILABILITY,origin.list,2022-11-29 18:52:41.240398
-mm.marketo.com,AVAILABILITY,origin.list,2022-11-29 18:52:41.419336
-vi.gumgum.com,AVAILABILITY,origin.list,2022-11-29 18:52:42.283209
-hwdata2.aniview.com,AVAILABILITY,origin.list,2022-11-29 18:52:42.494727
-hwdata1.aniview.com,AVAILABILITY,origin.list,2022-11-29 18:52:43.055104
 cm.send.microadinc.com,AVAILABILITY,origin.list,2022-11-29 18:52:44.438192
-dsp.send.microadinc.com,AVAILABILITY,origin.list,2022-11-29 18:52:45.324288
 action-rtb.ibillboard.com,AVAILABILITY,origin.list,2022-11-29 18:52:46.051218
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:53:02.387127
 soundwave.bnmla.com,AVAILABILITY,origin.list,2022-11-29 19:13:33.258044
@@ -472,3 +461,14 @@ vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-12-01 16:23:24.951441
 ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-01 16:23:28.338955
 ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-01 16:23:30.404479
 tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-01 16:23:33.567519
+rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:44:31.899883
+rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:44:32.196789
+cdn2.aniview.com,AVAILABILITY,origin.list,2022-12-01 16:44:33.784739
+mon1.marketo.com,AVAILABILITY,origin.list,2022-12-01 16:44:34.724957
+mm.marketo.com,AVAILABILITY,origin.list,2022-12-01 16:44:36.318736
+vi.gumgum.com,AVAILABILITY,origin.list,2022-12-01 16:44:36.697267
+hound.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:44:37.616286
+hwdata2.aniview.com,AVAILABILITY,origin.list,2022-12-01 16:44:38.017612
+hwdata1.aniview.com,AVAILABILITY,origin.list,2022-12-01 16:44:38.328565
+mt.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:44:39.154345
+dsp.send.microadinc.com,AVAILABILITY,origin.list,2022-12-01 16:44:40.421321
