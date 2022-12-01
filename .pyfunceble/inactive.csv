@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-29 17:49:22.738994
-px.content-ad.net,AVAILABILITY,origin.list,2022-11-29 17:49:35.404778
-push.content-ad.net,AVAILABILITY,origin.list,2022-11-29 17:49:35.616592
-s.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-29 17:49:44.583252
-cdnin.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:10:04.365397
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:10:04.994475
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-11-29 18:10:05.001579
 t.effectivemeasure.net,AVAILABILITY,origin.list,2022-11-29 18:10:09.012234
@@ -472,3 +467,8 @@ my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-01 15:41:18.712859
 www.servebom.com,AVAILABILITY,origin.list,2022-12-01 15:41:18.860415
 match.bnmla.com,AVAILABILITY,origin.list,2022-12-01 15:41:19.536620
 pushrev.content-ad.net,AVAILABILITY,origin.list,2022-12-01 15:41:30.917785
+push.content-ad.net,AVAILABILITY,origin.list,2022-12-01 16:02:00.586590
+px.content-ad.net,AVAILABILITY,origin.list,2022-12-01 16:02:01.108357
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-01 16:02:08.743398
+s.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-01 16:02:09.011003
+cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:02:28.379510
