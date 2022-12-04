@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 01 Dec 2022 11:19 UTC+7
-# Version: 2212011119
-# Blocked: 17.028 domains
+# Last modified: 03 Dec 2022 22:06 UTC+7
+# Version: 2212032206
+# Blocked: 17.046 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3608,6 +3608,7 @@
 0.0.0.0 cdn.adskeeper.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 jsc.adskeeper.com
+0.0.0.0 s-img.adskeeper.com
 0.0.0.0 servicer.adskeeper.com
 0.0.0.0 widgets.adskeeper.com
 0.0.0.0 www.adskeeper.com
@@ -10990,6 +10991,11 @@
 0.0.0.0 adssettings.365scores.com
 0.0.0.0 analytics.365scores.com
 0.0.0.0 dhn-ads-api.365scores.com
+#[jadspro.live]
+0.0.0.0 click-v4.jadspro.live
+0.0.0.0 jadspro.live
+0.0.0.0 static.jadspro.live
+0.0.0.0 www.jadspro.live
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13834,6 +13840,7 @@
 0.0.0.0 anymoresentencevirgin.com
 0.0.0.0 aparvibices.com
 0.0.0.0 apathetictheory.com
+0.0.0.0 apathylahuli.website
 0.0.0.0 apex-ad.com
 0.0.0.0 aphidsclee.com
 0.0.0.0 aphycolourses.info
@@ -13856,6 +13863,7 @@
 0.0.0.0 apis.appnxt.net
 0.0.0.0 app-promo.com
 0.0.0.0 appads.com
+0.0.0.0 appbetnewapp.top
 0.0.0.0 appboy-images.com
 0.0.0.0 appclick.co
 0.0.0.0 appclick.net
@@ -14322,6 +14330,7 @@
 0.0.0.0 ccmcroads.com
 0.0.0.0 cd-ads.com
 0.0.0.0 cdn-server.top
+0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.digitru.st
 0.0.0.0 cdn.easyads28.mobi
@@ -15041,6 +15050,7 @@
 0.0.0.0 focusde.info
 0.0.0.0 fondlecokecombination.com
 0.0.0.0 fonecta.fi
+0.0.0.0 for-j.com
 0.0.0.0 forearmthrobjanuary.com
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -15072,6 +15082,7 @@
 0.0.0.0 frightenedpotato.com
 0.0.0.0 fryawlauk.com
 0.0.0.0 ftte.xyz
+0.0.0.0 fuffscreigh.website
 0.0.0.0 fumarinpest.com
 0.0.0.0 functionalclam.com
 0.0.0.0 functionalcrown.com
@@ -15318,6 +15329,7 @@
 0.0.0.0 huskypartydance.com
 0.0.0.0 hvxqkunspvtln.com
 0.0.0.0 hw.zuimeitianqi.com
+0.0.0.0 hwpnocpctu.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydramedia.com
@@ -15557,6 +15569,7 @@
 0.0.0.0 koacojus.net
 0.0.0.0 kogutcho.net
 0.0.0.0 koindut.com
+0.0.0.0 kokanmokum.tech
 0.0.0.0 kolkwi4tzicraamabilis.com
 0.0.0.0 kolobif.com
 0.0.0.0 komoona.com
@@ -15952,6 +15965,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nasrolaugers.com
 0.0.0.0 nastydollars.com
+0.0.0.0 native-track.com
 0.0.0.0 nativepu.sh
 0.0.0.0 nativeroll.tv
 0.0.0.0 nativewpsh.com
@@ -16988,6 +17002,7 @@
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 susifhfh2d8ldn09.com
 0.0.0.0 sviter2s1olenyami1.com
+0.0.0.0 svkmxwssih.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 sweetskojiki.com
 0.0.0.0 swesomepop.com
@@ -16998,6 +17013,7 @@
 0.0.0.0 swordgoose.com
 0.0.0.0 swpsvc.com
 0.0.0.0 sya9yncn3q.com
+0.0.0.0 syenitetatler.tech
 0.0.0.0 sync.quantumdex.io
 0.0.0.0 sync.vmweb.net
 0.0.0.0 syndapop.com
@@ -17111,6 +17127,7 @@
 0.0.0.0 threechurch.com
 0.0.0.0 thrnt.com
 0.0.0.0 throattrees.com
+0.0.0.0 throngsarseno.com
 0.0.0.0 thruport.com
 0.0.0.0 thterras.com
 0.0.0.0 tibacta.com
@@ -17458,6 +17475,7 @@
 0.0.0.0 weborama.fr
 0.0.0.0 webpinp.com
 0.0.0.0 webpower.com
+0.0.0.0 webpushdirect.biz
 0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 websponsors.com
@@ -17530,6 +17548,7 @@
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtlive.com
 0.0.0.0 wuksaiho.net
+0.0.0.0 wuzbhjpvsf.com
 0.0.0.0 wvhba6470p.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.520click.com
