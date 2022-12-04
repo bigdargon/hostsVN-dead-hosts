@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:23:08.774428
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:23:19.585365
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:23:20.254775
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-01 16:23:20.686051
@@ -476,3 +475,4 @@ vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-12-04 17:33:27.908926
 ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-04 17:33:29.968819
 ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-04 17:33:31.643112
 tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-04 17:33:33.682498
+cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:55:13.070976
