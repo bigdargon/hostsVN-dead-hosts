@@ -1,12 +1,8 @@
 idna_subject,checker_type,destination,tested_at
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:39:08.302232
 soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:39:35.132329
-rtb.vdo.ai,AVAILABILITY,origin.list,2022-12-04 20:20:51.594552
-ssp.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:20:53.403992
-uswest.rtb.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:20:55.245511
 static.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:20:57.075263
 xml.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:20:58.773759
-xml-g.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:21:00.085151
 aos.gop1.co,AVAILABILITY,origin.list,2022-12-04 20:21:00.176765
 faktorid-fid.choice.faktor.io,AVAILABILITY,origin.list,2022-12-04 20:21:01.658248
 dsp.adservme.com,AVAILABILITY,origin.list,2022-12-04 20:21:01.907543
@@ -474,3 +470,7 @@ rtb-uswest.adservme.com,AVAILABILITY,origin.list,2022-12-06 04:47:18.580594
 rtb-eu.adservme.com,AVAILABILITY,origin.list,2022-12-06 04:47:18.831897
 rtb.adservme.com,AVAILABILITY,origin.list,2022-12-06 04:47:20.206599
 filter.adservme.com,AVAILABILITY,origin.list,2022-12-06 04:47:20.272222
+uswest.rtb.adservme.com,AVAILABILITY,origin.list,2022-12-06 05:50:53.183291
+ssp.adservme.com,AVAILABILITY,origin.list,2022-12-06 05:50:53.241637
+rtb.vdo.ai,AVAILABILITY,origin.list,2022-12-06 05:50:53.323743
+xml-g.adservme.com,AVAILABILITY,origin.list,2022-12-06 05:50:55.009476
