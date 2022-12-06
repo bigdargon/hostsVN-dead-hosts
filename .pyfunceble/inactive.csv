@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-04 20:21:04.218142
-video.bnmla.com,AVAILABILITY,origin.list,2022-12-04 20:21:04.742937
-naing.bnmla.com,AVAILABILITY,origin.list,2022-12-04 20:21:06.615344
-geo.gop1.co,AVAILABILITY,origin.list,2022-12-04 20:21:13.661258
-systran.cheqzone.com,AVAILABILITY,origin.list,2022-12-04 20:21:14.331306
-stagingserve3.cheqzone.com,AVAILABILITY,origin.list,2022-12-04 20:21:14.332028
-brandsafe.adlooxtracking.com,AVAILABILITY,origin.list,2022-12-04 20:21:15.506057
-m.uttclimber.com,AVAILABILITY,origin.list,2022-12-04 20:21:16.416981
-g.gop1.co,AVAILABILITY,origin.list,2022-12-04 20:21:18.769623
-reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-04 20:21:36.669384
 dsp.demandbase.com,AVAILABILITY,origin.list,2022-12-05 06:29:30.136116
 www.beaverads.com,AVAILABILITY,origin.list,2022-12-05 06:53:06.527007
 budapestluv.xyz,AVAILABILITY,origin.list,2022-12-05 09:44:14.534054
@@ -474,3 +464,13 @@ foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:12:14.613103
 prebid.fqtag.com,AVAILABILITY,origin.list,2022-12-06 06:12:16.686359
 m.faktor.io,AVAILABILITY,origin.list,2022-12-06 06:12:17.362160
 gitlab.connatix.com,AVAILABILITY,origin.list,2022-12-06 06:12:18.842294
+geo.gop1.co,AVAILABILITY,origin.list,2022-12-06 06:32:31.269328
+systran.cheqzone.com,AVAILABILITY,origin.list,2022-12-06 06:32:31.338922
+brandsafe.adlooxtracking.com,AVAILABILITY,origin.list,2022-12-06 06:32:32.770597
+stagingserve3.cheqzone.com,AVAILABILITY,origin.list,2022-12-06 06:32:32.941786
+m.uttclimber.com,AVAILABILITY,origin.list,2022-12-06 06:32:34.270203
+g.gop1.co,AVAILABILITY,origin.list,2022-12-06 06:32:34.302590
+reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:13.613915
+video.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:14.024851
+naing.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:14.067878
+reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:28.765975
