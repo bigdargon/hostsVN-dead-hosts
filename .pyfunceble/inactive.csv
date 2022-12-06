@@ -1,15 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:33:22.246498
-ad.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:33:22.862908
-cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:55:13.070976
-rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:03.009278
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:03.852758
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:04.445327
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:04.571790
-cdn2.aniview.com,AVAILABILITY,origin.list,2022-12-04 19:18:04.682086
-mon1.marketo.com,AVAILABILITY,origin.list,2022-12-04 19:18:06.482768
-vi.gumgum.com,AVAILABILITY,origin.list,2022-12-04 19:18:06.766232
-mm.marketo.com,AVAILABILITY,origin.list,2022-12-04 19:18:07.075273
 hwdata2.aniview.com,AVAILABILITY,origin.list,2022-12-04 19:18:08.198042
 hwdata1.aniview.com,AVAILABILITY,origin.list,2022-12-04 19:18:08.339550
 cm.send.microadinc.com,AVAILABILITY,origin.list,2022-12-04 19:18:10.887473
@@ -473,3 +465,11 @@ ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:20.424028
 ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-06 03:21:29.553003
 tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:21:31.756401
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:22:19.568911
+rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:42:59.903126
+cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:43:11.200176
+ad.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:43:11.228478
+cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:43:11.520537
+cdn2.aniview.com,AVAILABILITY,origin.list,2022-12-06 03:43:13.297699
+vi.gumgum.com,AVAILABILITY,origin.list,2022-12-06 03:43:15.222987
+mm.marketo.com,AVAILABILITY,origin.list,2022-12-06 03:43:17.805651
+mon1.marketo.com,AVAILABILITY,origin.list,2022-12-06 03:43:18.900651
