@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:03.852758
-edge.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:04.445327
-dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:04.571790
-hwdata2.aniview.com,AVAILABILITY,origin.list,2022-12-04 19:18:08.198042
-hwdata1.aniview.com,AVAILABILITY,origin.list,2022-12-04 19:18:08.339550
-cm.send.microadinc.com,AVAILABILITY,origin.list,2022-12-04 19:18:10.887473
-dsp.send.microadinc.com,AVAILABILITY,origin.list,2022-12-04 19:18:11.036911
-adserver.justpremium.com,AVAILABILITY,origin.list,2022-12-04 19:18:12.754632
-action-rtb.ibillboard.com,AVAILABILITY,origin.list,2022-12-04 19:18:15.172496
 rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:16.269422
-d.justpremium.com,AVAILABILITY,origin.list,2022-12-04 19:18:17.982972
-e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2022-12-04 19:18:19.711642
-dmx.districtm.io,AVAILABILITY,origin.list,2022-12-04 19:18:21.526489
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:39:07.264411
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:39:07.286442
 mt.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:39:07.632581
@@ -473,3 +461,16 @@ cdn2.aniview.com,AVAILABILITY,origin.list,2022-12-06 03:43:13.297699
 vi.gumgum.com,AVAILABILITY,origin.list,2022-12-06 03:43:15.222987
 mm.marketo.com,AVAILABILITY,origin.list,2022-12-06 03:43:17.805651
 mon1.marketo.com,AVAILABILITY,origin.list,2022-12-06 03:43:18.900651
+videoads.hotstar.com,AVAILABILITY,origin.list,2022-12-06 04:14:33.186761
+hwdata2.aniview.com,AVAILABILITY,origin.list,2022-12-06 04:24:44.372687
+hwdata1.aniview.com,AVAILABILITY,origin.list,2022-12-06 04:24:44.463803
+dsp.send.microadinc.com,AVAILABILITY,origin.list,2022-12-06 04:24:47.110566
+cm.send.microadinc.com,AVAILABILITY,origin.list,2022-12-06 04:24:47.171836
+adserver.justpremium.com,AVAILABILITY,origin.list,2022-12-06 04:24:49.135480
+action-rtb.ibillboard.com,AVAILABILITY,origin.list,2022-12-06 04:24:51.261043
+d.justpremium.com,AVAILABILITY,origin.list,2022-12-06 04:24:53.137757
+e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2022-12-06 04:24:54.491260
+dmx.districtm.io,AVAILABILITY,origin.list,2022-12-06 04:24:56.735400
+dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:34.299373
+edge.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:34.974344
+dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:36.328076
