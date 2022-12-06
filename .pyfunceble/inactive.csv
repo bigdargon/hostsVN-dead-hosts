@@ -1,9 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:33:22.091222
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:33:22.246498
 ad.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:33:22.862908
-ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-04 17:33:31.643112
-tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-04 17:33:33.682498
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-04 17:55:13.070976
 rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:03.009278
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-04 19:18:03.852758
@@ -473,3 +470,6 @@ stmp.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:15.332380
 creative-templates-api.gumgum.com,AVAILABILITY,origin.list,2022-12-06 03:01:16.949145
 vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:18.372635
 ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:20.424028
+ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-06 03:21:29.553003
+tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:21:31.756401
+cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:22:19.568911
