@@ -16575,3 +16575,21 @@ rum-collector.pingdom.net                                                       
 rum-static.pingdom.net                                                                               ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
 rum.uptime.com                                                                                       ACTIVE      NETINFO    Unknown           Unknown                        301        AVAILABILITY 
 s.iaudienc.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+rum-static.pingdom.net                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+rum-collector.pingdom.net                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s.iaudienc.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+s.media-imdb.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+rum.uptime.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+s3-analytics-events.easybrain.com                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s.ntv.io                                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+s.infogram.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+s.yjtag.jp                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+safegraph.com                                                                                        ACTIVE      WHOIS      30-mar-2023       Google LLC                     302        AVAILABILITY 
+salesloft.com                                                                                        ACTIVE      WHOIS      21-nov-2023       NameCheap, Inc.                301        AVAILABILITY 
+salecycle.com                                                                                        ACTIVE      WHOIS      23-jun-2023       Amazon Registrar, Inc.         302        AVAILABILITY 
+sc-static.net                                                                                        ACTIVE      WHOIS      16-mar-2023       MarkMonitor Inc.               Unknown    AVAILABILITY 
+saspreview.com                                                                                       ACTIVE      WHOIS      06-aug-2023       SafeBrands SAS                 200        AVAILABILITY 
+salesiq.zoho.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+safelyawake.com                                                                                      ACTIVE      WHOIS      25-apr-2024       GoDaddy.com, LLC               301        AVAILABILITY 
+sc.pages03.net                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+sam4m.com                                                                                            ACTIVE      WHOIS      19-sep-2023       OVH sas                        302        AVAILABILITY 
