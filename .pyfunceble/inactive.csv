@@ -1,14 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-ad.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:43:11.228478
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:34.299373
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:34.974344
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:36.328076
-rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:46:58.568717
-sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2022-12-06 04:47:00.356853
-cdn.admarvel.com,AVAILABILITY,origin.list,2022-12-06 04:47:02.416659
-npi.adpopcorn.com,AVAILABILITY,origin.list,2022-12-06 04:47:04.202477
-rpc.adpopcorn.com,AVAILABILITY,origin.list,2022-12-06 04:47:05.918484
-fadsats.com,AVAILABILITY,origin.list,2022-12-06 04:47:07.737092
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:09.409612
 sadsipz.com,AVAILABILITY,origin.list,2022-12-06 04:47:09.647819
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:10.692001
@@ -478,3 +471,10 @@ dmx.districtm.io,AVAILABILITY,origin.list,2022-12-07 22:49:51.256947
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-07 22:50:41.245072
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:12:20.201702
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:33:33.034135
+rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:54:08.052938
+sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2022-12-07 23:54:09.555285
+cdn.admarvel.com,AVAILABILITY,origin.list,2022-12-07 23:54:11.427365
+npi.adpopcorn.com,AVAILABILITY,origin.list,2022-12-07 23:54:12.819247
+rpc.adpopcorn.com,AVAILABILITY,origin.list,2022-12-07 23:54:14.358930
+fadsats.com,AVAILABILITY,origin.list,2022-12-07 23:54:15.723988
+ad.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:54:27.758480
