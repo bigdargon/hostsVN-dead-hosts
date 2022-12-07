@@ -2,13 +2,6 @@ idna_subject,checker_type,destination,tested_at
 vsb.bnmla.com,AVAILABILITY,origin.list,2022-12-06 01:37:01.275934
 rex.bnmla.com,AVAILABILITY,origin.list,2022-12-06 01:37:01.347949
 sj11.bnmla.com,AVAILABILITY,origin.list,2022-12-06 01:37:01.829445
-cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:01:15.095270
-stmp.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:15.332380
-creative-templates-api.gumgum.com,AVAILABILITY,origin.list,2022-12-06 03:01:16.949145
-vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:18.372635
-ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:01:20.424028
-ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-06 03:21:29.553003
-tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-06 03:21:31.756401
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:22:19.568911
 rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:42:59.903126
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-06 03:43:11.200176
@@ -478,3 +471,10 @@ preview.ad.daum.net,AVAILABILITY,origin.list,2022-12-07 19:17:24.827299
 s.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-07 19:17:28.479631
 t.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-07 19:17:47.015004
 match.bnmla.com,AVAILABILITY,origin.list,2022-12-07 19:18:25.425503
+stmp.ad.daum.net,AVAILABILITY,origin.list,2022-12-07 19:38:48.807382
+creative-templates-api.gumgum.com,AVAILABILITY,origin.list,2022-12-07 19:38:50.257388
+vads-api.ad.daum.net,AVAILABILITY,origin.list,2022-12-07 19:38:53.264871
+ka.display.ad.daum.net,AVAILABILITY,origin.list,2022-12-07 19:38:56.727052
+ipinvite.iperceptions.com,AVAILABILITY,origin.list,2022-12-07 19:38:58.469318
+tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-07 19:39:01.661115
+cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-07 19:39:55.431641
