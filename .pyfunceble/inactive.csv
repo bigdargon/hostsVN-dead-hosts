@@ -2,14 +2,7 @@ idna_subject,checker_type,destination,tested_at
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:25:34.974344
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:09.409612
 mt.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:11.603580
-soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:12:05.635664
-logos.choice.faktor.io,AVAILABILITY,origin.list,2022-12-06 06:12:07.444613
-geo.choice.faktor.io,AVAILABILITY,origin.list,2022-12-06 06:12:09.297830
-stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2022-12-06 06:12:10.624121
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:12:14.613103
-prebid.fqtag.com,AVAILABILITY,origin.list,2022-12-06 06:12:16.686359
-m.faktor.io,AVAILABILITY,origin.list,2022-12-06 06:12:17.362160
-gitlab.connatix.com,AVAILABILITY,origin.list,2022-12-06 06:12:18.842294
 geo.gop1.co,AVAILABILITY,origin.list,2022-12-06 06:32:31.269328
 systran.cheqzone.com,AVAILABILITY,origin.list,2022-12-06 06:32:31.338922
 brandsafe.adlooxtracking.com,AVAILABILITY,origin.list,2022-12-06 06:32:32.770597
@@ -478,3 +471,10 @@ faktorid-fid.choice.faktor.io,AVAILABILITY,origin.list,2022-12-08 00:58:46.72569
 intranet.faktor.io,AVAILABILITY,origin.list,2022-12-08 00:58:48.805511
 faktornet.faktor.io,AVAILABILITY,origin.list,2022-12-08 00:58:50.596391
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-08 00:59:20.481773
+logos.choice.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:19:34.608642
+geo.choice.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:19:36.439452
+stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2022-12-08 01:19:37.916065
+soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-08 01:20:37.909844
+prebid.fqtag.com,AVAILABILITY,origin.list,2022-12-08 01:20:39.982702
+m.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:20:41.771675
+gitlab.connatix.com,AVAILABILITY,origin.list,2022-12-08 01:20:43.850046
