@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:09.409612
-mt.bnmla.com,AVAILABILITY,origin.list,2022-12-06 04:47:11.603580
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:12:14.613103
 reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:13.613915
 video.bnmla.com,AVAILABILITY,origin.list,2022-12-06 06:33:14.024851
@@ -478,3 +477,4 @@ stagingserve3.cheqzone.com,AVAILABILITY,origin.list,2022-12-08 01:40:51.247752
 m.uttclimber.com,AVAILABILITY,origin.list,2022-12-08 01:40:53.083823
 g.gop1.co,AVAILABILITY,origin.list,2022-12-08 01:40:54.852063
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-08 01:41:59.007739
+mt.bnmla.com,AVAILABILITY,origin.list,2022-12-08 02:45:07.489432
