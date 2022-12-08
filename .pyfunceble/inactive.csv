@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-tag-cdn.juicer.cc,AVAILABILITY,origin.list,2022-12-07 06:09:07.844587
-ivan.indoleads.com,AVAILABILITY,origin.list,2022-12-07 06:29:44.522873
-r-ad.ne.jp,AVAILABILITY,origin.list,2022-12-07 07:16:38.092683
-log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-07 08:46:41.940289
-record.bonniergaming.com,AVAILABILITY,origin.list,2022-12-07 11:32:35.151540
 www.beaverads.com,AVAILABILITY,origin.list,2022-12-07 16:29:44.698384
 c.uttclimber.com,AVAILABILITY,origin.list,2022-12-07 16:29:46.308054
 uttclimber.com,AVAILABILITY,origin.list,2022-12-07 16:29:46.877000
@@ -477,3 +472,5 @@ naing.bnmla.com,AVAILABILITY,origin.list,2022-12-08 04:08:12.156513
 reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-08 04:08:12.159481
 reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-08 04:08:12.272596
 budapestluv.xyz,AVAILABILITY,origin.list,2022-12-08 09:27:23.359550
+ivan.indoleads.com,AVAILABILITY,origin.list,2022-12-08 14:45:03.676082
+log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-08 14:45:05.148396
