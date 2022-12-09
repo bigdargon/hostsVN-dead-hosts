@@ -3,10 +3,6 @@ cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:33:33.034135
 ad.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:54:27.758480
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-08 00:37:56.351239
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-08 00:59:20.481773
-logos.choice.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:19:34.608642
-geo.choice.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:19:36.439452
-stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2022-12-08 01:19:37.916065
-soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-08 01:20:37.909844
 prebid.fqtag.com,AVAILABILITY,origin.list,2022-12-08 01:20:39.982702
 m.faktor.io,AVAILABILITY,origin.list,2022-12-08 01:20:41.771675
 gitlab.connatix.com,AVAILABILITY,origin.list,2022-12-08 01:20:43.850046
@@ -479,3 +475,7 @@ faktorid-fid.choice.faktor.io,AVAILABILITY,origin.list,2022-12-09 21:49:58.61357
 intranet.faktor.io,AVAILABILITY,origin.list,2022-12-09 21:50:00.418050
 faktornet.faktor.io,AVAILABILITY,origin.list,2022-12-09 21:50:02.060424
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-09 21:50:30.848911
+logos.choice.faktor.io,AVAILABILITY,origin.list,2022-12-09 22:11:00.914463
+geo.choice.faktor.io,AVAILABILITY,origin.list,2022-12-09 22:11:02.730785
+stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2022-12-09 22:11:04.102676
+soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-09 22:12:17.655585
