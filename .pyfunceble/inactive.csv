@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-07 19:39:55.431641
-rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-07 20:22:15.950207
 vsb.bnmla.com,AVAILABILITY,origin.list,2022-12-07 20:44:12.634949
 rex.bnmla.com,AVAILABILITY,origin.list,2022-12-07 21:05:32.185068
 sj11.bnmla.com,AVAILABILITY,origin.list,2022-12-07 22:08:19.826810
@@ -479,3 +478,4 @@ tessera.ad.daum.net,AVAILABILITY,origin.list,2022-12-09 17:34:29.116908
 s.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-09 17:34:39.793283
 t.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-09 17:34:40.443994
 match.bnmla.com,AVAILABILITY,origin.list,2022-12-09 17:35:09.369018
+rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-09 18:18:05.910415
