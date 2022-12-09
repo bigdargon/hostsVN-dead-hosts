@@ -1,9 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-07 22:50:41.245072
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:12:20.201702
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:33:33.034135
 ad.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:54:27.758480
-sadsipz.com,AVAILABILITY,origin.list,2022-12-08 00:15:17.559136
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-08 00:16:29.099317
 sadslimz.com,AVAILABILITY,origin.list,2022-12-08 00:36:37.773496
 hadsabz.com,AVAILABILITY,origin.list,2022-12-08 00:36:39.426077
@@ -479,3 +477,5 @@ npi.adpopcorn.com,AVAILABILITY,origin.list,2022-12-09 20:03:48.666030
 rpc.adpopcorn.com,AVAILABILITY,origin.list,2022-12-09 20:03:50.347424
 fadsats.com,AVAILABILITY,origin.list,2022-12-09 20:03:52.052044
 rex.bnmla.com,AVAILABILITY,origin.list,2022-12-09 20:04:02.879400
+sadsipz.com,AVAILABILITY,origin.list,2022-12-09 20:25:06.132039
+cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-09 20:26:24.494413
