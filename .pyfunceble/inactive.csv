@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 rex.bnmla.com,AVAILABILITY,origin.list,2022-12-07 21:05:32.185068
-sj11.bnmla.com,AVAILABILITY,origin.list,2022-12-07 22:08:19.826810
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-07 22:50:41.245072
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:12:20.201702
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2022-12-07 23:33:33.034135
@@ -479,3 +478,4 @@ e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2022-12-09 18:38:38.113048
 dmx.districtm.io,AVAILABILITY,origin.list,2022-12-09 18:38:39.831342
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-09 18:39:33.970986
 vsb.bnmla.com,AVAILABILITY,origin.list,2022-12-09 19:01:04.021456
+sj11.bnmla.com,AVAILABILITY,origin.list,2022-12-09 19:43:04.725617
