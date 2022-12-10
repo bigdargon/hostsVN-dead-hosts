@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-dco-msg.mathtag.com,AVAILABILITY,origin.list,2022-12-09 06:09:09.216470
-report-zt.1rx.io,AVAILABILITY,origin.list,2022-12-09 06:10:39.972238
-jwpevent.1rx.io,AVAILABILITY,origin.list,2022-12-09 06:10:40.361593
-www.o333o.com,AVAILABILITY,origin.list,2022-12-09 06:12:25.652736
-sip.outbrain.com,AVAILABILITY,origin.list,2022-12-09 06:18:13.653770
-cdn.andbeyond.media,AVAILABILITY,origin.list,2022-12-09 06:54:15.050722
-mediaz.asia,AVAILABILITY,origin.list,2022-12-09 08:18:18.008631
-api.appnxt.net,AVAILABILITY,origin.list,2022-12-09 09:25:04.121626
 www.beaverads.com,AVAILABILITY,origin.list,2022-12-09 15:27:37.984396
 c.uttclimber.com,AVAILABILITY,origin.list,2022-12-09 15:27:38.902348
 uttclimber.com,AVAILABILITY,origin.list,2022-12-09 15:27:39.275156
@@ -487,3 +479,5 @@ vtphp.andbeyond.media,AVAILABILITY,origin.list,2022-12-10 07:09:40.085667
 mock-bapi.userreport.com,AVAILABILITY,origin.list,2022-12-10 07:36:04.847325
 ad.profiwin.de,AVAILABILITY,origin.list,2022-12-10 09:00:06.803000
 touchclarity.natwest.com,AVAILABILITY,origin.list,2022-12-10 11:55:46.840560
+sip.outbrain.com,AVAILABILITY,origin.list,2022-12-10 14:44:10.538420
+www.o333o.com,AVAILABILITY,origin.list,2022-12-10 14:44:10.839500
