@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-08 04:08:12.159481
 dco-msg.mathtag.com,AVAILABILITY,origin.list,2022-12-09 06:09:09.216470
 report-zt.1rx.io,AVAILABILITY,origin.list,2022-12-09 06:10:39.972238
 jwpevent.1rx.io,AVAILABILITY,origin.list,2022-12-09 06:10:40.361593
@@ -479,3 +478,4 @@ log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-10 00:38:57.761245
 video.bnmla.com,AVAILABILITY,origin.list,2022-12-10 00:40:10.962497
 naing.bnmla.com,AVAILABILITY,origin.list,2022-12-10 01:22:41.854253
 reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-10 01:43:42.791183
+reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-10 02:25:28.270254
