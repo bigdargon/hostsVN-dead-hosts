@@ -1,24 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-video.bnmla.com,AVAILABILITY,origin.list,2022-12-10 00:40:10.962497
 naing.bnmla.com,AVAILABILITY,origin.list,2022-12-10 01:22:41.854253
 reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-10 01:43:42.791183
 reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-10 02:25:28.270254
-dsp.demandbase.com,AVAILABILITY,origin.list,2022-12-10 06:26:34.786782
-stg.demandbase.com,AVAILABILITY,origin.list,2022-12-10 06:26:40.509985
-tracks.aniview.com,AVAILABILITY,origin.list,2022-12-10 06:36:03.906585
-vtrack.aniview.com,AVAILABILITY,origin.list,2022-12-10 06:36:36.511845
-vtphp.andbeyond.media,AVAILABILITY,origin.list,2022-12-10 07:09:40.085667
-mock-bapi.userreport.com,AVAILABILITY,origin.list,2022-12-10 07:36:04.847325
-ad.profiwin.de,AVAILABILITY,origin.list,2022-12-10 09:00:06.803000
-touchclarity.natwest.com,AVAILABILITY,origin.list,2022-12-10 11:55:46.840560
-sip.outbrain.com,AVAILABILITY,origin.list,2022-12-10 14:44:10.538420
-www.o333o.com,AVAILABILITY,origin.list,2022-12-10 14:44:10.839500
-t.update.fbsbx.com,AVAILABILITY,origin.list,2022-12-10 16:59:31.187162
-o.update.fbsbx.com,AVAILABILITY,origin.list,2022-12-10 21:53:55.215838
-u.update.fbsbx.com,AVAILABILITY,origin.list,2022-12-11 16:35:50.496607
-p.update.fbsbx.com,AVAILABILITY,origin.list,2022-12-11 21:07:48.376608
-fp.measure.office.com,AVAILABILITY,origin.list,2022-12-12 01:31:04.575980
-cdn.atdmt.com,AVAILABILITY,origin.list,2022-12-15 21:07:24.750404
 s.voicefive.com,AVAILABILITY,origin.list,2022-12-22 07:32:05.409779
 internal.revcontent.com,AVAILABILITY,origin.list,2022-12-22 07:55:33.992363
 image.zcoup.com,AVAILABILITY,origin.list,2022-12-22 07:57:06.817516
@@ -554,3 +537,6 @@ ad.bnmla.com,AVAILABILITY,origin.list,2022-12-23 05:11:26.289128
 dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-23 05:32:20.933276
 foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-23 05:53:25.443955
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-23 06:35:19.570596
+sip.outbrain.com,AVAILABILITY,origin.list,2022-12-23 06:55:16.346888
+www.o333o.com,AVAILABILITY,origin.list,2022-12-23 06:55:18.411697
+video.bnmla.com,AVAILABILITY,origin.list,2022-12-23 06:56:18.436513
