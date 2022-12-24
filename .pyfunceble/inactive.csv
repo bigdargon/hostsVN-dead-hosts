@@ -1,14 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-s.voicefive.com,AVAILABILITY,origin.list,2022-12-22 07:32:05.409779
-internal.revcontent.com,AVAILABILITY,origin.list,2022-12-22 07:55:33.992363
-image.zcoup.com,AVAILABILITY,origin.list,2022-12-22 07:57:06.817516
-api.zcoup.com,AVAILABILITY,origin.list,2022-12-22 07:57:06.940911
-logger.zcoup.com,AVAILABILITY,origin.list,2022-12-22 07:57:07.835108
-v.zcoup.com,AVAILABILITY,origin.list,2022-12-22 07:57:12.929652
 market.pubnative.net,AVAILABILITY,origin.list,2022-12-22 08:03:49.912145
-tagcontrolapi.evidon.com,AVAILABILITY,origin.list,2022-12-22 08:08:10.700663
-rtb-mobfox.tenmax.io,AVAILABILITY,origin.list,2022-12-22 08:11:54.629675
-spf2.advergine.ru,AVAILABILITY,origin.list,2022-12-22 08:24:31.599147
 spf1.advergine.ru,AVAILABILITY,origin.list,2022-12-22 08:24:32.399137
 spf3.advergine.ru,AVAILABILITY,origin.list,2022-12-22 08:24:33.196925
 go.advergine.ru,AVAILABILITY,origin.list,2022-12-22 08:24:33.913119
@@ -575,3 +566,8 @@ mcyvayyde.com,AVAILABILITY,origin.list,2022-12-24 16:15:18.035255
 mentaib.casa,AVAILABILITY,origin.list,2022-12-24 16:15:29.091385
 rboyqqtabam.com,AVAILABILITY,origin.list,2022-12-24 17:18:14.772060
 rtqkaxnpnfqwim.com,AVAILABILITY,origin.list,2022-12-24 17:21:12.700423
+api.zcoup.com,AVAILABILITY,origin.list,2022-12-24 21:58:42.972690
+image.zcoup.com,AVAILABILITY,origin.list,2022-12-24 21:58:43.037436
+logger.zcoup.com,AVAILABILITY,origin.list,2022-12-24 21:58:43.131318
+v.zcoup.com,AVAILABILITY,origin.list,2022-12-24 21:58:43.707820
+spf2.advergine.ru,AVAILABILITY,origin.list,2022-12-24 21:59:28.802626
