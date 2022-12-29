@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-27 17:31:03.469385
 api.appnext.com,AVAILABILITY,origin.list,2022-12-28 05:56:11.940795
 sgp.o2o.api.xiaomi.com,AVAILABILITY,origin.list,2022-12-28 05:57:45.477426
 service.pca.admarketplace.net,AVAILABILITY,origin.list,2022-12-28 06:04:35.894292
@@ -562,3 +561,4 @@ video.bnmla.com,AVAILABILITY,origin.list,2022-12-29 09:40:36.447911
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-29 10:01:32.732584
 naing.bnmla.com,AVAILABILITY,origin.list,2022-12-29 10:22:42.376489
 reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-29 10:44:06.760644
+reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-29 11:25:58.572900
