@@ -1,10 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-vsb.bnmla.com,AVAILABILITY,origin.list,2022-12-27 08:43:19.835507
 sj11.bnmla.com,AVAILABILITY,origin.list,2022-12-27 10:07:35.684367
 cdn1.bnmla.com,AVAILABILITY,origin.list,2022-12-27 10:28:39.376653
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-27 10:49:59.381737
-sip.outbrain.com,AVAILABILITY,origin.list,2022-12-27 11:09:43.870200
-www.o333o.com,AVAILABILITY,origin.list,2022-12-27 11:09:45.796694
 cdn0.bnmla.com,AVAILABILITY,origin.list,2022-12-27 11:11:02.340293
 mt.bnmla.com,AVAILABILITY,origin.list,2022-12-27 11:32:12.420681
 edge.bnmla.com,AVAILABILITY,origin.list,2022-12-27 12:15:12.039518
@@ -562,3 +559,6 @@ soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-29 03:17:45.703334
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-29 03:17:50.614247
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-29 04:42:35.377807
 rex.bnmla.com,AVAILABILITY,origin.list,2022-12-29 04:42:42.296958
+sip.outbrain.com,AVAILABILITY,origin.list,2022-12-29 05:03:34.310312
+www.o333o.com,AVAILABILITY,origin.list,2022-12-29 05:03:35.816648
+vsb.bnmla.com,AVAILABILITY,origin.list,2022-12-29 05:04:52.843494
