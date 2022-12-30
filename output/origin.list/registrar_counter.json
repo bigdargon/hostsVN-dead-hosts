@@ -1,12 +1,44 @@
 {
     "counter": {
-        "MarkMonitor Inc.": 14,
+        "101domain GRS Limited": 1,
+        "Amazon Registrar, Inc.": 5,
+        "BigRock Solutions Ltd.": 1,
+        "CSC Corporate Domains, Inc.": 2,
+        "DropCatch.com 600 LLC": 1,
+        "EPAG DOMAINSERVICES GmbH": 1,
+        "GoDaddy.com, LLC": 11,
+        "Gransy, s.r.o.": 1,
+        "MarkMonitor Inc.": 18,
+        "Moniker Online Services LLC": 1,
+        "NameCheap, Inc.": 6,
+        "Network Solutions, LLC": 1,
+        "Regional Network Information Center, JSC dba RU-CENTER": 4,
         "RegistrarSafe, LLC": 1,
-        "total": 15
+        "SafeBrands SAS": 1,
+        "Tucows Domains Inc.": 1,
+        "Xin Net Technology Corporation": 1,
+        "total": 58,
+        "阿里云计算有限公司（万网）": 1
     },
     "percentage": {
-        "MarkMonitor Inc.": 93.33333333333333,
-        "RegistrarSafe, LLC": 6.666666666666667,
-        "total": 100.0
+        "101domain GRS Limited": 1.7241379310344827,
+        "Amazon Registrar, Inc.": 8.620689655172415,
+        "BigRock Solutions Ltd.": 1.7241379310344827,
+        "CSC Corporate Domains, Inc.": 3.4482758620689653,
+        "DropCatch.com 600 LLC": 1.7241379310344827,
+        "EPAG DOMAINSERVICES GmbH": 1.7241379310344827,
+        "GoDaddy.com, LLC": 18.96551724137931,
+        "Gransy, s.r.o.": 1.7241379310344827,
+        "MarkMonitor Inc.": 31.03448275862069,
+        "Moniker Online Services LLC": 1.7241379310344827,
+        "NameCheap, Inc.": 10.344827586206897,
+        "Network Solutions, LLC": 1.7241379310344827,
+        "Regional Network Information Center, JSC dba RU-CENTER": 6.896551724137931,
+        "RegistrarSafe, LLC": 1.7241379310344827,
+        "SafeBrands SAS": 1.7241379310344827,
+        "Tucows Domains Inc.": 1.7241379310344827,
+        "Xin Net Technology Corporation": 1.7241379310344827,
+        "total": 99.99999999999997,
+        "阿里云计算有限公司（万网）": 1.7241379310344827
     }
 }
