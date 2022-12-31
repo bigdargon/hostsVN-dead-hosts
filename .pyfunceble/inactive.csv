@@ -1,10 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-match.bnmla.com,AVAILABILITY,origin.list,2022-12-29 02:35:19.904269
-rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-29 02:56:26.187453
 rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-29 03:17:35.291378
-budapestluv.xyz,AVAILABILITY,origin.list,2022-12-29 03:17:37.623251
-ivan.indoleads.com,AVAILABILITY,origin.list,2022-12-29 03:17:39.374378
-log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-29 03:17:43.198918
 soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-29 03:17:45.703334
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-29 03:17:50.614247
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-29 04:42:35.377807
@@ -559,3 +554,8 @@ m.uttclimber.com,AVAILABILITY,origin.list,2022-12-31 03:55:59.871760
 g.gop1.co,AVAILABILITY,origin.list,2022-12-31 03:56:00.112235
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-31 03:56:15.346372
 t.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-31 03:56:15.573059
+ivan.indoleads.com,AVAILABILITY,origin.list,2022-12-31 04:16:46.057217
+budapestluv.xyz,AVAILABILITY,origin.list,2022-12-31 04:16:46.240101
+log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-31 04:16:50.267110
+match.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:17:34.830260
+rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:17:44.634333
