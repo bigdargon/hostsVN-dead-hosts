@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-29 11:25:58.572900
 cdn-alt.popcash.net,AVAILABILITY,origin.list,2022-12-30 05:43:03.593985
 bidder.pcl.exponential.com,AVAILABILITY,origin.list,2022-12-30 05:46:20.064111
 w.staging.sharethis.com,AVAILABILITY,origin.list,2022-12-30 05:54:29.335843
@@ -559,3 +558,4 @@ video.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:04:08.789407
 hound.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:25:26.014555
 naing.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:46:31.348224
 reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-31 13:07:35.170498
+reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-31 14:10:34.300699
