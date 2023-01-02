@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:39:40.953644
-perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-31 05:00:56.391721
 soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-31 05:43:07.287254
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-31 06:04:29.480142
 dsp.bnmla.com,AVAILABILITY,origin.list,2022-12-31 06:25:32.286511
@@ -583,3 +581,5 @@ sip.outbrain.com,AVAILABILITY,origin.list,2023-01-02 03:35:01.851583
 www.o333o.com,AVAILABILITY,origin.list,2023-01-02 03:35:02.441730
 match.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:35:37.773987
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:35:47.620025
+rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:57:35.745298
+perceptor.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:57:47.043883
