@@ -1,11 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-ad.bnmla.com,AVAILABILITY,origin.list,2022-12-31 10:40:05.661635
-dc21.bnmla.com,AVAILABILITY,origin.list,2022-12-31 11:22:16.494148
-foreman.bnmla.com,AVAILABILITY,origin.list,2022-12-31 11:43:24.353950
-video.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:04:08.789407
-hound.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:25:26.014555
 naing.bnmla.com,AVAILABILITY,origin.list,2022-12-31 12:46:31.348224
-reporting.bnmla.com,AVAILABILITY,origin.list,2022-12-31 13:07:35.170498
 reporting2.bnmla.com,AVAILABILITY,origin.list,2022-12-31 14:10:34.300699
 noxagile.duapp.com,AVAILABILITY,origin.list,2023-01-01 05:46:27.472440
 img.sharethis.com,AVAILABILITY,origin.list,2023-01-01 05:50:09.879912
@@ -583,3 +577,9 @@ mt.bnmla.com,AVAILABILITY,origin.list,2023-01-02 07:08:40.620750
 edge.bnmla.com,AVAILABILITY,origin.list,2023-01-02 07:50:54.868311
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:12:00.563244
 cdn0.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:32:58.890582
+foreman.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:52:57.810188
+ad.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:52:57.810190
+dc21.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:52:57.849789
+video.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:52:57.933806
+hound.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:52:58.040344
+reporting.bnmla.com,AVAILABILITY,origin.list,2023-01-02 08:54:18.539022
