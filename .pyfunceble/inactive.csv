@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-s.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-31 03:55:51.159162
-m.uttclimber.com,AVAILABILITY,origin.list,2022-12-31 03:55:59.871760
-g.gop1.co,AVAILABILITY,origin.list,2022-12-31 03:56:00.112235
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-31 03:56:15.346372
-t.effectivemeasure.net,AVAILABILITY,origin.list,2022-12-31 03:56:15.573059
-ivan.indoleads.com,AVAILABILITY,origin.list,2022-12-31 04:16:46.057217
-budapestluv.xyz,AVAILABILITY,origin.list,2022-12-31 04:16:46.240101
-log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2022-12-31 04:16:50.267110
-match.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:17:34.830260
-rex-east.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:17:44.634333
 rex-west.bnmla.com,AVAILABILITY,origin.list,2022-12-31 04:39:40.953644
-sip.outbrain.com,AVAILABILITY,origin.list,2022-12-31 04:59:52.692994
-www.o333o.com,AVAILABILITY,origin.list,2022-12-31 04:59:54.330434
 perceptor.bnmla.com,AVAILABILITY,origin.list,2022-12-31 05:00:56.391721
 soundwave.bnmla.com,AVAILABILITY,origin.list,2022-12-31 05:43:07.287254
 cdnin.bnmla.com,AVAILABILITY,origin.list,2022-12-31 06:04:29.480142
@@ -583,3 +571,15 @@ prebid.fqtag.com,AVAILABILITY,origin.list,2023-01-02 03:13:39.361572
 brandsafe.adlooxtracking.com,AVAILABILITY,origin.list,2023-01-02 03:13:39.843067
 systran.cheqzone.com,AVAILABILITY,origin.list,2023-01-02 03:13:40.063259
 stagingserve3.cheqzone.com,AVAILABILITY,origin.list,2023-01-02 03:13:41.038210
+m.uttclimber.com,AVAILABILITY,origin.list,2023-01-02 03:34:41.378241
+g.gop1.co,AVAILABILITY,origin.list,2023-01-02 03:34:41.704213
+ivan.indoleads.com,AVAILABILITY,origin.list,2023-01-02 03:34:43.146174
+budapestluv.xyz,AVAILABILITY,origin.list,2023-01-02 03:34:43.826819
+log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2023-01-02 03:34:47.167729
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-02 03:34:56.646773
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-02 03:35:00.209334
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-02 03:35:00.540441
+sip.outbrain.com,AVAILABILITY,origin.list,2023-01-02 03:35:01.851583
+www.o333o.com,AVAILABILITY,origin.list,2023-01-02 03:35:02.441730
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:35:37.773987
+rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-02 03:35:47.620025
