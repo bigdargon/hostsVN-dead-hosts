@@ -595,3 +595,6 @@ grafana.outbrain.com,AVAILABILITY,origin.list,2023-01-03 08:03:01.393127
 dsp.demandbase.com,AVAILABILITY,origin.list,2023-01-03 08:14:58.402920
 stg.demandbase.com,AVAILABILITY,origin.list,2023-01-03 08:15:18.992912
 tracks.aniview.com,AVAILABILITY,origin.list,2023-01-03 08:23:41.345300
+anex.appnexus.com,AVAILABILITY,origin.list,2023-01-03 08:46:11.555750
+app.appnexus.com,AVAILABILITY,origin.list,2023-01-03 08:46:52.972223
+secure-console.appnexus.com,AVAILABILITY,origin.list,2023-01-03 08:48:17.718796
