@@ -1,11 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-04 04:01:34.081833
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-04 04:01:35.298446
-match.bnmla.com,AVAILABILITY,origin.list,2023-01-04 04:02:12.302622
-rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-04 04:44:49.222957
-rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-04 05:26:56.513200
 cdnin.bnmla.com,AVAILABILITY,origin.list,2023-01-04 06:29:53.957225
-soundwave.bnmla.com,AVAILABILITY,origin.list,2023-01-04 07:12:11.914951
 perceptor.bnmla.com,AVAILABILITY,origin.list,2023-01-04 07:54:21.915630
 dsp.bnmla.com,AVAILABILITY,origin.list,2023-01-04 08:15:22.490033
 sj11.bnmla.com,AVAILABILITY,origin.list,2023-01-04 08:36:29.300418
@@ -582,3 +576,9 @@ my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-06 02:14:52.840798
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-06 02:14:56.109608
 detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-06 02:14:57.509724
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-06 02:15:12.905019
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-06 02:35:55.598335
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-06 02:35:56.344957
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-06 02:36:21.603181
+rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-06 02:36:31.181442
+rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-06 02:36:31.274893
+soundwave.bnmla.com,AVAILABILITY,origin.list,2023-01-06 02:37:09.889554
