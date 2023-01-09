@@ -26,3 +26,6 @@ mg.yadro.ru                                                                     
 cdn-b.yieldlove.com                                                                                  INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 cdn-c.yieldlove.com                                                                                  INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 corp-assets.triplelift.com                                                                           INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cerberus.production.us-east-1.kops.kargo.com                                                         INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cma.production.us-east-1.kops.kargo.com                                                              INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+staging.kargo.com                                                                                    INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
