@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-08 20:03:28.232479
 tearsheet-stg.ads.yahoo.com,AVAILABILITY,origin.list,2023-01-09 05:29:03.153259
 cdn.ad.xiaomi.com,AVAILABILITY,origin.list,2023-01-09 05:58:36.210500
 static2.mopub.com,AVAILABILITY,origin.list,2023-01-09 06:03:36.818372
@@ -618,3 +617,4 @@ dc21.bnmla.com,AVAILABILITY,origin.list,2023-01-10 14:12:43.792048
 reporting.bnmla.com,AVAILABILITY,origin.list,2023-01-10 14:33:46.437063
 hound.bnmla.com,AVAILABILITY,origin.list,2023-01-10 14:54:54.802330
 naing.bnmla.com,AVAILABILITY,origin.list,2023-01-10 15:16:07.503097
+reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-10 15:37:48.349798
