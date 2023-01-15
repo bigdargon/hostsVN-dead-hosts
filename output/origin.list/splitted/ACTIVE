@@ -16223,3 +16223,12 @@ analytics.icons8.com                                                            
 analytics.ihbsoft.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
 analytics.jumboprivacy.com                                                                           ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
 analytics.keepstreams.com                                                                            ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.jumboprivacy.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.kidoz.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+analytics.keepstreams.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.ihbsoft.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+analytics.myfinance.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+analytics.newscred.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+analytics.icons8.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.mobilegamestats.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+analytics.mailmunch.co                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
