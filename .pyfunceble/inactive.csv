@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-14 04:01:49.882644
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-14 04:01:51.058014
-track.advergine.ru,AVAILABILITY,origin.list,2023-01-14 04:02:15.956950
-match.bnmla.com,AVAILABILITY,origin.list,2023-01-14 04:23:39.721576
-rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-14 04:23:49.141240
-rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-14 04:23:49.169130
 soundwave.bnmla.com,AVAILABILITY,origin.list,2023-01-14 04:24:00.555826
 cdnin.bnmla.com,AVAILABILITY,origin.list,2023-01-14 04:46:05.136645
 dsp.bnmla.com,AVAILABILITY,origin.list,2023-01-14 05:07:17.321585
@@ -625,3 +619,9 @@ s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:02.442224
 spf3.advergine.ru,AVAILABILITY,origin.list,2023-01-16 04:15:03.002022
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:03.320327
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:22.526461
+1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-16 04:56:39.077335
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-16 04:56:47.485351
+track.advergine.ru,AVAILABILITY,origin.list,2023-01-16 04:56:55.438134
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:14.038703
+rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:20.565721
+rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:39.539071
