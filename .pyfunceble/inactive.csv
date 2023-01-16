@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-spf3.advergine.ru,AVAILABILITY,origin.list,2023-01-14 03:19:26.187430
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-14 04:01:23.478611
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-14 04:01:23.879325
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-14 04:01:23.976278
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-14 04:01:27.495665
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-14 04:01:27.674686
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-14 04:01:49.882644
 avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-14 04:01:51.058014
 track.advergine.ru,AVAILABILITY,origin.list,2023-01-14 04:02:15.956950
@@ -625,3 +619,9 @@ px.content-ad.net,AVAILABILITY,origin.list,2023-01-16 03:54:06.295637
 pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-16 03:54:16.430111
 banner.content-ad.net,AVAILABILITY,origin.list,2023-01-16 03:54:16.449160
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 03:54:25.908657
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:14:58.535627
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:14:58.679788
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:02.442224
+spf3.advergine.ru,AVAILABILITY,origin.list,2023-01-16 04:15:03.002022
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:03.320327
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:22.526461
