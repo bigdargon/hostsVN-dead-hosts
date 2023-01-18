@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:14:58.535627
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:14:58.679788
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:02.442224
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:03.320327
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-16 04:15:22.526461
-1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-16 04:56:39.077335
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-16 04:56:47.485351
-track.advergine.ru,AVAILABILITY,origin.list,2023-01-16 04:56:55.438134
-match.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:14.038703
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:20.565721
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-16 04:57:39.539071
 soundwave.bnmla.com,AVAILABILITY,origin.list,2023-01-16 05:19:38.416194
@@ -620,3 +611,11 @@ pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-18 03:14:17.551881
 banner.content-ad.net,AVAILABILITY,origin.list,2023-01-18 03:14:21.242133
 uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-18 03:14:21.627375
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:14:37.260995
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:34:54.651715
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:34:55.063244
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:34:58.426242
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:34:58.436716
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-18 03:34:58.562076
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-18 03:35:21.465334
+1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-18 03:35:23.044355
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-18 03:35:55.574536
