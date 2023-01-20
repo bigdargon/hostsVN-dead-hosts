@@ -1,11 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-18 03:35:21.465334
-1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-18 03:35:23.044355
-match.bnmla.com,AVAILABILITY,origin.list,2023-01-18 03:35:55.574536
-rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-18 04:18:26.405819
-rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-18 04:39:42.409493
 soundwave.bnmla.com,AVAILABILITY,origin.list,2023-01-18 05:00:49.550171
-cdnin.bnmla.com,AVAILABILITY,origin.list,2023-01-18 05:22:07.657198
 dsp.bnmla.com,AVAILABILITY,origin.list,2023-01-18 05:43:19.548680
 perceptor.bnmla.com,AVAILABILITY,origin.list,2023-01-18 06:04:40.882823
 sj11.bnmla.com,AVAILABILITY,origin.list,2023-01-18 06:25:43.864299
@@ -619,3 +613,9 @@ s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:47.493344
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:47.556694
 uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-20 07:26:47.695421
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:27:08.535221
+1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-20 07:47:50.695693
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-20 07:47:51.651738
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-20 07:48:19.976238
+rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-20 07:48:26.417858
+rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-20 07:48:26.479261
+cdnin.bnmla.com,AVAILABILITY,origin.list,2023-01-20 07:49:05.181910
