@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-18 12:26:41.354925
 idsp.inmobi.com,AVAILABILITY,origin.list,2023-01-19 05:34:06.908666
 t.update.adsrvr.org,AVAILABILITY,origin.list,2023-01-19 07:02:36.635226
 aws-ac.o-s.io,AVAILABILITY,origin.list,2023-01-19 07:19:46.591956
@@ -619,3 +618,4 @@ ad.bnmla.com,AVAILABILITY,origin.list,2023-01-20 15:34:45.964886
 reporting.bnmla.com,AVAILABILITY,origin.list,2023-01-20 15:55:51.293112
 naing.bnmla.com,AVAILABILITY,origin.list,2023-01-20 16:17:05.542299
 hound.bnmla.com,AVAILABILITY,origin.list,2023-01-20 16:59:13.597963
+reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-20 17:41:17.417164
