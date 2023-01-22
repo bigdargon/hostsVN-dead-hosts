@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-click.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:15.040944
-clk.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:19.517826
-push.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:26.653546
-ktwnjefd.com,AVAILABILITY,origin.list,2023-01-20 07:05:26.777211
-px.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:31.097180
-ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-01-20 07:05:36.595304
-pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:38.272264
-banner.content-ad.net,AVAILABILITY,origin.list,2023-01-20 07:05:38.385494
-rihlosty.com,AVAILABILITY,origin.list,2023-01-20 07:05:43.348670
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:05:58.707325
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:42.679371
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:42.861223
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:47.493344
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:26:47.556694
 uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-20 07:26:47.695421
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-20 07:27:08.535221
@@ -626,3 +613,16 @@ www.o333o.com,AVAILABILITY,origin.list,2023-01-22 02:54:06.374944
 budapestluv.xyz,AVAILABILITY,origin.list,2023-01-22 02:54:06.774388
 log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2023-01-22 02:54:08.411808
 api.content-ad.net,AVAILABILITY,origin.list,2023-01-22 02:54:17.350335
+clk.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:34.247492
+push.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:34.267411
+click.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:34.432145
+px.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:34.512799
+pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:46.376532
+banner.content-ad.net,AVAILABILITY,origin.list,2023-01-22 03:14:46.439704
+ktwnjefd.com,AVAILABILITY,origin.list,2023-01-22 03:14:52.182569
+ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-01-22 03:15:03.588181
+rihlosty.com,AVAILABILITY,origin.list,2023-01-22 03:15:04.384618
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:08.048786
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:08.128205
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:15.125744
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:30.587809
