@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn0.bnmla.com,AVAILABILITY,origin.list,2023-01-22 12:45:08.834948
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2023-01-22 13:06:21.594150
 foreman.bnmla.com,AVAILABILITY,origin.list,2023-01-22 13:27:38.359864
 video.bnmla.com,AVAILABILITY,origin.list,2023-01-22 13:48:50.105336
@@ -618,3 +617,4 @@ rex.bnmla.com,AVAILABILITY,origin.list,2023-01-24 16:13:43.485937
 edge.bnmla.com,AVAILABILITY,origin.list,2023-01-24 16:55:46.825473
 mt.bnmla.com,AVAILABILITY,origin.list,2023-01-24 17:16:47.626267
 cdn1.bnmla.com,AVAILABILITY,origin.list,2023-01-24 17:37:57.235176
+cdn0.bnmla.com,AVAILABILITY,origin.list,2023-01-24 17:58:59.280925
