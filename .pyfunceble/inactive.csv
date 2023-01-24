@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-01-22 03:15:03.588181
-rihlosty.com,AVAILABILITY,origin.list,2023-01-22 03:15:04.384618
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:08.128205
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:15.125744
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:15:30.587809
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:35:47.655527
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-22 03:35:47.902245
-1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-22 03:35:49.000537
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-22 03:35:49.566781
-uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-22 03:35:51.888696
-match.bnmla.com,AVAILABILITY,origin.list,2023-01-22 03:36:41.676328
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-01-22 04:39:57.468711
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-01-22 05:01:13.515095
 cdnin.bnmla.com,AVAILABILITY,origin.list,2023-01-22 05:43:22.863835
@@ -618,3 +607,14 @@ pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-24 11:03:12.189412
 banner.content-ad.net,AVAILABILITY,origin.list,2023-01-24 11:03:13.067320
 ktwnjefd.com,AVAILABILITY,origin.list,2023-01-24 11:03:29.734251
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:03:33.130678
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:24:00.217947
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:24:00.388192
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:24:05.029444
+rihlosty.com,AVAILABILITY,origin.list,2023-01-24 11:24:06.408346
+ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-01-24 11:24:06.949510
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:24:26.419294
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-24 11:24:27.025640
+1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-24 11:24:33.809944
+uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-24 11:24:35.087938
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-01-24 11:24:35.359090
+match.bnmla.com,AVAILABILITY,origin.list,2023-01-24 11:25:17.461583
