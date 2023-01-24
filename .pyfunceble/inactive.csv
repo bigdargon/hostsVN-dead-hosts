@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 naing.bnmla.com,AVAILABILITY,origin.list,2023-01-22 15:55:42.830148
-reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-22 16:37:27.070669
 fslt.wpm.neustar.biz,AVAILABILITY,origin.list,2023-01-23 06:58:47.022493
 www.postrelease.com,AVAILABILITY,origin.list,2023-01-23 07:14:58.320976
 renzo-aws.logrocket.io,AVAILABILITY,origin.list,2023-01-23 07:19:59.965531
@@ -618,3 +617,4 @@ video.bnmla.com,AVAILABILITY,origin.list,2023-01-24 20:46:59.735687
 reporting.bnmla.com,AVAILABILITY,origin.list,2023-01-24 21:08:11.349504
 ad.bnmla.com,AVAILABILITY,origin.list,2023-01-24 22:11:22.462270
 hound.bnmla.com,AVAILABILITY,origin.list,2023-01-24 22:32:49.677643
+reporting2.bnmla.com,AVAILABILITY,origin.list,2023-01-24 23:15:20.717188
