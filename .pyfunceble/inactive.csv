@@ -1,16 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-api.content-ad.net,AVAILABILITY,origin.list,2023-01-28 05:35:24.666837
-decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-01-28 05:35:32.498464
-gnfoxcsgk.com,AVAILABILITY,origin.list,2023-01-28 05:35:32.951595
-click.content-ad.net,AVAILABILITY,origin.list,2023-01-28 05:35:34.009241
-px.content-ad.net,AVAILABILITY,origin.list,2023-01-28 05:35:35.473631
-pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-28 05:35:44.375425
-banner.content-ad.net,AVAILABILITY,origin.list,2023-01-28 06:37:54.536125
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-28 06:38:03.531123
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-28 06:38:03.632398
 irnwislborwvh.com,AVAILABILITY,origin.list,2023-01-28 06:38:09.047396
 fygocqpmcsnix.com,AVAILABILITY,origin.list,2023-01-28 06:38:09.352249
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-28 06:38:15.799035
 ktwnjefd.com,AVAILABILITY,origin.list,2023-01-28 06:38:31.246998
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-28 06:38:32.289786
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-28 06:38:34.883172
@@ -632,3 +622,13 @@ log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2023-01-30 11:03:06.621579
 budapestluv.xyz,AVAILABILITY,origin.list,2023-01-30 11:03:11.659337
 clk.content-ad.net,AVAILABILITY,origin.list,2023-01-30 11:03:11.752419
 push.content-ad.net,AVAILABILITY,origin.list,2023-01-30 11:03:26.949127
+api.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:15.522523
+click.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:15.585606
+px.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:15.726995
+banner.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:27.475544
+pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:27.585295
+decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-01-30 12:06:31.712393
+gnfoxcsgk.com,AVAILABILITY,origin.list,2023-01-30 12:06:32.457635
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:36.916329
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:49.478261
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:53.667255
