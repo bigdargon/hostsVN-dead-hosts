@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-www.ohchat.net,AVAILABILITY,origin.list,2023-01-30 07:52:53.953776
-pushrev.content-ad.net,AVAILABILITY,origin.list,2023-01-30 12:06:27.585295
-decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-01-30 12:06:31.712393
-gnfoxcsgk.com,AVAILABILITY,origin.list,2023-01-30 12:06:32.457635
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:36.916329
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:49.478261
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:06:53.667255
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:27:43.459810
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:27:43.470506
-irnwislborwvh.com,AVAILABILITY,origin.list,2023-01-30 12:27:44.654662
-ktwnjefd.com,AVAILABILITY,origin.list,2023-01-30 12:27:45.216467
 fygocqpmcsnix.com,AVAILABILITY,origin.list,2023-01-30 12:27:45.445921
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-01-30 12:28:09.458520
 uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-01-30 12:48:52.330045
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-01-30 12:48:52.527908
 ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-01-30 12:48:52.899369
@@ -641,3 +629,15 @@ api.content-ad.net,AVAILABILITY,origin.list,2023-02-01 11:53:54.020361
 click.content-ad.net,AVAILABILITY,origin.list,2023-02-01 11:53:55.262468
 px.content-ad.net,AVAILABILITY,origin.list,2023-02-01 11:54:03.249664
 banner.content-ad.net,AVAILABILITY,origin.list,2023-02-01 11:54:04.764900
+pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-01 12:14:26.465898
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:14:31.116049
+decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-01 12:14:40.197656
+gnfoxcsgk.com,AVAILABILITY,origin.list,2023-02-01 12:14:42.224674
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:14:46.503851
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:14:50.831898
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:15:03.923030
+www.ohchat.net,AVAILABILITY,origin.list,2023-02-01 12:15:03.936276
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:15:05.701625
+irnwislborwvh.com,AVAILABILITY,origin.list,2023-02-01 12:15:13.613548
+ktwnjefd.com,AVAILABILITY,origin.list,2023-02-01 12:15:17.615657
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-01 12:15:27.765427
