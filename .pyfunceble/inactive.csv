@@ -1,15 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 app.ohchat.net,AVAILABILITY,origin.list,2023-01-30 06:29:18.078037
-adlog.shopping.naver.com,AVAILABILITY,origin.list,2023-01-30 07:10:42.906811
-an.webvisor.org,AVAILABILITY,origin.list,2023-01-30 07:10:43.730731
-www.turn.com,AVAILABILITY,origin.list,2023-01-30 07:10:45.306173
-settings.crashlytics.com,AVAILABILITY,origin.list,2023-01-30 07:10:45.424473
-eghnybyvn.com,AVAILABILITY,origin.list,2023-01-30 07:10:46.131331
-www.adxplay.com,AVAILABILITY,origin.list,2023-01-30 07:10:46.760886
-e.crashlytics.com,AVAILABILITY,origin.list,2023-01-30 07:10:47.027419
 igwlfwsogwetw.com,AVAILABILITY,origin.list,2023-01-30 07:10:48.719781
-csqghvpsx.com,AVAILABILITY,origin.list,2023-01-30 07:10:58.282770
-log.optimizely.com,AVAILABILITY,origin.list,2023-01-30 07:10:59.652788
 rtqkaxnpnfqwim.com,AVAILABILITY,origin.list,2023-01-30 07:10:59.822165
 ciddhwsjyjgip.com,AVAILABILITY,origin.list,2023-01-30 07:10:59.917766
 rum.logsss.com,AVAILABILITY,origin.list,2023-01-30 07:11:01.150181
@@ -644,3 +635,12 @@ asset.adxplay.com,AVAILABILITY,origin.list,2023-02-01 03:08:11.177367
 ad-track.adiiix.com,AVAILABILITY,origin.list,2023-02-01 03:08:11.836663
 api.crashlytics.com,AVAILABILITY,origin.list,2023-02-01 03:08:12.011256
 sync.fivecdm.com,AVAILABILITY,origin.list,2023-02-01 03:08:13.985202
+settings.crashlytics.com,AVAILABILITY,origin.list,2023-02-01 03:29:16.295666
+adlog.shopping.naver.com,AVAILABILITY,origin.list,2023-02-01 03:29:16.881132
+www.turn.com,AVAILABILITY,origin.list,2023-02-01 03:29:17.284694
+an.webvisor.org,AVAILABILITY,origin.list,2023-02-01 03:29:18.613343
+www.adxplay.com,AVAILABILITY,origin.list,2023-02-01 03:29:18.619521
+e.crashlytics.com,AVAILABILITY,origin.list,2023-02-01 03:29:19.137935
+log.optimizely.com,AVAILABILITY,origin.list,2023-02-01 03:29:20.707398
+eghnybyvn.com,AVAILABILITY,origin.list,2023-02-01 03:29:29.078984
+csqghvpsx.com,AVAILABILITY,origin.list,2023-02-01 03:29:31.026460
