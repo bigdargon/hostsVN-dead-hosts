@@ -1,29 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-tearsheet-stg.ads.yahoo.com,AVAILABILITY,origin.list,2023-02-04 05:29:06.624006
-api.w.inmobi.cn,AVAILABILITY,origin.list,2023-02-04 05:36:58.315092
-c2s.w.inmobi.cn,AVAILABILITY,origin.list,2023-02-04 05:37:12.352364
-au.w.inmobi.cn,AVAILABILITY,origin.list,2023-02-04 05:37:17.239271
-static2.mopub.com,AVAILABILITY,origin.list,2023-02-04 06:04:17.787762
-ioam.de,AVAILABILITY,origin.list,2023-02-04 06:34:34.247991
 market.pubnative.net,AVAILABILITY,origin.list,2023-02-04 07:07:32.540424
-m-sc2.adsymptotic.com,AVAILABILITY,origin.list,2023-02-04 07:56:04.348996
-m.adsymptotic.com,AVAILABILITY,origin.list,2023-02-04 07:56:35.111803
-p-awse-ebs.adsymptotic.com,AVAILABILITY,origin.list,2023-02-04 07:56:49.796557
-grafana.outbrain.com,AVAILABILITY,origin.list,2023-02-04 07:59:48.977535
-data1.aniview.com,AVAILABILITY,origin.list,2023-02-04 08:21:24.374929
-cap-ad.doublemax.net,AVAILABILITY,origin.list,2023-02-04 08:25:31.078786
-static.districtm.ca,AVAILABILITY,origin.list,2023-02-04 09:25:21.299775
-fra-01.braze.eu,AVAILABILITY,origin.list,2023-02-04 09:28:56.978674
-a.mouseflow.com,AVAILABILITY,origin.list,2023-02-04 09:30:36.922298
-redirect.dable.io,AVAILABILITY,origin.list,2023-02-04 11:57:15.759291
-demopage.me,AVAILABILITY,origin.list,2023-02-04 12:37:47.135020
 adsend.de,AVAILABILITY,origin.list,2023-02-04 13:42:15.265946
-adworx.at,AVAILABILITY,origin.list,2023-02-04 13:46:37.339854
-jiordgxkpglzm.com,AVAILABILITY,origin.list,2023-02-04 15:29:52.947243
-jkfdnofnz.com,AVAILABILITY,origin.list,2023-02-04 15:30:18.793022
-openad.tf1.fr,AVAILABILITY,origin.list,2023-02-04 16:15:05.417878
-record.bonniergaming.com,AVAILABILITY,origin.list,2023-02-04 16:57:26.638877
-wqjbldnnceroue.com,AVAILABILITY,origin.list,2023-02-04 19:05:23.603560
 www.admedia.network,AVAILABILITY,origin.list,2023-02-04 19:47:35.906589
 znyiaxnaf.com,AVAILABILITY,origin.list,2023-02-04 20:08:24.888333
 capi.bidtellect.com,AVAILABILITY,origin.list,2023-02-04 22:58:34.480941
@@ -665,3 +642,7 @@ bn.bfast.com,AVAILABILITY,origin.list,2023-02-06 14:32:41.790180
 r.grvmedia.com,AVAILABILITY,origin.list,2023-02-06 15:48:25.540117
 makqfcvs.com,AVAILABILITY,origin.list,2023-02-06 15:55:12.565140
 oixohmve.com,AVAILABILITY,origin.list,2023-02-06 16:17:41.401883
+a.mouseflow.com,AVAILABILITY,origin.list,2023-02-06 23:02:00.279221
+jkfdnofnz.com,AVAILABILITY,origin.list,2023-02-06 23:02:12.494730
+jiordgxkpglzm.com,AVAILABILITY,origin.list,2023-02-06 23:02:12.740380
+wqjbldnnceroue.com,AVAILABILITY,origin.list,2023-02-06 23:02:20.865897
