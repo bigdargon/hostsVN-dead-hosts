@@ -1,18 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 adsend.de,AVAILABILITY,origin.list,2023-02-04 13:42:15.265946
 www.admedia.network,AVAILABILITY,origin.list,2023-02-04 19:47:35.906589
-sip.outbrain.com,AVAILABILITY,origin.list,2023-02-05 05:15:55.825835
-www.o333o.com,AVAILABILITY,origin.list,2023-02-05 05:15:56.186808
-budapestluv.xyz,AVAILABILITY,origin.list,2023-02-05 05:15:57.377153
-log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2023-02-05 05:15:57.729529
-action-rtb.ibillboard.com,AVAILABILITY,origin.list,2023-02-05 05:16:00.045578
-clk.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:16:08.602303
-push.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:16:09.932397
-api.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:16:10.018657
-click.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:16:12.140221
-px.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:16:20.503793
-pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:36:52.107081
-banner.content-ad.net,AVAILABILITY,origin.list,2023-02-05 05:36:52.122861
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-05 05:36:56.833596
 decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-05 05:37:07.171090
 mcyvayyde.com,AVAILABILITY,origin.list,2023-02-05 05:37:07.188805
@@ -643,3 +631,15 @@ systran.cheqzone.com,AVAILABILITY,origin.list,2023-02-07 12:09:16.978422
 stagingserve3.cheqzone.com,AVAILABILITY,origin.list,2023-02-07 12:09:17.370919
 ivan.indoleads.com,AVAILABILITY,origin.list,2023-02-07 12:09:17.763475
 m.uttclimber.com,AVAILABILITY,origin.list,2023-02-07 12:09:19.015439
+www.o333o.com,AVAILABILITY,origin.list,2023-02-07 12:29:47.700332
+sip.outbrain.com,AVAILABILITY,origin.list,2023-02-07 12:29:47.712770
+budapestluv.xyz,AVAILABILITY,origin.list,2023-02-07 12:29:49.868900
+action-rtb.ibillboard.com,AVAILABILITY,origin.list,2023-02-07 12:29:51.989603
+log.kinhdoanhhoinhap.vn,AVAILABILITY,origin.list,2023-02-07 12:29:54.163837
+clk.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:02.557357
+push.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:04.492287
+api.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:06.472104
+click.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:14.508773
+px.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:16.532453
+pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:18.311587
+banner.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:26.459375
