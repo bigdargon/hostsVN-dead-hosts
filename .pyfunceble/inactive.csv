@@ -2,11 +2,6 @@ idna_subject,checker_type,destination,tested_at
 market.pubnative.net,AVAILABILITY,origin.list,2023-02-04 07:07:32.540424
 adsend.de,AVAILABILITY,origin.list,2023-02-04 13:42:15.265946
 www.admedia.network,AVAILABILITY,origin.list,2023-02-04 19:47:35.906589
-us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-05 01:26:09.193739
-collect.igodigital.com,AVAILABILITY,origin.list,2023-02-05 01:26:16.302171
-cdn.ggsfq.com,AVAILABILITY,origin.list,2023-02-05 01:46:43.128133
-logs.datadoghq.eu,AVAILABILITY,origin.list,2023-02-05 01:46:45.249180
-static.dynamicyield.com,AVAILABILITY,origin.list,2023-02-05 01:46:47.421354
 cdilwuhbgy.com,AVAILABILITY,origin.list,2023-02-05 01:46:53.837351
 csqghvpsx.com,AVAILABILITY,origin.list,2023-02-05 01:46:53.957294
 qgicqtyh.com,AVAILABILITY,origin.list,2023-02-05 01:46:54.021060
@@ -646,3 +641,8 @@ playsdonkey,AVAILABILITY,origin.list,2023-02-07 04:44:16.088409
 collect.data.tm-awx.com,AVAILABILITY,origin.list,2023-02-07 04:44:17.609100
 rum.logsss.com,AVAILABILITY,origin.list,2023-02-07 04:44:19.579338
 perf.logsss.com,AVAILABILITY,origin.list,2023-02-07 04:44:21.512067
+collect.igodigital.com,AVAILABILITY,origin.list,2023-02-07 05:26:03.526445
+cdn.ggsfq.com,AVAILABILITY,origin.list,2023-02-07 05:26:05.389781
+logs.datadoghq.eu,AVAILABILITY,origin.list,2023-02-07 05:26:07.183902
+static.dynamicyield.com,AVAILABILITY,origin.list,2023-02-07 05:26:09.063660
+us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-07 05:26:20.716386
