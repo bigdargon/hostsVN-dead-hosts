@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 www.admedia.network,AVAILABILITY,origin.list,2023-02-07 15:43:54.076309
-dsp.bnmla.com,AVAILABILITY,origin.list,2023-02-07 18:56:54.755350
 cdnin.bnmla.com,AVAILABILITY,origin.list,2023-02-07 19:18:39.960858
 sj11.bnmla.com,AVAILABILITY,origin.list,2023-02-07 20:02:30.695759
 vsb.bnmla.com,AVAILABILITY,origin.list,2023-02-07 20:44:56.206571
@@ -652,3 +651,4 @@ rex-west.bnmla.com,AVAILABILITY,origin.list,2023-02-09 11:42:21.772268
 adsend.de,AVAILABILITY,origin.list,2023-02-09 12:04:27.079019
 perceptor.bnmla.com,AVAILABILITY,origin.list,2023-02-09 12:47:41.715072
 soundwave.bnmla.com,AVAILABILITY,origin.list,2023-02-09 13:09:20.298709
+dsp.bnmla.com,AVAILABILITY,origin.list,2023-02-09 13:30:50.126015
