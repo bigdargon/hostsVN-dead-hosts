@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-click.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:14.508773
-px.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:16.532453
-pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:18.311587
-banner.content-ad.net,AVAILABILITY,origin.list,2023-02-07 12:30:26.459375
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:12:06.037382
-decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-07 13:12:10.534937
-mcyvayyde.com,AVAILABILITY,origin.list,2023-02-07 13:12:11.182666
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:12:24.756762
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:33:26.498003
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:33:29.878094
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:33:29.890945
 gnfoxcsgk.com,AVAILABILITY,origin.list,2023-02-07 13:33:51.208696
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-07 13:55:15.989552
@@ -652,3 +642,13 @@ byqymwkscobhked.com,AVAILABILITY,origin.list,2023-02-09 07:05:35.270888
 clk.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:05:38.105129
 push.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:05:40.139561
 api.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:05:43.177298
+px.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:26:16.853190
+click.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:26:16.925559
+pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:26:17.234181
+banner.content-ad.net,AVAILABILITY,origin.list,2023-02-09 07:26:17.359895
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:24.318849
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:36.119628
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:37.018251
+mcyvayyde.com,AVAILABILITY,origin.list,2023-02-09 07:26:40.934455
+decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-09 07:26:41.860164
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:45.999906
