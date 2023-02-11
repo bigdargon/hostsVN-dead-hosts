@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:24.318849
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:37.018251
-mcyvayyde.com,AVAILABILITY,origin.list,2023-02-09 07:26:40.934455
-decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-09 07:26:41.860164
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:26:45.999906
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:47:41.041750
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-09 07:47:45.636101
 gnfoxcsgk.com,AVAILABILITY,origin.list,2023-02-09 07:47:46.998819
 uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-02-09 07:47:48.191022
@@ -657,3 +651,9 @@ click.content-ad.net,AVAILABILITY,origin.list,2023-02-11 07:00:53.985703
 banner.content-ad.net,AVAILABILITY,origin.list,2023-02-11 07:01:05.672214
 byqymwkscobhked.com,AVAILABILITY,origin.list,2023-02-11 07:01:08.752527
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-11 07:01:13.685710
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-11 07:21:59.516414
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-11 07:22:00.331746
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-11 07:22:03.354325
+mcyvayyde.com,AVAILABILITY,origin.list,2023-02-11 07:22:04.902643
+decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-11 07:22:05.521208
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-11 07:22:23.186270
