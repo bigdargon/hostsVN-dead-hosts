@@ -5200,3 +5200,585 @@ hulu.pixel.invitemedia.com                                                      
 lijit.pixel.invitemedia.com                                                                          ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
 segment-pixel.invitemedia.com                                                                        ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
 pixel.prod2.invitemedia.com                                                                          ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+segment-pixel.invitemedia.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+vmm-pixel.invitemedia.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+lijit.pixel.invitemedia.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+hulu.pixel.invitemedia.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+pixel.prod2.invitemedia.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+t.invitemedia.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+www.invitemedia.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+vu.adschoom.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adschoom.com                                                                                         ACTIVE      WHOIS      25-may-2029       OVH sas                        301        AVAILABILITY 
+popclck.org                                                                                          ACTIVE      WHOIS      06-feb-2023       GoDaddy.com, LLC               302        AVAILABILITY 
+st-n.popclck.org                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.adschoom.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pmddby.com                                                                                           ACTIVE      WHOIS      01-mar-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+n.popclck.org                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+s.pmddby.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+hs-analytics.net                                                                                     ACTIVE      WHOIS      18-sep-2024       MarkMonitor Inc.               Unknown    AVAILABILITY 
+js.hs-analytics.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+brand.ad                                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.popclck.org                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+hs-scripts.com                                                                                       ACTIVE      WHOIS      11-jul-2024       MarkMonitor Inc.               Unknown    AVAILABILITY 
+a.brand.ad                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.brand.ad                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+js.hs-scripts.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+hs-banner.com                                                                                        ACTIVE      WHOIS      09-mar-2024       MarkMonitor Inc.               Unknown    AVAILABILITY 
+js-eu1.hs-scripts.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+hsadspixel.net                                                                                       ACTIVE      WHOIS      21-apr-2023       MarkMonitor Inc.               Unknown    AVAILABILITY 
+js.hs-banner.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+js.hsadspixel.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cdn-source.spotxchange.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+api.spotxchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+cdn.spotxchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+developer.spotxchange.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+live-beacons.spotxchange.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+publisher-api.spotxchange.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+event.spotxchange.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+live.spotxchange.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+publisher.spotxchange.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+post.update.spotxchange.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+search.spotxchange.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+s.update.spotxchange.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+spotxchange.com                                                                                      ACTIVE      WHOIS      08-jun-2024       Network Solutions, LLC         301        AVAILABILITY 
+sync.search.spotxchange.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+t.update.spotxchange.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.spotxchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+aniview.com                                                                                          ACTIVE      WHOIS      20-nov-2024       GoDaddy.com, LLC               301        AVAILABILITY 
+cdn1.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+add1.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+cdn3.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+add2.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+cross.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+data1.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+data.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+data2.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        400        AVAILABILITY 
+data3.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+data4.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+gosp.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+go1.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+go.aniview.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+gov.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+observe.aniview.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+owserv.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+play.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+manage.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+player.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+play1.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+player1.aniview.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+premiumsrv.aniview.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+s2s.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+sync.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+tg1.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+cdn.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+track.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+track1.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+tracks.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+urlhandler.aniview.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+vast.aniview.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+vast1.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+vtrack.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+wlplayer.aniview.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+wltrack.aniview.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+wltg1.aniview.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+wlvast.aniview.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adrecover.com                                                                                        ACTIVE      WHOIS      06-may-2025       NameCheap, Inc.                301        AVAILABILITY 
+delivery.adrecover.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+www.adrecover.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+app.adrecover.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.aniview.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cache.send.microadinc.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+d-cache.microadinc.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+microadinc.com                                                                                       ACTIVE      WHOIS      02-aug-2023       GMO Internet, Inc. d/b/a Onamae.com Unknown    AVAILABILITY 
+d-track.send.microadinc.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+prcache.microadinc.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-rtb.send.microadinc.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ssp.send.microadinc.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+s-rtb.send.microad.jp                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-rtb-pb.send.microad.jp                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.microad.jp                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+microad.jp                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cm.send.microad.jp                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ssp.send.microad.jp                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+universe.send.microad.jp                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+microad.net                                                                                          ACTIVE      WHOIS      19-dec-2022       IDC Frontier Inc.              Unknown    AVAILABILITY 
+i.microad.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adrta.com                                                                                            ACTIVE      WHOIS      22-jun-2028       eNom, LLC                      200        AVAILABILITY 
+j.microad.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+jgl.microad.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+api.adrta.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+www.microad.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cdn.adrta.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ipv4.adrta.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        400        AVAILABILITY 
+ipv6.adrta.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+js.adrta.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+p.adrta.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+pix.adrta.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+152media.com                                                                                         ACTIVE      WHOIS      01-nov-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+www.adrta.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+q.adrta.com                                                                                          ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+r.adrta.com                                                                                          ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+hb.ads.152media.com                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+player-aws.ads.152media.com                                                                          ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+mob.152media.com                                                                                     ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+player.ads.152media.com                                                                              ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+rtb-eu.152media.com                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+reports.152media.com                                                                                 ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+rtb-useast.152media.com                                                                              ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+rtb-uswest.152media.com                                                                              ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+bidfilter.com                                                                                        ACTIVE      WHOIS      07-feb-2023       CloudFlare, Inc.               Unknown    AVAILABILITY 
+sync.ads.152media.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s.ads.152media.com                                                                                   ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+ads.exoclick.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn.bidfilter.com                                                                                    ACTIVE      NETINFO    Unknown           Unknown                        301        AVAILABILITY 
+secure.exoclick.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+exoclick.com                                                                                         ACTIVE      WHOIS      01-sep-2024       GoDaddy.com, LLC               301        AVAILABILITY 
+main.exoclick.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+www.152media.com                                                                                     ACTIVE      NETINFO    Unknown           Unknown                        301        AVAILABILITY 
+syndication-evo.exoclick.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn-a.yieldlove.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+syndication.exoclick.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn-b.yieldlove.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn-c.yieldlove.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dbaord-frontend.dev.yieldlove.com                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.exoclick.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cdn-xxx.yieldlove.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+pbs.dev.yieldlove.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+opt.yieldlove.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.yieldlove.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+yieldlove.com                                                                                        ACTIVE      WHOIS      25-jun-2023       Amazon Registrar, Inc.         301        AVAILABILITY 
+api.yieldlove-ad-serving.net                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+platform.yieldlove.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cloudfront.yieldlove-ad-serving.net                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ads.yieldlove-ad-serving.net                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+prebid-cache.yieldlove-ad-serving.net                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+prebid-server.yieldlove-ad-serving.net                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+prod-ingestion.tracking.v2.yieldlove-ad-serving.net                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+sra-delivery.yieldlove-ad-serving.net                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+privacy.yieldlove-ad-serving.net                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s2s.yieldlove-ad-serving.net                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking.yieldlove-ad-serving.net                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+yieldlove-ad-serving.net                                                                             ACTIVE      WHOIS      02-nov-2023       Amazon Registrar, Inc.         Unknown    AVAILABILITY 
+uploaded.yieldlove-ad-serving.net                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+connect-metrics-collector.s-onetag.com                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+beacon.s-onetag.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dfp-gateway.s-onetag.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+data-beacons.s-onetag.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+get.s-onetag.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+metrics-collector.s-onetag.com                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+onetag-geo-grouping.s-onetag.com                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+onetag-geo.s-onetag.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-onetag.com                                                                                         ACTIVE      WHOIS      03-may-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+prebid.s-onetag.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.s-onetag.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adspsp.com                                                                                           ACTIVE      WHOIS      04-apr-2023       GoDaddy.com, LLC               504        AVAILABILITY 
+d1v373ntykegkp.cloudfront.net                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+d3luypns9uh4a4.cloudfront.net                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+gop1.co                                                                                              ACTIVE      WHOIS      22-sep-2023       NameCheap, Inc.                301        AVAILABILITY 
+passbolt.yieldlove.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cc.adspsp.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+prod.adspsp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cdn.islandmob.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+islandmob.com                                                                                        ACTIVE      WHOIS      28-apr-2024       Tucows Domains Inc.            302        AVAILABILITY 
+www.islandmob.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+domnovrek.com                                                                                        ACTIVE      WHOIS      21-may-2023       GoDaddy.com, LLC               302        AVAILABILITY 
+st-n.domnovrek.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+n.domnovrek.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+ad.doublemax.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adx.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cap-ad.doublemax.net                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+c.doublemax.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cdn.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cft.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+clg.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        502        AVAILABILITY 
+doublemax.net                                                                                        ACTIVE      WHOIS      30-mar-2023       GoDaddy.com, LLC               404        AVAILABILITY 
+dmp.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+bids.adspsp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dsp.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+events.doublemax.net                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        502        AVAILABILITY 
+lg.doublemax.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        502        AVAILABILITY 
+fcm.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+m.doublemax.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ads.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+mt.doublemax.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pp.doublemax.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+static.doublemax.net                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+vast.doublemax.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+t.doublemax.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+amp.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.doublemax.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+v.doublemax.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+video.doublemax.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+app.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cd.navdmp.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cdn.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+debug.navdmp.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+j.navdmp.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ec.doublemax.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+mcd.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+mcdn.navdmp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+musr.navdmp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+navdmp.com                                                                                           ACTIVE      WHOIS      20-apr-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+opt.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+sync.navdmp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+sync2.navdmp.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+tag.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+usr.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+view.navdmp.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.navdmp.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+4dsply.com                                                                                           ACTIVE      WHOIS      10-apr-2026       Key-Systems GmbH               301        AVAILABILITY 
+engine.4dsply.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+cdn.engine.4dsply.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+xmlfeedparser.4dsply.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+www.4dsply.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ivstracker.net                                                                                       ACTIVE      WHOIS      22-feb-2023       Amazon Registrar, Inc.         Unknown    AVAILABILITY 
+a.ivstracker.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+c.ivstracker.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+apptrack-dev.adsafety.net                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adsafety.net                                                                                         ACTIVE      WHOIS      09-apr-2023       CloudFlare, Inc.               200        AVAILABILITY 
+scripts.ivstracker.net                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cm.adsafety.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+concheck.adsafety.net                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+geo-weather.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ctx.adsafety.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+reporting-stvde.adsafety.net                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tags-dev.adsafety.net                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+comprar.navdmp.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tags.adsafety.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+tags1.adsafety.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+tracking.adsafety.net                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+tags2.adsafety.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+tracking-dev.adsafety.net                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-ch.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-i1.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-groupm.adsafety.net                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-i3.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-i2.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-lr.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-somde.adsafety.net                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-stvde.adsafety.net                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-vv.adsafety.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+venc-dev.adsafety.net                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tracking-xaxis.adsafety.net                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+r.ivstracker.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.adsafety.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cdn.districtm.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+districtm.io                                                                                         ACTIVE      WHOIS      14-mar-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+tags11.adsafety.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.popnc.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+tags12.adsafety.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dash.popnc.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+open.popnc.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+popnc.com                                                                                            ACTIVE      WHOIS      04-sep-2023       DropCatch.com 671 LLC          302        AVAILABILITY 
+admin.trafficstars.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+staff.popnc.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+api.trafficstars.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.popnc.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cnt.trafficstars.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+staging.trafficstars.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        502        AVAILABILITY 
+auth.trafficstars.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.trafficstars.com                                                                                 ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+static.trafficstars.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+extmedia.trafficstars.com                                                                            ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+trafficstars.com                                                                                     ACTIVE      WHOIS      20-mar-2027       NameCheap, Inc.                Unknown    AVAILABILITY 
+tesla.trafficstars.com                                                                               ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+ws3.trafficstars.com                                                                                 ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+www.trafficstars.com                                                                                 ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+cdn.tsyndicate.com                                                                                   ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+pxl.tsyndicate.com                                                                                   ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+tsyndicate.com                                                                                       ACTIVE      WHOIS      28-may-2028       Name.com, Inc.                 Unknown    AVAILABILITY 
+adxxx.com                                                                                            ACTIVE      WHOIS      23-aug-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+rtb.tsyndicate.com                                                                                   ACTIVE      NETINFO    Unknown           Unknown                        429        AVAILABILITY 
+cn.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+b.adxxx.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+aab.adxxx.com                                                                                        ACTIVE      NETINFO    Unknown           Unknown                        404        AVAILABILITY 
+vcdn.tsyndicate.com                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        302        AVAILABILITY 
+de.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+endpoint.adxxx.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+es.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+iframe.adxxx.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+iframe2.adxxx.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+pl.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ru.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+self-service.adxxx.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+pr.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+self-service-adm.adxxx.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+self-service-pay.adxxx.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static2-src.adxxx.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static-src.adxxx.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+st.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+st-n.adxxx.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+teasers.adxxx.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+tr.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+static.adxxx.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+vi.adxxx.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+www.adxxx.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+asset.pubexchange.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+by.pubexchange.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn2.pubexchange.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn.pubexchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+n.adxxx.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+err.pubexchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+demo.pubexchange.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+explorer.pubexchange.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+main.pubexchange.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+pubexchange.com                                                                                      ACTIVE      WHOIS      17-nov-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+pv.pubexchange.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+welcome.pubexchange.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+stag.pubexchange.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+scan.adxxx.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+traffic.pubexchange.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cdn-cf.justpremium.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ads.justpremium.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.pubexchange.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+justpremium.com                                                                                      ACTIVE      WHOIS      10-aug-2023       Key-Systems GmbH               200        AVAILABILITY 
+pre.ads.justpremium.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+match.justpremium.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+click.justpremium.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+tracking.justpremium.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn.justpremium.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adzerk.net                                                                                           ACTIVE      WHOIS      12-may-2024       NameCheap, Inc.                Unknown    AVAILABILITY 
+engine2.adzerk.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+us.ads.justpremium.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+uk.ads.justpremium.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+engine.adzerk.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+a-mo.net                                                                                             ACTIVE      WHOIS      08-sep-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+1x1.a-mo.net                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+collector.a-mo.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static.adzerk.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+www.adzerk.net                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+downloads.a-mo.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+assets.a-mo.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+fav.a-mo.net                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+cpxy.a-mo.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+metrics.a-mo.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+config.a-mo.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+fav-cdn.a-mo.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+o.update.a-mo.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+prebid.a-mo.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+p.update.a-mo.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.justpremium.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+rj.a-mo.net                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+sdk.a-mo.net                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+post.update.a-mo.net                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s.update.a-mo.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+u.update.a-mo.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+static.a-mo.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+update.a-mo.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+us-east-1.rtb.a-mo.net                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ads.admarvel.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+base-cdn.admarvel.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+exit-ad.com                                                                                          ACTIVE      WHOIS      26-dec-2022       Above.com Pty Ltd.             Unknown    AVAILABILITY 
+map.admarvel.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+omax.admarvel.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adexchangemachine.com                                                                                ACTIVE      WHOIS      27-apr-2023       GoDaddy.com, LLC               403        AVAILABILITY 
+b.adexchangemachine.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+c.adexchangemachine.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+a.appbaqend.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+www.appbaqend.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+x-us.appbaqend.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+appbaqend.com                                                                                        ACTIVE      WHOIS      16-may-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+x.appbaqend.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adwin.lsosad.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adx.lsosad.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+lsosad.com                                                                                           ACTIVE      WHOIS      21-nov-2023       Alibaba Cloud Computing (Beijing) Co., Ltd. Unknown    AVAILABILITY 
+conf.lsosad.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+dc.lsosad.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ucloud.lsosad.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+app.serverbid.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+e.serverbid.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        400        AVAILABILITY 
+dev.serverbid.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+admarvel.com                                                                                         ACTIVE      WHOIS      02-nov-2023       GoDaddy.com, LLC               Unknown    AVAILABILITY 
+automator.admarvel.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+sync.serverbid.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+cdn.connectad.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+connectad.io                                                                                         ACTIVE      WHOIS      16-jun-2023       Cloudflare, Inc                302        AVAILABILITY 
+connectedby.connectad.io                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+serverbid.com                                                                                        ACTIVE      WHOIS      04-mar-2023       Amazon Registrar, Inc.         301        AVAILABILITY 
+eu-1a.connectad.io                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+demand.connectad.io                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+www.serverbid.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+eu-central-1b.connectad.io                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+e.connectad.io                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+gbalancer.connectad.io                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+i.connectad.io                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+control.connectad.io                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+sync-eu.connectad.io                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+sync.connectad.io                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+realtime.connectad.io                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+dsp.wpu.sh                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+www.connectad.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+cst.wpu.sh                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+na.wpu.sh                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+native.wpu.sh                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+logger.wpu.sh                                                                                        ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+ntvp.wpu.sh                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+sw.wpu.sh                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+pw.wpu.sh                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+wpu.sh                                                                                               ACTIVE      WHOIS      17-dec-2023       NameCheap, Inc.                Unknown    AVAILABILITY 
+adtouch-qa.adbrix.io                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+tw.wpu.sh                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+applinks.adbrix.io                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adbrix.io                                                                                            ACTIVE      WHOIS      11-apr-2023       Gandi SAS                      301        AVAILABILITY 
+adtouch.adbrix.io                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+event-qa.adbrix.io                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+gdpr-qa.adbrix.io                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+intern.connectad.io                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+lb.wpu.sh                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+event.adbrix.io                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adpopcorn.com                                                                                        ACTIVE      WHOIS      23-feb-2026       Gabia, Inc.                    Unknown    AVAILABILITY 
+static.adbrix.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+gdpr.adbrix.io                                                                                       ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+stream.adbrix.io                                                                                     ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+www.adbrix.io                                                                                        ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+rpi.adpopcorn.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+apapi.adpopcorn.com                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+api.adpopcorn.com                                                                                    ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+rpi-staging.adpopcorn.com                                                                            ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+partners.adpopcorn.com                                                                               ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+ssp.adpopcorn.com                                                                                    ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+sspadstrk.adpopcorn.com                                                                              ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+mobileoffers-ab-download.com                                                                         ACTIVE      WHOIS      20-feb-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+mobileoffers-ac-download.com                                                                         ACTIVE      WHOIS      20-feb-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+mobileoffers-ad-download.com                                                                         ACTIVE      WHOIS      20-feb-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+mobileoffers-a-download.com                                                                          ACTIVE      WHOIS      11-jan-2023       Internet Domain Service BS Corp Unknown    AVAILABILITY 
+mobileoffers-al-download.com                                                                         ACTIVE      WHOIS      28-feb-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+mobileoffers-bm-download.com                                                                         ACTIVE      WHOIS      08-apr-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+mobileoffers-bn-download.com                                                                         ACTIVE      WHOIS      08-apr-2023       REGISTRAR OF DOMAIN NAMES REG.RU LLC Unknown    AVAILABILITY 
+ssptrk.adpopcorn.com                                                                                 ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+sspi.adpopcorn.com                                                                                   ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+js.mobileoffers-ac-download.com                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+js.mobileoffers-al-download.com                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+staging.adpopcorn.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+fadsoks.com                                                                                          ACTIVE      WHOIS      25-jan-2023       GoDaddy.com, LLC               200        AVAILABILITY 
+fadsims.com                                                                                          ACTIVE      WHOIS      25-jan-2026       TurnCommerce, Inc. DBA NameBright.com 302        AVAILABILITY 
+fadspms.com                                                                                          ACTIVE      WHOIS      15-apr-2023       Domaingazelle.com LLC          200        AVAILABILITY 
+www.adpopcorn.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+fadskis.com                                                                                          ACTIVE      WHOIS      15-apr-2023       Klaatudomains.com LLC          302        AVAILABILITY 
+fadsanz.com                                                                                          ACTIVE      WHOIS      30-apr-2023       Gransy, s.r.o.                 301        AVAILABILITY 
+fadskiz.com                                                                                          ACTIVE      WHOIS      23-apr-2023       Gransy, s.r.o.                 301        AVAILABILITY 
+fadsimz.com                                                                                          ACTIVE      WHOIS      25-jan-2023       eNom, LLC                      301        AVAILABILITY 
+fadsipz.com                                                                                          ACTIVE      WHOIS      25-jan-2023       eNom, LLC                      301        AVAILABILITY 
+gadsims.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      200        AVAILABILITY 
+gadsabz.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      200        AVAILABILITY 
+fadslimz.com                                                                                         ACTIVE      WHOIS      25-jan-2023       eNom, LLC                      301        AVAILABILITY 
+gadsabs.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+gadskiz.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      200        AVAILABILITY 
+gadsanz.com                                                                                          ACTIVE      WHOIS      23-oct-2023       Gransy, s.r.o.                 301        AVAILABILITY 
+gadskis.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+gadspms.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+gadsatz.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+madsecz.com                                                                                          ACTIVE      WHOIS      17-jan-2023       GoDaddy.com, LLC               302        AVAILABILITY 
+madsokz.com                                                                                          ACTIVE      WHOIS      17-jan-2023       GoDaddy.com, LLC               200        AVAILABILITY 
+gadslimz.com                                                                                         ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+gadspmz.com                                                                                          ACTIVE      WHOIS      05-feb-2023       eNom, LLC                      301        AVAILABILITY 
+madslimz.com                                                                                         ACTIVE      WHOIS      17-jan-2023       eNom, LLC                      301        AVAILABILITY 
+sadsecz.com                                                                                          ACTIVE      WHOIS      17-jan-2023       GoDaddy.com, LLC               200        AVAILABILITY 
+madspmz.com                                                                                          ACTIVE      WHOIS      17-jan-2023       eNom, LLC                      301        AVAILABILITY 
+sadsabz.com                                                                                          ACTIVE      WHOIS      17-jan-2023       Key-Systems GmbH               302        AVAILABILITY 
+sadsatz.com                                                                                          ACTIVE      WHOIS      13-jun-2023       Gname.com Pte. Ltd.            301        AVAILABILITY 
+hadsanz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+hadskiz.com                                                                                          ACTIVE      WHOIS      15-may-2023       DomainCreek LLC                200        AVAILABILITY 
+hadsatz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+hadsecz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+hadsimz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+hadsipz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+adjust.com                                                                                           ACTIVE      WHOIS      26-sep-2023       Mesh Digital Limited           301        AVAILABILITY 
+app.adjust.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+hadsokz.com                                                                                          ACTIVE      WHOIS      25-feb-2023       eNom, LLC                      301        AVAILABILITY 
+events.adjust.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+s2s.adjust.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+atom.adjust.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+view.adjust.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+aaxads.com                                                                                           ACTIVE      WHOIS      25-oct-2023       PDR Ltd. d/b/a PublicDomainRegistry.com Unknown    AVAILABILITY 
+bidder-east.aaxads.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+app.adjust.io                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adjust.io                                                                                            ACTIVE      WHOIS      24-may-2023       united-domains AG              301        AVAILABILITY 
+aas-nv-a.aaxads.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+bidder-east2.aaxads.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+bidder-west.aaxads.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+bids-nc-a.aaxads.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+bids-ny-a.aaxads.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+bids-nv-a.aaxads.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+c.aaxads.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cslogger.aaxads.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+l.aaxads.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+forbes.aaxads.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+l1.aaxads.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        503        AVAILABILITY 
+l3.aaxads.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+lb2.aaxads.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+l4.aaxads.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+lb3.aaxads.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+otnolatrnup.com                                                                                      ACTIVE      WHOIS      06-mar-2023       GoDaddy.com, LLC               302        AVAILABILITY 
+p.aaxads.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+rh.otnolatrnup.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+lb.aaxads.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+cdn.otnolatrnup.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+s.aaxads.com                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ad4game.com                                                                                          ACTIVE      WHOIS      12-may-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+cdn.ad4game.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+ads.ad4game.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+dev01.ad4game.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+developer.ad4game.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+haproxy1.ad4game.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+haproxy2.ad4game.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+delivery03.ad4game.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+helpdesk.ad4game.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+delivery04.ad4game.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+delivery05.ad4game.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+mpe.ad4game.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+www.ad4game.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+traffic.ad4game.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+report.ad4game.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+bcdn.cpmstar.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+monitor.ad4game.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cpmstar.com                                                                                          ACTIVE      WHOIS      22-aug-2023       GoDaddy.com, LLC               302        AVAILABILITY 
+pcdn.cpmstar.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+origincdn.cpmstar.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+server.cpmstar.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+cdn.cpmstar.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+ec.cdne.cpmstar.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+whalecdn.cpmstar.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-bid.rmp.rakuten.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ssl.cdne.cpmstar.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+www.cpmstar.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+s-cdn.rmp.rakuten.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-clk.rmp.rakuten.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-cs.rmp.rakuten.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+s-imp.rmp.rakuten.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+eb.proper.io                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+tag.rmp.rakuten.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+bids.proper.io                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+analytics.proper.io                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+events.proper.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+global.proper.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+s2s.proper.io                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        530        AVAILABILITY 
+proper.io                                                                                            ACTIVE      WHOIS      24-dec-2022       Key-Systems GmbH               301        AVAILABILITY 
+www.proper.io                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+itag.ads.linkedin.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dc.ads.linkedin.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ads.linkedin.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+px.ads.linkedin.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+px4.ads.linkedin.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+consumable.com                                                                                       ACTIVE      WHOIS      29-mar-2023       GoDaddy.com, LLC               301        AVAILABILITY 
+api.proper.io                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+monitoring.proper.io                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+fridge.consumable.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+demos.consumable.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+vid.consumable.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+publishers.consumable.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+landing.consumable.com                                                                               ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+www.consumable.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+showcase.consumable.com                                                                              ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+yummy.consumable.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+welcome.consumable.com                                                                               ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+api.west.bidtellect.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+yummy2.consumable.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+api.europe.bidtellect.com                                                                            ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+apac.bidtellect.com                                                                                  ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
+bidtellect.com                                                                                       ACTIVE      WHOIS      01-jan-2025       1API GmbH                      Unknown    AVAILABILITY 
+dsp.bidtellect.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+east.bidtellect.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+dspapi.bidtellect.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+europe.bidtellect.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        200        AVAILABILITY 
+dmpapi.bidtellect.com                                                                                ACTIVE      NETINFO    Unknown           Unknown                        Unknown    AVAILABILITY 
