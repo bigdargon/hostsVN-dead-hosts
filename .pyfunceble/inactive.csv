@@ -1,21 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-log.toss.vn,AVAILABILITY,origin.list,2023-02-13 07:01:48.865765
-click.content-ad.net,AVAILABILITY,origin.list,2023-02-13 07:01:54.081951
-banner.content-ad.net,AVAILABILITY,origin.list,2023-02-13 07:02:01.041152
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:22:40.355290
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:22:40.390477
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:22:40.767188
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:22:40.856168
-byqymwkscobhked.com,AVAILABILITY,origin.list,2023-02-13 07:22:45.572096
-fwilmdact.com,AVAILABILITY,origin.list,2023-02-13 07:22:54.324887
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:23:04.004979
-mcyvayyde.com,AVAILABILITY,origin.list,2023-02-13 07:43:48.133340
-decptynhipdrkrg.com,AVAILABILITY,origin.list,2023-02-13 07:43:49.107136
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:43:50.605925
-gnfoxcsgk.com,AVAILABILITY,origin.list,2023-02-13 07:43:52.856426
-uoobmvrjyjomnle.com,AVAILABILITY,origin.list,2023-02-13 07:43:54.055163
-xpblitgpg.com,AVAILABILITY,origin.list,2023-02-13 07:44:01.343253
-irnwislborwvh.com,AVAILABILITY,origin.list,2023-02-13 07:44:12.403683
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-02-13 08:04:51.848824
 ktwnjefd.com,AVAILABILITY,origin.list,2023-02-13 08:04:52.683340
 fygocqpmcsnix.com,AVAILABILITY,origin.list,2023-02-13 08:04:53.138344
@@ -601,3 +586,10 @@ clk.content-ad.net,AVAILABILITY,origin.list,2023-02-15 05:38:46.153499
 api.content-ad.net,AVAILABILITY,origin.list,2023-02-15 05:38:47.349880
 px.content-ad.net,AVAILABILITY,origin.list,2023-02-15 05:38:54.991535
 pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-15 05:38:57.675577
+banner.content-ad.net,AVAILABILITY,origin.list,2023-02-15 06:41:13.102979
+click.content-ad.net,AVAILABILITY,origin.list,2023-02-15 06:41:13.389938
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:20.052237
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:23.131962
+log.toss.vn,AVAILABILITY,origin.list,2023-02-15 06:41:25.597943
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.065238
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.357975
