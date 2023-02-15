@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:23:04.004979
-t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-13 07:43:50.605925
-1004.hostedprebid.com,AVAILABILITY,origin.list,2023-02-13 08:04:51.848824
-ktwnjefd.com,AVAILABILITY,origin.list,2023-02-13 08:04:52.683340
-fygocqpmcsnix.com,AVAILABILITY,origin.list,2023-02-13 08:04:53.138344
-ofsyuxaveckulgf.com,AVAILABILITY,origin.list,2023-02-13 08:04:53.271862
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-02-13 08:04:57.297571
-rihlosty.com,AVAILABILITY,origin.list,2023-02-13 08:05:16.877491
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-02-13 08:27:25.724384
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-02-13 08:48:53.156676
 www.admedia.network,AVAILABILITY,origin.list,2023-02-13 09:31:25.200641
@@ -593,3 +585,7 @@ collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:23.1319
 log.toss.vn,AVAILABILITY,origin.list,2023-02-15 06:41:25.597943
 detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.065238
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.357975
+t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 07:23:45.374878
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 07:23:45.521869
+1004.hostedprebid.com,AVAILABILITY,origin.list,2023-02-15 07:23:46.789067
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-02-15 07:23:52.838808
