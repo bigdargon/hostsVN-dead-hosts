@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-click.content-ad.net,AVAILABILITY,origin.list,2023-02-15 06:41:13.389938
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:20.052237
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:23.131962
-log.toss.vn,AVAILABILITY,origin.list,2023-02-15 06:41:25.597943
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.065238
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 06:41:32.357975
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 07:23:45.374878
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-15 07:23:45.521869
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-02-15 07:23:46.789067
@@ -585,3 +579,9 @@ api.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:31.536635
 px.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:31.653192
 pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:32.655639
 banner.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:40.639848
+click.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:43:21.519385
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:28.826378
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:29.286088
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:32.846278
+log.toss.vn,AVAILABILITY,origin.list,2023-02-17 07:43:34.520654
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:40.717313
