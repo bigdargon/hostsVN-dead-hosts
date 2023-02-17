@@ -1,16 +1,6 @@
 idna_subject,checker_type,destination,tested_at
-app.content.ad,AVAILABILITY,origin.list,2023-02-15 05:16:56.118379
-arsenal56.xyz,AVAILABILITY,origin.list,2023-02-15 05:16:56.669718
-aj1101.online,AVAILABILITY,origin.list,2023-02-15 05:16:58.405107
-api.content.ad,AVAILABILITY,origin.list,2023-02-15 05:16:59.029159
-vads-api.ad.daum.net,AVAILABILITY,origin.list,2023-02-15 05:17:00.519532
 ipinvite.iperceptions.com,AVAILABILITY,origin.list,2023-02-15 05:17:00.838704
-hwdata2.aniview.com,AVAILABILITY,origin.list,2023-02-15 05:17:02.266272
-vi.gumgum.com,AVAILABILITY,origin.list,2023-02-15 05:17:02.428643
-rest.content.ad,AVAILABILITY,origin.list,2023-02-15 05:17:03.581405
-ad.daum.net,AVAILABILITY,origin.list,2023-02-15 05:17:03.828545
 analytics2.ad.daum.net,AVAILABILITY,origin.list,2023-02-15 05:17:05.537540
-partners.content.ad,AVAILABILITY,origin.list,2023-02-15 05:17:06.644248
 e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2023-02-15 05:17:06.888046
 cts.ad.daum.net,AVAILABILITY,origin.list,2023-02-15 05:17:08.635363
 videoads.hotstar.com,AVAILABILITY,origin.list,2023-02-15 05:17:09.855669
@@ -586,3 +576,13 @@ ums.adtechus.com,AVAILABILITY,origin.list,2023-02-17 05:37:59.484481
 api-internal-us-east-1.mathtag.com,AVAILABILITY,origin.list,2023-02-17 05:37:59.792935
 imap.netcoresmartech.com,AVAILABILITY,origin.list,2023-02-17 05:37:59.863802
 media.content.ad,AVAILABILITY,origin.list,2023-02-17 05:38:01.626518
+app.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:39.289177
+arsenal56.xyz,AVAILABILITY,origin.list,2023-02-17 05:58:39.362534
+aj1101.online,AVAILABILITY,origin.list,2023-02-17 05:58:39.437127
+api.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:39.525248
+vads-api.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 05:58:40.606427
+hwdata2.aniview.com,AVAILABILITY,origin.list,2023-02-17 05:58:41.325049
+vi.gumgum.com,AVAILABILITY,origin.list,2023-02-17 05:58:41.555718
+rest.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:42.835423
+ad.daum.net,AVAILABILITY,origin.list,2023-02-17 05:58:43.326085
+partners.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:44.194247
