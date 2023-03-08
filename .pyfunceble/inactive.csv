@@ -1,16 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-stats.showcasethat.com,AVAILABILITY,origin.list,2023-02-16 10:28:56.618726
-xml.showcasethat.com,AVAILABILITY,origin.list,2023-02-16 10:29:12.444385
-xml.ak-is.net,AVAILABILITY,origin.list,2023-02-16 10:33:21.229703
-redirect.dable.io,AVAILABILITY,origin.list,2023-02-16 12:18:29.780808
-adasia.fuseplatform.net,AVAILABILITY,origin.list,2023-02-16 12:20:43.817661
-adireto.fuseplatform.net,AVAILABILITY,origin.list,2023-02-16 12:20:44.432391
 cdn.myad.vn,AVAILABILITY,origin.list,2023-02-16 12:42:22.085109
-banner.nixnet.cz,AVAILABILITY,origin.list,2023-02-16 14:29:37.282406
-ivwbox.de,AVAILABILITY,origin.list,2023-02-16 15:55:59.019719
-openad.tf1.fr,AVAILABILITY,origin.list,2023-02-16 16:38:43.892981
-imggprx.mgid.com,AVAILABILITY,origin.list,2023-02-17 01:49:10.082537
-personalization.demandbase.com,AVAILABILITY,origin.list,2023-02-17 01:49:21.150311
 static.2mdnsys.com,AVAILABILITY,origin.list,2023-02-17 01:49:21.970499
 collector-cps2-live.omnitrend.biz,AVAILABILITY,origin.list,2023-02-17 01:49:22.700613
 ads.2mdnsys.com,AVAILABILITY,origin.list,2023-02-17 01:49:22.762088
@@ -631,3 +620,7 @@ prebid.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:20.225534
 showroom2.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:21.268106
 tools.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:21.410618
 www..clickcease.com,AVAILABILITY,origin.list,2023-03-08 16:08:22.444500
+adasia.fuseplatform.net,AVAILABILITY,origin.list,2023-03-08 16:29:21.624211
+adireto.fuseplatform.net,AVAILABILITY,origin.list,2023-03-08 16:29:22.878399
+imggprx.mgid.com,AVAILABILITY,origin.list,2023-03-08 16:29:24.553731
+personalization.demandbase.com,AVAILABILITY,origin.list,2023-03-08 16:29:25.254257
