@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 ad.scanmedios.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.561290
-ad.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:02.976890
 analytics.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:03.118261
 aidps.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:03.317550
 c.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:03.475476
@@ -622,3 +621,4 @@ adecn-w.atdmt.com,AVAILABILITY,origin.list,2023-03-08 19:15:17.376675
 optimize-stats.voxmedia.com,AVAILABILITY,origin.list,2023-03-08 19:15:18.041936
 vz-cdn.trafficjunky.net,AVAILABILITY,origin.list,2023-03-08 19:15:18.109832
 statse.webtrendslive.com,AVAILABILITY,origin.list,2023-03-08 19:15:19.345973
+ad.atdmt.com,AVAILABILITY,origin.list,2023-03-08 19:36:07.362039
