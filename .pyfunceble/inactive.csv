@@ -1,20 +1,7 @@
 idna_subject,checker_type,destination,tested_at
-secure-ca.cbsinteractive.com,AVAILABILITY,origin.list,2023-02-16 07:54:33.781936
-api.screenshot.triplelift.com,AVAILABILITY,origin.list,2023-02-16 08:49:07.087627
-portal.brealtime.com,AVAILABILITY,origin.list,2023-02-16 08:52:09.326412
-hb.publift.com,AVAILABILITY,origin.list,2023-02-16 08:59:04.620867
-npm.publift.com,AVAILABILITY,origin.list,2023-02-16 08:59:05.910120
-prebid.publift.com,AVAILABILITY,origin.list,2023-02-16 08:59:06.325485
-showroom2.publift.com,AVAILABILITY,origin.list,2023-02-16 08:59:08.125020
-tools.publift.com,AVAILABILITY,origin.list,2023-02-16 08:59:08.785594
-minio.connatix.com,AVAILABILITY,origin.list,2023-02-16 09:09:55.780632
-upload.connatix.com,AVAILABILITY,origin.list,2023-02-16 09:10:26.208642
-static.districtm.ca,AVAILABILITY,origin.list,2023-02-16 09:33:07.746469
-engine.bitmedianetwork.com,AVAILABILITY,origin.list,2023-02-16 09:50:50.432530
 stats.showcasethat.com,AVAILABILITY,origin.list,2023-02-16 10:28:56.618726
 xml.showcasethat.com,AVAILABILITY,origin.list,2023-02-16 10:29:12.444385
 xml.ak-is.net,AVAILABILITY,origin.list,2023-02-16 10:33:21.229703
-www..clickcease.com,AVAILABILITY,origin.list,2023-02-16 11:40:04.441046
 redirect.dable.io,AVAILABILITY,origin.list,2023-02-16 12:18:29.780808
 adasia.fuseplatform.net,AVAILABILITY,origin.list,2023-02-16 12:20:43.817661
 adireto.fuseplatform.net,AVAILABILITY,origin.list,2023-02-16 12:20:44.432391
@@ -637,3 +624,10 @@ cdn.digitru.st,AVAILABILITY,origin.list,2023-03-07 17:24:40.707793
 crtv.mate1.com,AVAILABILITY,origin.list,2023-03-07 17:44:25.922565
 go0gl3.pages.dev,AVAILABILITY,origin.list,2023-03-07 18:08:55.286509
 www.epi0tzwi.com,AVAILABILITY,origin.list,2023-03-07 22:21:20.684024
+hb.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:19.145962
+api.screenshot.triplelift.com,AVAILABILITY,origin.list,2023-03-08 16:08:19.181263
+npm.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:19.231963
+prebid.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:20.225534
+showroom2.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:21.268106
+tools.publift.com,AVAILABILITY,origin.list,2023-03-08 16:08:21.410618
+www..clickcease.com,AVAILABILITY,origin.list,2023-03-08 16:08:22.444500
