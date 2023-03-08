@@ -1,19 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-adx.atnext.com,AVAILABILITY,origin.list,2023-02-17 01:49:30.164229
-capi.bidtellect.com,AVAILABILITY,origin.list,2023-02-17 01:49:30.185436
-smetrics.linkshare.com,AVAILABILITY,origin.list,2023-02-17 01:49:30.228254
-ebs.criteo.com,AVAILABILITY,origin.list,2023-02-17 01:49:30.690048
-ad.prisma-ai.com,AVAILABILITY,origin.list,2023-02-17 02:09:58.549215
-scripte-monster.de,AVAILABILITY,origin.list,2023-02-17 02:09:59.236743
-pixel.app.returnpath.net,AVAILABILITY,origin.list,2023-02-17 02:09:59.241560
-pixel.monitor1.returnpath.net,AVAILABILITY,origin.list,2023-02-17 02:09:59.247470
-tracker.cpmdata.net,AVAILABILITY,origin.list,2023-02-17 02:09:59.414915
-www.advertisement-nhatanh.com,AVAILABILITY,origin.list,2023-02-17 02:10:00.398403
-adecn-w.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.175830
-optimize-stats.voxmedia.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.298449
-vz-cdn.trafficjunky.net,AVAILABILITY,origin.list,2023-02-17 02:10:01.411383
 ad.scanmedios.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.561290
-statse.webtrendslive.com,AVAILABILITY,origin.list,2023-02-17 02:10:02.345984
 ad.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:02.976890
 analytics.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:03.118261
 aidps.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:03.317550
@@ -623,3 +609,16 @@ px-eu.adhigh.net,AVAILABILITY,origin.list,2023-03-08 18:13:22.084357
 sspi-web-bidder.adpopcorn.com,AVAILABILITY,origin.list,2023-03-08 18:13:22.109192
 a.mouseflow.com,AVAILABILITY,origin.list,2023-03-08 18:13:22.428143
 t.singular.net,AVAILABILITY,origin.list,2023-03-08 18:13:23.208956
+ad.prisma-ai.com,AVAILABILITY,origin.list,2023-03-08 19:15:14.121152
+smetrics.linkshare.com,AVAILABILITY,origin.list,2023-03-08 19:15:14.319832
+adx.atnext.com,AVAILABILITY,origin.list,2023-03-08 19:15:14.383627
+ebs.criteo.com,AVAILABILITY,origin.list,2023-03-08 19:15:15.188481
+capi.bidtellect.com,AVAILABILITY,origin.list,2023-03-08 19:15:15.811987
+pixel.app.returnpath.net,AVAILABILITY,origin.list,2023-03-08 19:15:16.569221
+pixel.monitor1.returnpath.net,AVAILABILITY,origin.list,2023-03-08 19:15:16.777496
+www.advertisement-nhatanh.com,AVAILABILITY,origin.list,2023-03-08 19:15:17.220319
+tracker.cpmdata.net,AVAILABILITY,origin.list,2023-03-08 19:15:17.285101
+adecn-w.atdmt.com,AVAILABILITY,origin.list,2023-03-08 19:15:17.376675
+optimize-stats.voxmedia.com,AVAILABILITY,origin.list,2023-03-08 19:15:18.041936
+vz-cdn.trafficjunky.net,AVAILABILITY,origin.list,2023-03-08 19:15:18.109832
+statse.webtrendslive.com,AVAILABILITY,origin.list,2023-03-08 19:15:19.345973
