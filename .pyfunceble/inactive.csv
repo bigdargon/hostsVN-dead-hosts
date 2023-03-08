@@ -1,16 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 ad.scanmedios.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.561290
-cx.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:07.275856
-h.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:07.366153
-sdk.a4.tl,AVAILABILITY,origin.list,2023-02-17 02:10:07.601671
-ec.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:07.823528
-g.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:08.374773
-iact.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:09.177592
-db3aqu.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:09.177716
-img.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:10.259455
-image.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:11.056636
 sact.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:10:11.244156
-cdn-alt.popcash.net,AVAILABILITY,origin.list,2023-02-17 02:10:11.644020
 banner.brand.zing.vn,AVAILABILITY,origin.list,2023-02-17 02:10:11.714406
 campaign.brand.zing.vn,AVAILABILITY,origin.list,2023-02-17 02:10:12.220659
 jact.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:30:44.105615
@@ -622,3 +612,13 @@ c1.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:03:10.286734
 cs.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:03:10.386579
 api.catch.gift,AVAILABILITY,origin.list,2023-03-08 23:03:10.993646
 clk.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:03:12.186159
+cx.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:23.733916
+ec.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:23.880164
+h.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:23.887345
+sdk.a4.tl,AVAILABILITY,origin.list,2023-03-08 23:44:24.154748
+g.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:25.723240
+db3aqu.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:26.075675
+iact.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:26.133575
+img.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:26.165253
+image.atdmt.com,AVAILABILITY,origin.list,2023-03-08 23:44:27.593275
+cdn-alt.popcash.net,AVAILABILITY,origin.list,2023-03-08 23:44:27.668518
