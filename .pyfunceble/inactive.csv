@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 cdn.myad.vn,AVAILABILITY,origin.list,2023-02-16 12:42:22.085109
 static.2mdnsys.com,AVAILABILITY,origin.list,2023-02-17 01:49:21.970499
-collector-cps2-live.omnitrend.biz,AVAILABILITY,origin.list,2023-02-17 01:49:22.700613
 ads.2mdnsys.com,AVAILABILITY,origin.list,2023-02-17 01:49:22.762088
 stats.2mdnsys.com,AVAILABILITY,origin.list,2023-02-17 01:49:23.103590
 d.exit-ad.com,AVAILABILITY,origin.list,2023-02-17 01:49:23.560243
@@ -624,3 +623,4 @@ adasia.fuseplatform.net,AVAILABILITY,origin.list,2023-03-08 16:29:21.624211
 adireto.fuseplatform.net,AVAILABILITY,origin.list,2023-03-08 16:29:22.878399
 imggprx.mgid.com,AVAILABILITY,origin.list,2023-03-08 16:29:24.553731
 personalization.demandbase.com,AVAILABILITY,origin.list,2023-03-08 16:29:25.254257
+collector-cps2-live.omnitrend.biz,AVAILABILITY,origin.list,2023-03-08 17:11:04.245423
