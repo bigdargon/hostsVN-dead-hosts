@@ -1,18 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 ad.scanmedios.com,AVAILABILITY,origin.list,2023-02-17 02:10:01.561290
-switch.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:30:46.617625
-www.atdmt.com,AVAILABILITY,origin.list,2023-02-17 02:30:46.742798
-voodoo-ads.io,AVAILABILITY,origin.list,2023-02-17 02:30:46.841200
 jg.wensixuetang.com,AVAILABILITY,origin.list,2023-02-17 02:30:47.840496
-cdn.rongzhouxing.com,AVAILABILITY,origin.list,2023-02-17 02:30:47.929001
-api.adthor.com,AVAILABILITY,origin.list,2023-02-17 02:30:48.671283
-image.adthor.com,AVAILABILITY,origin.list,2023-02-17 02:30:48.778189
-static.adthor.com,AVAILABILITY,origin.list,2023-02-17 02:30:48.818419
-dsp.dable.io,AVAILABILITY,origin.list,2023-02-17 02:30:49.819756
-logger.adthor.com,AVAILABILITY,origin.list,2023-02-17 02:30:49.933022
-v.adthor.com,AVAILABILITY,origin.list,2023-02-17 02:30:50.674442
 sgp.o2o.api.xiaomi.com,AVAILABILITY,origin.list,2023-02-17 02:30:50.789206
-mobileads.dieuviet.com,AVAILABILITY,origin.list,2023-02-17 02:30:50.857252
 image.zcoup.com,AVAILABILITY,origin.list,2023-02-17 02:30:51.769888
 api.zcoup.com,AVAILABILITY,origin.list,2023-02-17 02:30:51.782608
 static.ad4mat.net,AVAILABILITY,origin.list,2023-02-17 02:30:52.687272
@@ -622,3 +611,14 @@ campaign.brand.zing.vn,AVAILABILITY,origin.list,2023-03-09 09:22:49.289454
 tip.atdmt.com,AVAILABILITY,origin.list,2023-03-09 09:22:50.127004
 multi1-wdc.youbora.com,AVAILABILITY,origin.list,2023-03-09 09:22:50.305035
 mobilecrm.accengage.com,AVAILABILITY,origin.list,2023-03-09 09:22:50.710037
+switch.atdmt.com,AVAILABILITY,origin.list,2023-03-09 11:06:52.990824
+www.atdmt.com,AVAILABILITY,origin.list,2023-03-09 11:06:53.249436
+voodoo-ads.io,AVAILABILITY,origin.list,2023-03-09 11:06:53.375878
+cdn.rongzhouxing.com,AVAILABILITY,origin.list,2023-03-09 11:06:54.973455
+api.adthor.com,AVAILABILITY,origin.list,2023-03-09 11:06:55.576219
+image.adthor.com,AVAILABILITY,origin.list,2023-03-09 11:06:55.649213
+static.adthor.com,AVAILABILITY,origin.list,2023-03-09 11:06:56.891404
+dsp.dable.io,AVAILABILITY,origin.list,2023-03-09 11:06:57.411625
+logger.adthor.com,AVAILABILITY,origin.list,2023-03-09 11:06:57.544097
+v.adthor.com,AVAILABILITY,origin.list,2023-03-09 11:06:58.839810
+mobileads.dieuviet.com,AVAILABILITY,origin.list,2023-03-09 11:06:59.784635
