@@ -1,17 +1,7 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
-api.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:39.525248
-vads-api.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 05:58:40.606427
-hwdata2.aniview.com,AVAILABILITY,origin.list,2023-02-17 05:58:41.325049
-vi.gumgum.com,AVAILABILITY,origin.list,2023-02-17 05:58:41.555718
-rest.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:42.835423
-ad.daum.net,AVAILABILITY,origin.list,2023-02-17 05:58:43.326085
-partners.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:44.194247
-e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2023-02-17 06:19:22.079232
-analytics2.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:23.410800
 cts.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:23.592323
-hwdata1.aniview.com,AVAILABILITY,origin.list,2023-02-17 06:19:23.878029
 sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2023-02-17 06:19:25.531535
 cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:27.063080
 d.justpremium.com,AVAILABILITY,origin.list,2023-02-17 06:19:27.912729
@@ -616,3 +606,13 @@ media.content.ad,AVAILABILITY,origin.list,2023-03-10 10:52:34.873584
 app.content.ad,AVAILABILITY,origin.list,2023-03-10 10:52:34.981293
 arsenal56.xyz,AVAILABILITY,origin.list,2023-03-10 10:52:35.098582
 aj1101.online,AVAILABILITY,origin.list,2023-03-10 18:49:07.353885
+hwdata2.aniview.com,AVAILABILITY,origin.list,2023-03-10 21:14:03.193245
+vi.gumgum.com,AVAILABILITY,origin.list,2023-03-10 21:14:04.264090
+api.content.ad,AVAILABILITY,origin.list,2023-03-10 21:14:04.346472
+vads-api.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:14:04.516790
+ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:14:06.310918
+partners.content.ad,AVAILABILITY,origin.list,2023-03-10 21:14:06.535196
+rest.content.ad,AVAILABILITY,origin.list,2023-03-10 21:14:06.768696
+e-eu-central-1.serverbid.com,AVAILABILITY,origin.list,2023-03-10 21:14:07.293658
+hwdata1.aniview.com,AVAILABILITY,origin.list,2023-03-10 21:14:08.234558
+analytics2.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:14:08.818094
