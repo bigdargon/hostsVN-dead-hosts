@@ -1,16 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
-c.deployads.com,AVAILABILITY,origin.list,2023-02-17 05:17:16.102958
-hwstats.unity3d.com,AVAILABILITY,origin.list,2023-02-17 05:17:16.846925
-stats.unity3d.com,AVAILABILITY,origin.list,2023-02-17 05:17:16.910476
-portal.batmobi.net,AVAILABILITY,origin.list,2023-02-17 05:17:17.017519
-assets.prebid.org,AVAILABILITY,origin.list,2023-02-17 05:17:18.015950
-gcd.mmstat.com,AVAILABILITY,origin.list,2023-02-17 05:17:18.644723
-aimg.media.net,AVAILABILITY,origin.list,2023-02-17 05:17:19.239499
-clk.kau.li,AVAILABILITY,origin.list,2023-02-17 05:17:19.622809
-js.kau.li,AVAILABILITY,origin.list,2023-02-17 05:17:19.752976
-ad.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.425913
 s.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.516997
 pixel.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.571814
 click.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.745018
@@ -616,3 +606,13 @@ seg2.ayads.co,AVAILABILITY,origin.list,2023-03-10 02:15:43.610734
 images.mxpnl.com,AVAILABILITY,origin.list,2023-03-10 02:15:44.141211
 sa.api.intl.miui.com,AVAILABILITY,origin.list,2023-03-10 02:15:44.207379
 b.logrocket.com,AVAILABILITY,origin.list,2023-03-10 02:36:25.666590
+c.deployads.com,AVAILABILITY,origin.list,2023-03-10 03:17:46.756309
+hwstats.unity3d.com,AVAILABILITY,origin.list,2023-03-10 03:17:47.620430
+stats.unity3d.com,AVAILABILITY,origin.list,2023-03-10 03:17:47.776315
+portal.batmobi.net,AVAILABILITY,origin.list,2023-03-10 03:17:47.808654
+assets.prebid.org,AVAILABILITY,origin.list,2023-03-10 03:17:48.820340
+gcd.mmstat.com,AVAILABILITY,origin.list,2023-03-10 03:17:49.008283
+aimg.media.net,AVAILABILITY,origin.list,2023-03-10 03:17:49.343794
+js.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.185827
+clk.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.238619
+ad.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.289502
