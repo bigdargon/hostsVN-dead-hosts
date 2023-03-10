@@ -1,18 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
-s.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.516997
-pixel.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.571814
-click.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.745018
-analytics.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:49.834629
-vet-us-east-1.smaato.net,AVAILABILITY,origin.list,2023-02-17 05:37:51.411089
-cdn-canary.siftscience.com,AVAILABILITY,origin.list,2023-02-17 05:37:51.599041
-pixel.logrocket.com,AVAILABILITY,origin.list,2023-02-17 05:37:51.831161
-rtb.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:52.297084
-y.kau.li,AVAILABILITY,origin.list,2023-02-17 05:37:53.217785
-creative-templates-api.gumgum.com,AVAILABILITY,origin.list,2023-02-17 05:37:53.264020
-metrics.linkshare.com,AVAILABILITY,origin.list,2023-02-17 05:37:53.770959
-stg-ads.servebom.com,AVAILABILITY,origin.list,2023-02-17 05:37:53.893604
 pix.hk.as.criteo.net,AVAILABILITY,origin.list,2023-02-17 05:37:54.327747
 seb.scorecardresearch.com,AVAILABILITY,origin.list,2023-02-17 05:37:55.266955
 lb.ns1p.net,AVAILABILITY,origin.list,2023-02-17 05:37:55.495310
@@ -616,3 +604,15 @@ aimg.media.net,AVAILABILITY,origin.list,2023-03-10 03:17:49.343794
 js.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.185827
 clk.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.238619
 ad.kau.li,AVAILABILITY,origin.list,2023-03-10 03:17:50.289502
+s.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:06.533948
+pixel.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:06.824094
+click.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:06.833584
+analytics.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:07.439000
+vet-us-east-1.smaato.net,AVAILABILITY,origin.list,2023-03-10 03:59:07.608645
+cdn-canary.siftscience.com,AVAILABILITY,origin.list,2023-03-10 03:59:07.824994
+pixel.logrocket.com,AVAILABILITY,origin.list,2023-03-10 03:59:08.285522
+y.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:08.716925
+creative-templates-api.gumgum.com,AVAILABILITY,origin.list,2023-03-10 03:59:09.151922
+rtb.kau.li,AVAILABILITY,origin.list,2023-03-10 03:59:09.229718
+metrics.linkshare.com,AVAILABILITY,origin.list,2023-03-10 03:59:09.326817
+stg-ads.servebom.com,AVAILABILITY,origin.list,2023-03-10 03:59:09.925666
