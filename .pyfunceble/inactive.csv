@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
-aj1101.online,AVAILABILITY,origin.list,2023-02-17 05:58:39.437127
 api.content.ad,AVAILABILITY,origin.list,2023-02-17 05:58:39.525248
 vads-api.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 05:58:40.606427
 hwdata2.aniview.com,AVAILABILITY,origin.list,2023-02-17 05:58:41.325049
@@ -616,3 +615,4 @@ imap.netcoresmartech.com,AVAILABILITY,origin.list,2023-03-10 10:52:33.854356
 media.content.ad,AVAILABILITY,origin.list,2023-03-10 10:52:34.873584
 app.content.ad,AVAILABILITY,origin.list,2023-03-10 10:52:34.981293
 arsenal56.xyz,AVAILABILITY,origin.list,2023-03-10 10:52:35.098582
+aj1101.online,AVAILABILITY,origin.list,2023-03-10 18:49:07.353885
