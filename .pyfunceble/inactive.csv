@@ -2,7 +2,6 @@ idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
 cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:27.063080
-alea.adam.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:30.172376
 banner.img.co.za,AVAILABILITY,origin.list,2023-02-17 06:19:30.287229
 ads.img.co.za,AVAILABILITY,origin.list,2023-02-17 06:19:30.624452
 adserver.justpremium.com,AVAILABILITY,origin.list,2023-02-17 06:19:32.261323
@@ -616,3 +615,4 @@ sspi-web-request.adpopcorn.com,AVAILABILITY,origin.list,2023-03-10 21:34:51.2194
 d.justpremium.com,AVAILABILITY,origin.list,2023-03-10 21:34:51.839024
 dmx.districtm.io,AVAILABILITY,origin.list,2023-03-10 21:34:52.492164
 cts.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:34:53.545425
+alea.adam.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:55:43.640312
