@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-clk.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:29.353069
 api.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:31.536635
 px.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:31.653192
 pushrev.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:22:32.655639
@@ -616,3 +615,4 @@ uswest.rtb.adservme.com,AVAILABILITY,origin.list,2023-03-11 05:32:54.304199
 ivan.indoleads.com,AVAILABILITY,origin.list,2023-03-11 05:32:54.448231
 affiliate.doubleyourdating.com,AVAILABILITY,origin.list,2023-03-11 05:33:01.920651
 push.content-ad.net,AVAILABILITY,origin.list,2023-03-11 05:53:55.694477
+clk.content-ad.net,AVAILABILITY,origin.list,2023-03-11 06:56:05.979441
