@@ -1,15 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 banner.relcom.ru,AVAILABILITY,origin.list,2023-02-17 05:17:10.139259
-cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:27.063080
-banner.img.co.za,AVAILABILITY,origin.list,2023-02-17 06:19:30.287229
-ads.img.co.za,AVAILABILITY,origin.list,2023-02-17 06:19:30.624452
-adserver.justpremium.com,AVAILABILITY,origin.list,2023-02-17 06:19:32.261323
-npi.adpopcorn.com,AVAILABILITY,origin.list,2023-02-17 06:19:32.549809
-www.content.ad,AVAILABILITY,origin.list,2023-02-17 06:19:32.710584
-keyword.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:33.025911
-native-creative.triplelift.com,AVAILABILITY,origin.list,2023-02-17 06:19:34.626233
-preview.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:35.066054
 stmp.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:35.404089
 tessera.ad.daum.net,AVAILABILITY,origin.list,2023-02-17 06:19:35.597340
 rpc.adpopcorn.com,AVAILABILITY,origin.list,2023-02-17 06:19:37.293318
@@ -616,3 +607,12 @@ d.justpremium.com,AVAILABILITY,origin.list,2023-03-10 21:34:51.839024
 dmx.districtm.io,AVAILABILITY,origin.list,2023-03-10 21:34:52.492164
 cts.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:34:53.545425
 alea.adam.ad.daum.net,AVAILABILITY,origin.list,2023-03-10 21:55:43.640312
+cts.keyword.ad.daum.net,AVAILABILITY,origin.list,2023-03-11 00:20:36.410635
+adserver.justpremium.com,AVAILABILITY,origin.list,2023-03-11 00:20:37.409956
+ads.img.co.za,AVAILABILITY,origin.list,2023-03-11 00:20:38.238487
+npi.adpopcorn.com,AVAILABILITY,origin.list,2023-03-11 00:20:38.548602
+banner.img.co.za,AVAILABILITY,origin.list,2023-03-11 00:20:38.753196
+native-creative.triplelift.com,AVAILABILITY,origin.list,2023-03-11 00:20:39.728902
+keyword.ad.daum.net,AVAILABILITY,origin.list,2023-03-11 00:20:40.607605
+www.content.ad,AVAILABILITY,origin.list,2023-03-11 00:20:40.764660
+preview.ad.daum.net,AVAILABILITY,origin.list,2023-03-11 00:20:41.841882
