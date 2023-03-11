@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 us-east-1.telemetry.insights.video.a2z.com,AVAILABILITY,origin.list,2023-02-17 04:56:24.765263
 rtb-apac.adservme.com,AVAILABILITY,origin.list,2023-02-17 07:01:29.031912
-rtb-uswest.adservme.com,AVAILABILITY,origin.list,2023-02-17 07:01:29.417378
 dsp.send.microadinc.com,AVAILABILITY,origin.list,2023-02-17 07:01:29.764966
 stats-cluster.mediaforge.com,AVAILABILITY,origin.list,2023-02-17 07:01:30.503570
 rtb-eu.adservme.com,AVAILABILITY,origin.list,2023-02-17 07:01:31.096172
@@ -616,3 +615,4 @@ sspc.adpopcorn.com,AVAILABILITY,origin.list,2023-03-11 01:44:18.832103
 partners.triplelift.com,AVAILABILITY,origin.list,2023-03-11 01:44:18.989706
 hadspmz.com,AVAILABILITY,origin.list,2023-03-11 01:44:19.440971
 rtb-g.adservme.com,AVAILABILITY,origin.list,2023-03-11 03:48:43.401515
+rtb-uswest.adservme.com,AVAILABILITY,origin.list,2023-03-11 04:30:22.948006
