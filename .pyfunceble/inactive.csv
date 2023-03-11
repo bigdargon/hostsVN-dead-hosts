@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-click.content-ad.net,AVAILABILITY,origin.list,2023-02-17 07:43:21.519385
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:28.826378
 detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:29.286088
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-02-17 07:43:32.846278
@@ -616,3 +615,4 @@ px.content-ad.net,AVAILABILITY,origin.list,2023-03-11 07:57:58.503295
 pushrev.content-ad.net,AVAILABILITY,origin.list,2023-03-11 08:39:20.744276
 api.content-ad.net,AVAILABILITY,origin.list,2023-03-11 09:00:04.953763
 banner.content-ad.net,AVAILABILITY,origin.list,2023-03-11 09:41:29.586670
+click.content-ad.net,AVAILABILITY,origin.list,2023-03-11 10:22:45.627925
