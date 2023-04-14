@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-log.toss.vn,AVAILABILITY,origin.list,2023-03-11 13:29:39.902204
 sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 14:11:10.480778
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 15:33:51.660517
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 15:33:52.785430
@@ -567,3 +566,4 @@ banner.content-ad.net,AVAILABILITY,origin.list,2023-04-14 10:13:08.119583
 click.content-ad.net,AVAILABILITY,origin.list,2023-04-14 10:13:09.544770
 detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-14 10:13:16.095196
 1004.hostedprebid.com,AVAILABILITY,origin.list,2023-04-14 10:13:20.548144
+log.toss.vn,AVAILABILITY,origin.list,2023-04-14 18:51:00.471161
