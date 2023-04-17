@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 15:33:52.785430
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 16:57:37.015157
-avpa.javalobby.org,AVAILABILITY,origin.list,2023-03-11 19:24:03.547950
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-03-11 20:28:39.485058
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-03-11 20:50:08.737112
 match.bnmla.com,AVAILABILITY,origin.list,2023-03-11 21:32:35.483935
@@ -567,3 +566,4 @@ sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-16 06:42:43.418792
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-16 08:25:51.060612
 www.admedia.network,AVAILABILITY,origin.list,2023-04-17 06:07:55.051825
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-17 16:50:04.867153
+avpa.javalobby.org,AVAILABILITY,origin.list,2023-04-17 17:52:40.512032
