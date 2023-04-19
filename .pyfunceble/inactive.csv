@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rex-east.bnmla.com,AVAILABILITY,origin.list,2023-03-11 20:50:08.737112
 match.bnmla.com,AVAILABILITY,origin.list,2023-03-11 21:32:35.483935
 soundwave.bnmla.com,AVAILABILITY,origin.list,2023-03-11 22:14:58.513868
 cdnin.bnmla.com,AVAILABILITY,origin.list,2023-03-12 02:03:33.031424
@@ -567,3 +566,4 @@ avpa.javalobby.org,AVAILABILITY,origin.list,2023-04-17 17:52:40.512032
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-17 18:14:13.856002
 s.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-19 09:03:49.637442
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-04-19 19:47:25.451340
+rex-east.bnmla.com,AVAILABILITY,origin.list,2023-04-19 21:11:05.813254
