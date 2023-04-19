@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s.effectivemeasure.net,AVAILABILITY,origin.list,2023-03-11 16:57:37.015157
 rex-west.bnmla.com,AVAILABILITY,origin.list,2023-03-11 20:28:39.485058
 rex-east.bnmla.com,AVAILABILITY,origin.list,2023-03-11 20:50:08.737112
 match.bnmla.com,AVAILABILITY,origin.list,2023-03-11 21:32:35.483935
@@ -567,3 +566,4 @@ www.admedia.network,AVAILABILITY,origin.list,2023-04-17 06:07:55.051825
 t.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-17 16:50:04.867153
 avpa.javalobby.org,AVAILABILITY,origin.list,2023-04-17 17:52:40.512032
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-17 18:14:13.856002
+s.effectivemeasure.net,AVAILABILITY,origin.list,2023-04-19 09:03:49.637442
