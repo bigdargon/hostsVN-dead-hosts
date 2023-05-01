@@ -1,6 +1,5 @@
 idna_subject,checker_type,destination,tested_at
 sj11.bnmla.com,AVAILABILITY,origin.list,2023-03-12 06:15:59.572701
-vsb.bnmla.com,AVAILABILITY,origin.list,2023-03-12 06:37:42.921003
 mt.bnmla.com,AVAILABILITY,origin.list,2023-03-12 09:44:41.237891
 reporting.bnmla.com,AVAILABILITY,origin.list,2023-03-12 13:55:40.013048
 cdn0.bnmla.com,AVAILABILITY,origin.list,2023-03-12 14:38:21.526080
@@ -571,3 +570,4 @@ ads.oppomobile.com,AVAILABILITY,origin.list,2023-04-27 16:30:50.125223
 ads.realmemobile.com,AVAILABILITY,origin.list,2023-04-27 16:30:53.353899
 cdn1.bnmla.com,AVAILABILITY,origin.list,2023-04-29 11:10:18.876922
 cdnfi.bnmla.com,AVAILABILITY,origin.list,2023-04-30 05:28:37.673292
+vsb.bnmla.com,AVAILABILITY,origin.list,2023-05-01 01:09:11.272992
