@@ -3,7 +3,6 @@ reporting.bnmla.com,AVAILABILITY,origin.list,2023-03-12 13:55:40.013048
 cdn0.bnmla.com,AVAILABILITY,origin.list,2023-03-12 14:38:21.526080
 video.bnmla.com,AVAILABILITY,origin.list,2023-03-12 16:03:12.429094
 foreman.bnmla.com,AVAILABILITY,origin.list,2023-03-12 17:06:23.133701
-hound.bnmla.com,AVAILABILITY,origin.list,2023-03-12 17:28:13.353798
 dc21.bnmla.com,AVAILABILITY,origin.list,2023-03-12 19:12:36.354655
 reporting2.bnmla.com,AVAILABILITY,origin.list,2023-03-12 20:56:57.628333
 naing.bnmla.com,AVAILABILITY,origin.list,2023-03-12 22:20:43.052359
@@ -572,3 +571,4 @@ sj11.bnmla.com,AVAILABILITY,origin.list,2023-05-02 06:12:12.754157
 beacon.errorcept,AVAILABILITY,origin.list,2023-05-03 16:19:54.414441
 mt.bnmla.com,AVAILABILITY,origin.list,2023-05-03 16:21:13.870936
 edge.bnmla.com,AVAILABILITY,origin.list,2023-05-03 16:42:23.718569
+hound.bnmla.com,AVAILABILITY,origin.list,2023-05-03 17:03:35.708460
