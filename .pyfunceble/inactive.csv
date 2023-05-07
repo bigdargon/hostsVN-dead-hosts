@@ -1,7 +1,6 @@
 idna_subject,checker_type,destination,tested_at
 reporting2.bnmla.com,AVAILABILITY,origin.list,2023-03-12 20:56:57.628333
 naing.bnmla.com,AVAILABILITY,origin.list,2023-03-12 22:20:43.052359
-ad.bnmla.com,AVAILABILITY,origin.list,2023-03-13 01:07:29.514732
 px.quantserve.com,AVAILABILITY,origin.list,2023-03-15 06:05:52.474422
 pba.lijit.com,AVAILABILITY,origin.list,2023-03-15 06:13:16.967976
 pt.lijit.com,AVAILABILITY,origin.list,2023-03-15 06:13:36.232296
@@ -572,3 +571,4 @@ reporting.bnmla.com,AVAILABILITY,origin.list,2023-05-03 17:46:33.947183
 cdn0.bnmla.com,AVAILABILITY,origin.list,2023-05-04 15:51:10.679228
 video.bnmla.com,AVAILABILITY,origin.list,2023-05-06 05:25:45.767911
 dc21.bnmla.com,AVAILABILITY,origin.list,2023-05-06 16:49:45.670931
+ad.bnmla.com,AVAILABILITY,origin.list,2023-05-07 11:28:38.128224
