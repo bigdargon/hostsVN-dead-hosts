@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 17 Jun 2023 21:26 UTC+7
-# Version: 2306172126
-# Blocked: 18,575 domains
+# Last modified: 26 Jun 2023 10:29 UTC+7
+# Version: 2306261029
+# Blocked: 18,611 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2347,6 +2347,7 @@
 #[uc.cn]
 0.0.0.0 ads.uc.cn
 0.0.0.0 adslot.uc.cn
+0.0.0.0 applog-perf.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogios.uc.cn
 0.0.0.0 gjapplog.uc.cn
@@ -10069,6 +10070,7 @@
 #[useinsider.com]
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
+0.0.0.0 wp-log.api.useinsider.com
 #[b-cdn.net]
 0.0.0.0 0a0d-d3l1vr.b-cdn.net
 0.0.0.0 ad-serve.b-cdn.net
@@ -11166,6 +11168,8 @@
 0.0.0.0 ads.livetv658.me
 0.0.0.0 ads.livetv662.me
 0.0.0.0 ads.livetv664.me
+0.0.0.0 ads.livetv670.me
+0.0.0.0 ads.livetv671.me
 #[company-target.com]
 0.0.0.0 company-target.com
 0.0.0.0 api-staging.company-target.com
@@ -11240,6 +11244,12 @@
 #[trafficbass.com]
 0.0.0.0 trafficbass.com
 0.0.0.0 cdn.trafficbass.com
+#[pixfuture.com]
+0.0.0.0 pixfuture.com
+0.0.0.0 served-by.pixfuture.com
+#[wisepops.com]
+0.0.0.0 loader.wisepops.com
+0.0.0.0 wisepops.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -12638,14 +12648,18 @@
 #[imacdn.com]
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
-#[epicdn.me]
+#[quangcao-*.epicdn.me]
 0.0.0.0 quangcao-thanhnien.epicdn.me
 #[log-*.epicdn.me]
 0.0.0.0 log-baodauthau.epicdn.me
 0.0.0.0 log-baogialai.epicdn.me
+0.0.0.0 log-dttc-sggp.epicdn.me
+0.0.0.0 log-en-nhandan.epicdn.me
+0.0.0.0 log-en-sggp.epicdn.me
 0.0.0.0 log-giaoduc.epicdn.me
 0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 log-kienthucnet.epicdn.me
+0.0.0.0 log-mekongasean.epicdn.me
 0.0.0.0 log-nhandan.epicdn.me
 0.0.0.0 log-thanhnien.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
@@ -12703,6 +12717,9 @@
 0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 promotion.haravan.com
 0.0.0.0 onapp.haravan.com
+#[ultraviewer.net]
+0.0.0.0 ads.ultraviewer.net
+0.0.0.0 qc.ultraviewer.net
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -12891,6 +12908,7 @@
 0.0.0.0 quangcao.baovannghe.com.vn
 0.0.0.0 quangcao.fff.com.vn
 0.0.0.0 quangcao247.com.vn
+0.0.0.0 quangcaodantri.vn
 0.0.0.0 r.tinmoi24.vn
 0.0.0.0 realclick.vn
 0.0.0.0 s.cntqk.com
@@ -13038,6 +13056,9 @@
 0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 lmsreport.systems.vn
 0.0.0.0 log-collector.shopee.vn
+0.0.0.0 log-dttc.sggp.org.vn
+0.0.0.0 log-en.nhandan.vn
+0.0.0.0 log-en.sggp.org.vn
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baobackan.com.vn
 0.0.0.0 log.baocaobang.vn
@@ -13063,6 +13084,7 @@
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.kinhdoanhhoinhap.vn
 0.0.0.0 log.kinhtedouong.vn
+0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
@@ -13126,6 +13148,7 @@
 0.0.0.0 s.homedy.com
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
+0.0.0.0 s6.textlink.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
@@ -14171,6 +14194,7 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
+0.0.0.0 ahjanhabmo.com
 0.0.0.0 ahlcujguphr.com
 0.0.0.0 ahqpqpdjpj.com
 0.0.0.0 ahreprh2kfk8rfjr09.com
@@ -14215,6 +14239,7 @@
 0.0.0.0 all4spy.com
 0.0.0.0 alladvantage.com
 0.0.0.0 alleleoctagon.life
+0.0.0.0 allgrjyqkemos.com
 0.0.0.0 allmyverygreatlife.com
 0.0.0.0 allosponsor.com
 0.0.0.0 allstarmediagroup.com
@@ -16137,6 +16162,7 @@
 0.0.0.0 hqtfjugceattb.com
 0.0.0.0 hrgyhgxcbvwxs.com
 0.0.0.0 hrogpodulnhu.com
+0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 htyqiwzunj.com
 0.0.0.0 htyzpilijhki.com
@@ -16562,6 +16588,7 @@
 0.0.0.0 lfeorrzkua.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lgkdnlienpynmn.com
+0.0.0.0 lhgwyrecj.com
 0.0.0.0 liaisondegreedaughters.com
 0.0.0.0 lib.vmweb.net
 0.0.0.0 libedgolart.com
@@ -16612,6 +16639,7 @@
 0.0.0.0 livquxokndfe.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 llink.site
+0.0.0.0 lmujzuosdojm.com
 0.0.0.0 lo8ve6ygour3pea4cee.com
 0.0.0.0 loading321.com
 0.0.0.0 loadsfalladz.casa
@@ -16722,6 +16750,7 @@
 0.0.0.0 mat.luckyspin666.com
 0.0.0.0 matchcraft.com
 0.0.0.0 matecatenae.com
+0.0.0.0 materialplayground.com
 0.0.0.0 mathcountryside.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 matomy.com
@@ -16791,6 +16820,7 @@
 0.0.0.0 meo257na3rch.com
 0.0.0.0 meowpushnot.com
 0.0.0.0 merzostueru2hu8jr09.com
+0.0.0.0 mesallysavor.tech
 0.0.0.0 mesangefanwise.tech
 0.0.0.0 meshpetrols.com
 0.0.0.0 messagenovice.com
@@ -17086,6 +17116,7 @@
 0.0.0.0 nondescriptnote.com
 0.0.0.0 nondescriptsmile.com
 0.0.0.0 nondescriptstocking.com
+0.0.0.0 nonstoppartner.net
 0.0.0.0 nonusesectatic.com
 0.0.0.0 nootapsouth.com
 0.0.0.0 notifysrv.com
@@ -17259,12 +17290,14 @@
 0.0.0.0 optmstr.com
 0.0.0.0 oqfoczdfyag.com
 0.0.0.0 oqfpuzaltac.com
+0.0.0.0 oqnfsivlp.com
 0.0.0.0 oqnghaofps.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orbsclawand.com
 0.0.0.0 orest-vlv.com
 0.0.0.0 organizationwoundedvast.com
+0.0.0.0 origanfumier.digital
 0.0.0.0 orige-duo.com
 0.0.0.0 orion-gen.com
 0.0.0.0 oriori.com
@@ -17619,6 +17652,7 @@
 0.0.0.0 provexia.com
 0.0.0.0 providentsopport.site
 0.0.0.0 providingcrechepartnership.com
+0.0.0.0 proximic.com
 0.0.0.0 prsitecheck.com
 0.0.0.0 ps7894.com
 0.0.0.0 psaltauw.net
@@ -18536,6 +18570,7 @@
 0.0.0.0 tibacta.com
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tiijdxto.com
 0.0.0.0 tinybar.com
 0.0.0.0 tipcatscarola.com
 0.0.0.0 tirosagalite.com
@@ -18936,6 +18971,7 @@
 0.0.0.0 waxpigbaa.com
 0.0.0.0 waymarkgentiin.com
 0.0.0.0 wbilvnmool.com
+0.0.0.0 wcadlxvbjus.com
 0.0.0.0 wcofweagvafx.com
 0.0.0.0 wcuamsmakq.com
 0.0.0.0 wda.com
@@ -19024,7 +19060,6 @@
 0.0.0.0 winneradsmedia.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wiseguypedicab.digital
-0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 withersserdabs.guru
 0.0.0.0 withinknuko.club
@@ -19561,6 +19596,7 @@
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
+0.0.0.0 d2uhnetoehh304.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2yyd1h5u9mauk.cloudfront.net
 0.0.0.0 d38fey2d93vryi.cloudfront.net
@@ -19721,6 +19757,7 @@
 0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cloudflarebolt.com
+0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mktoresp.com
@@ -19803,6 +19840,7 @@
 0.0.0.0 relay.fiverr.com
 0.0.0.0 remyyadan.online.fr
 0.0.0.0 report.uc.heytapmobi.com
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 rfpx1.com
 0.0.0.0 richmetrics.com
@@ -19971,6 +20009,7 @@
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 trackingflaregames.net
+0.0.0.0 traxex.gannettdigital.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 trk.clinch.co
 0.0.0.0 truehits.in.th
