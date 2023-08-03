@@ -48,3 +48,6 @@ sync.search.spotxchange.com                                                     
 pbx-ams1.corp.appnexus.com                                                                           INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 kraken.production.us-east-1.kops.kargo.com                                                           INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 www.mellowads.com                                                                                    INACTIVE    SPECIAL    Unknown           Unknown                        301        AVAILABILITY 
+config.hiido.com                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+sense.tapdb.com                                                                                      INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+www.web1s.com                                                                                        INACTIVE    SPECIAL    Unknown           Unknown                        301        AVAILABILITY 
