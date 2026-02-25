@@ -1,16 +1,26 @@
 {
     "counter": {
+        "Above.com Pty Ltd": 6,
+        "CommuniGal Communication Ltd.": 2,
+        "Dynadot LLC": 2,
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
+        "Namecheap": 8,
+        "REG-WEDOS": 2,
         "Spaceship, Inc.": 2,
-        "URL Solutions Inc.": 14,
-        "total": 22
+        "URL Solutions Inc.": 18,
+        "total": 46
     },
     "percentage": {
-        "Gransy s.r.o.": 18.181818181818183,
-        "MARCARIA INTERNATIONAL LLC": 9.090909090909092,
-        "Spaceship, Inc.": 9.090909090909092,
-        "URL Solutions Inc.": 63.63636363636363,
+        "Above.com Pty Ltd": 13.043478260869565,
+        "CommuniGal Communication Ltd.": 4.3478260869565215,
+        "Dynadot LLC": 4.3478260869565215,
+        "Gransy s.r.o.": 8.695652173913043,
+        "MARCARIA INTERNATIONAL LLC": 4.3478260869565215,
+        "Namecheap": 17.391304347826086,
+        "REG-WEDOS": 4.3478260869565215,
+        "Spaceship, Inc.": 4.3478260869565215,
+        "URL Solutions Inc.": 39.130434782608695,
         "total": 100.0
     }
 }
