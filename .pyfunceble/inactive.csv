@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-collector.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:22.574712+00:00
-detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:23.410983+00:00
-my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:28.625902+00:00
-effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:29.499934+00:00
-sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:34.588608+00:00
-s.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:35.477863+00:00
-t.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:40.628174+00:00
-static.cbsileads.com,AVAILABILITY,origin.list,2026-02-27 09:29:41.531046+00:00
-n.popclck.org,AVAILABILITY,origin.list,2026-02-27 09:29:47.038225+00:00
-st-n.popclck.org,AVAILABILITY,origin.list,2026-02-27 09:29:48.043991+00:00
-k8s2.testcentre.vn,AVAILABILITY,origin.list,2026-02-27 09:29:54.116849+00:00
-app2.jeoway.net,AVAILABILITY,origin.list,2026-02-27 09:29:57.214598+00:00
-estat.com,AVAILABILITY,origin.list,2026-02-27 09:30:11.526993+00:00
-littlecutecats.com,AVAILABILITY,origin.list,2026-02-27 09:30:14.681039+00:00
 a.medialytics.com,AVAILABILITY,origin.list,2026-02-27 17:24:09.212615+00:00
 c.medialytics.com,AVAILABILITY,origin.list,2026-02-27 17:24:09.304986+00:00
 cdn.creative.medialytics.com,AVAILABILITY,origin.list,2026-02-27 17:24:15.330195+00:00
@@ -454,3 +440,18 @@ logger.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:45.175171+00:00
 static.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:45.216704+00:00
 beacon.statful.com,AVAILABILITY,origin.list,2026-02-28 09:03:51.502556+00:00
 v.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:51.737289+00:00
+nationalgausewatrust.com,AVAILABILITY,origin.list,2026-02-28 16:58:30.328476+00:00
+collector.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:47.424111+00:00
+detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:47.579336+00:00
+my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:47.988197+00:00
+effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:48.095506+00:00
+sg-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:48.599183+00:00
+s.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:48.654657+00:00
+t.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-28 16:58:49.132639+00:00
+static.cbsileads.com,AVAILABILITY,origin.list,2026-02-28 16:58:49.273180+00:00
+n.popclck.org,AVAILABILITY,origin.list,2026-02-28 16:58:49.743184+00:00
+st-n.popclck.org,AVAILABILITY,origin.list,2026-02-28 16:58:49.748175+00:00
+k8s2.testcentre.vn,AVAILABILITY,origin.list,2026-02-28 16:58:50.736545+00:00
+app2.jeoway.net,AVAILABILITY,origin.list,2026-02-28 16:58:52.497496+00:00
+estat.com,AVAILABILITY,origin.list,2026-02-28 16:58:59.385057+00:00
+littlecutecats.com,AVAILABILITY,origin.list,2026-02-28 16:59:04.373476+00:00
