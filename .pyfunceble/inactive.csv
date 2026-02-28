@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.adthor.com,AVAILABILITY,origin.list,2026-02-27 05:41:29.915061+00:00
-image.adthor.com,AVAILABILITY,origin.list,2026-02-27 05:41:30.298650+00:00
-logger.adthor.com,AVAILABILITY,origin.list,2026-02-27 05:41:35.868411+00:00
-static.adthor.com,AVAILABILITY,origin.list,2026-02-27 05:41:36.231545+00:00
-v.adthor.com,AVAILABILITY,origin.list,2026-02-27 05:41:41.733990+00:00
-beacon.statful.com,AVAILABILITY,origin.list,2026-02-27 05:41:48.305099+00:00
 collector.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:22.574712+00:00
 detect-survey.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:23.410983+00:00
 my-ssl.effectivemeasure.net,AVAILABILITY,origin.list,2026-02-27 09:29:28.625902+00:00
@@ -454,3 +448,9 @@ whm.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:37.679539+00:00
 int.vlancaa.fun,AVAILABILITY,origin.list,2026-02-28 05:22:31.778661+00:00
 ptawehex.net,AVAILABILITY,origin.list,2026-02-28 05:24:01.362994+00:00
 zd.midbodyritz.shop,AVAILABILITY,origin.list,2026-02-28 05:24:44.491723+00:00
+api.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:38.460734+00:00
+image.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:38.575049+00:00
+logger.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:45.175171+00:00
+static.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:45.216704+00:00
+beacon.statful.com,AVAILABILITY,origin.list,2026-02-28 09:03:51.502556+00:00
+v.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:51.737289+00:00
