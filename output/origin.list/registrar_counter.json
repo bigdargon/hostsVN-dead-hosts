@@ -4,21 +4,21 @@
         "CommuniGal Communication Ltd.": 2,
         "Dynadot LLC": 2,
         "Gransy s.r.o.": 6,
-        "Namecheap": 6,
+        "Namecheap": 8,
         "REG-WEDOS": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 18,
-        "total": 44
+        "total": 46
     },
     "percentage": {
-        "Above.com Pty Ltd": 13.636363636363637,
-        "CommuniGal Communication Ltd.": 4.545454545454546,
-        "Dynadot LLC": 4.545454545454546,
-        "Gransy s.r.o.": 13.636363636363637,
-        "Namecheap": 13.636363636363637,
-        "REG-WEDOS": 4.545454545454546,
-        "Spaceship, Inc.": 4.545454545454546,
-        "URL Solutions Inc.": 40.90909090909091,
+        "Above.com Pty Ltd": 13.043478260869565,
+        "CommuniGal Communication Ltd.": 4.3478260869565215,
+        "Dynadot LLC": 4.3478260869565215,
+        "Gransy s.r.o.": 13.043478260869565,
+        "Namecheap": 17.391304347826086,
+        "REG-WEDOS": 4.3478260869565215,
+        "Spaceship, Inc.": 4.3478260869565215,
+        "URL Solutions Inc.": 39.130434782608695,
         "total": 100.0
     }
 }
