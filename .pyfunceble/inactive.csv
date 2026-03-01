@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sdk.a4.tl,AVAILABILITY,origin.list,2026-02-28 05:20:47.332033+00:00
-articles.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:22.413378+00:00
-cpanel.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:24.360116+00:00
-lb.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:29.153306+00:00
-server.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:31.087522+00:00
-share.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:35.723041+00:00
-whm.asianmedia.com,AVAILABILITY,origin.list,2026-02-28 05:21:37.679539+00:00
-int.vlancaa.fun,AVAILABILITY,origin.list,2026-02-28 05:22:31.778661+00:00
-ptawehex.net,AVAILABILITY,origin.list,2026-02-28 05:24:01.362994+00:00
-zd.midbodyritz.shop,AVAILABILITY,origin.list,2026-02-28 05:24:44.491723+00:00
 api.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:38.460734+00:00
 image.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:38.575049+00:00
 logger.adthor.com,AVAILABILITY,origin.list,2026-02-28 09:03:45.175171+00:00
@@ -453,3 +443,20 @@ nasadfgzaq.com,AVAILABILITY,origin.list,2026-02-28 21:11:21.479511+00:00
 xm.geslingclime.shop,AVAILABILITY,origin.list,2026-02-28 21:11:30.466739+00:00
 zikroarg.com,AVAILABILITY,origin.list,2026-02-28 21:11:32.501261+00:00
 www.servsave.com,AVAILABILITY,origin.list,2026-02-28 21:12:49.227669+00:00
+a.adtechjp.com,AVAILABILITY,origin.list,2026-03-01 05:41:10.080750+00:00
+adserver.adtechjp.com,AVAILABILITY,origin.list,2026-03-01 05:41:10.151768+00:00
+adserver-toy.adtechjp.com,AVAILABILITY,origin.list,2026-03-01 05:41:16.615553+00:00
+prod.adtechjp.com,AVAILABILITY,origin.list,2026-03-01 05:41:24.509456+00:00
+int.akisinn.me,AVAILABILITY,origin.list,2026-03-01 05:42:44.482412+00:00
+mixedreading.com,AVAILABILITY,origin.list,2026-03-01 05:43:59.062128+00:00
+pyxiscablese.com,AVAILABILITY,origin.list,2026-03-01 05:44:18.430725+00:00
+sdk.a4.tl,AVAILABILITY,origin.list,2026-03-01 05:44:55.970940+00:00
+articles.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:44:57.080389+00:00
+cpanel.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:45:02.756473+00:00
+lb.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:45:03.989478+00:00
+server.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:45:09.741074+00:00
+share.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:45:10.648397+00:00
+whm.asianmedia.com,AVAILABILITY,origin.list,2026-03-01 05:45:16.477415+00:00
+int.vlancaa.fun,AVAILABILITY,origin.list,2026-03-01 05:45:16.498216+00:00
+ptawehex.net,AVAILABILITY,origin.list,2026-03-01 05:45:22.425085+00:00
+zd.midbodyritz.shop,AVAILABILITY,origin.list,2026-03-01 05:45:31.552567+00:00
