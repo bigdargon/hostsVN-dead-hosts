@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-servsave.com,AVAILABILITY,origin.list,2026-03-11 21:13:23.173796+00:00
-www.servsave.com,AVAILABILITY,origin.list,2026-03-11 21:13:48.740371+00:00
 cdn-api.appadhoc.com,AVAILABILITY,origin.list,2026-03-12 05:40:54.878857+00:00
 h5.appadhoc.com,AVAILABILITY,origin.list,2026-03-12 05:40:57.036543+00:00
 count.appadhoc.com,AVAILABILITY,origin.list,2026-03-12 05:40:57.383272+00:00
@@ -603,3 +601,5 @@ zd.midbodyritz.shop,AVAILABILITY,origin.list,2026-03-12 21:36:39.555919+00:00
 geoqvcybdtn.com,AVAILABILITY,origin.list,2026-03-12 21:36:45.039702+00:00
 soumehoo.net,AVAILABILITY,origin.list,2026-03-12 21:36:52.234159+00:00
 xnocffar.com,AVAILABILITY,origin.list,2026-03-12 21:36:56.022527+00:00
+servsave.com,AVAILABILITY,origin.list,2026-03-12 21:40:12.267712+00:00
+www.servsave.com,AVAILABILITY,origin.list,2026-03-12 21:40:34.287075+00:00
