@@ -2,19 +2,17 @@
     "counter": {
         "Above.com Pty Ltd": 6,
         "Gransy s.r.o.": 4,
-        "NameCheap, Inc.": 2,
         "Namecheap": 10,
         "REG-WEDOS": 2,
         "URL Solutions Inc.": 22,
-        "total": 46
+        "total": 44
     },
     "percentage": {
-        "Above.com Pty Ltd": 13.043478260869565,
-        "Gransy s.r.o.": 8.695652173913043,
-        "NameCheap, Inc.": 4.3478260869565215,
-        "Namecheap": 21.73913043478261,
-        "REG-WEDOS": 4.3478260869565215,
-        "URL Solutions Inc.": 47.82608695652174,
+        "Above.com Pty Ltd": 13.636363636363637,
+        "Gransy s.r.o.": 9.090909090909092,
+        "Namecheap": 22.727272727272727,
+        "REG-WEDOS": 4.545454545454546,
+        "URL Solutions Inc.": 50.0,
         "total": 100.0
     }
 }
