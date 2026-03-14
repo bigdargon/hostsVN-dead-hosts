@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-connect.idocdn.com,AVAILABILITY,origin.list,2026-03-13 05:38:28.329066+00:00
-tracker.idocdn.com,AVAILABILITY,origin.list,2026-03-13 05:38:29.198400+00:00
-log.baodatviet.vn,AVAILABILITY,origin.list,2026-03-13 05:38:45.366116+00:00
-ads.baodatviet.vn,AVAILABILITY,origin.list,2026-03-13 05:38:45.768015+00:00
-pixel.mediaiqdigital.com,AVAILABILITY,origin.list,2026-03-13 05:39:04.242006+00:00
-trac.mediaiqdigital.com,AVAILABILITY,origin.list,2026-03-13 05:39:11.703109+00:00
 cdn-api.appadhoc.com,AVAILABILITY,origin.list,2026-03-13 09:25:43.774411+00:00
 h5.appadhoc.com,AVAILABILITY,origin.list,2026-03-13 09:25:43.983614+00:00
 count.appadhoc.com,AVAILABILITY,origin.list,2026-03-13 09:25:46.293099+00:00
@@ -623,3 +617,9 @@ meandiminutionhit.com,AVAILABILITY,origin.list,2026-03-14 05:36:49.883399+00:00
 novemberseatsuccession.com,AVAILABILITY,origin.list,2026-03-14 05:36:51.715424+00:00
 waymarkgentiin.com,AVAILABILITY,origin.list,2026-03-14 05:37:02.630650+00:00
 wgtyvqbfkxg.com,AVAILABILITY,origin.list,2026-03-14 05:37:08.689083+00:00
+connect.idocdn.com,AVAILABILITY,origin.list,2026-03-14 09:07:05.236159+00:00
+tracker.idocdn.com,AVAILABILITY,origin.list,2026-03-14 09:07:05.834686+00:00
+log.baodatviet.vn,AVAILABILITY,origin.list,2026-03-14 09:07:08.259508+00:00
+ads.baodatviet.vn,AVAILABILITY,origin.list,2026-03-14 09:07:08.562997+00:00
+pixel.mediaiqdigital.com,AVAILABILITY,origin.list,2026-03-14 09:07:09.335873+00:00
+trac.mediaiqdigital.com,AVAILABILITY,origin.list,2026-03-14 09:07:09.763317+00:00
