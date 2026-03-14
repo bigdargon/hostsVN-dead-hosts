@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-xnocffar.com,AVAILABILITY,origin.list,2026-03-12 21:36:56.022527+00:00
-servsave.com,AVAILABILITY,origin.list,2026-03-12 21:40:12.267712+00:00
-www.servsave.com,AVAILABILITY,origin.list,2026-03-12 21:40:34.287075+00:00
 connect.idocdn.com,AVAILABILITY,origin.list,2026-03-13 05:38:28.329066+00:00
 tracker.idocdn.com,AVAILABILITY,origin.list,2026-03-13 05:38:29.198400+00:00
 log.baodatviet.vn,AVAILABILITY,origin.list,2026-03-13 05:38:45.366116+00:00
@@ -609,3 +606,6 @@ prod.adtechjp.com,AVAILABILITY,origin.list,2026-03-14 03:35:15.160501+00:00
 zd.midbodyritz.shop,AVAILABILITY,origin.list,2026-03-14 03:35:24.054791+00:00
 geoqvcybdtn.com,AVAILABILITY,origin.list,2026-03-14 03:35:26.085452+00:00
 soumehoo.net,AVAILABILITY,origin.list,2026-03-14 03:35:35.094864+00:00
+xnocffar.com,AVAILABILITY,origin.list,2026-03-14 03:37:05.741815+00:00
+servsave.com,AVAILABILITY,origin.list,2026-03-14 03:37:57.626625+00:00
+www.servsave.com,AVAILABILITY,origin.list,2026-03-14 03:38:24.891977+00:00
