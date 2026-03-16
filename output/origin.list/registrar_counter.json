@@ -1,22 +1,24 @@
 {
     "counter": {
         "Above.com Pty Ltd": 6,
+        "Dynadot Inc": 2,
         "Gransy s.r.o.": 4,
-        "MARCARIA INTERNATIONAL LLC": 2,
         "MarkMonitor": 2,
         "Namecheap": 10,
         "REG-WEDOS": 2,
+        "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 22,
-        "total": 48
+        "total": 50
     },
     "percentage": {
-        "Above.com Pty Ltd": 12.5,
-        "Gransy s.r.o.": 8.333333333333334,
-        "MARCARIA INTERNATIONAL LLC": 4.166666666666667,
-        "MarkMonitor": 4.166666666666667,
-        "Namecheap": 20.833333333333332,
-        "REG-WEDOS": 4.166666666666667,
-        "URL Solutions Inc.": 45.833333333333336,
+        "Above.com Pty Ltd": 12.0,
+        "Dynadot Inc": 4.0,
+        "Gransy s.r.o.": 8.0,
+        "MarkMonitor": 4.0,
+        "Namecheap": 20.0,
+        "REG-WEDOS": 4.0,
+        "Spaceship, Inc.": 4.0,
+        "URL Solutions Inc.": 44.0,
         "total": 100.0
     }
 }
