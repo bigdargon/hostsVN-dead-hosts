@@ -1,18 +1,16 @@
 {
     "counter": {
-        "Above.com Pty Ltd": 6,
         "Gransy s.r.o.": 4,
         "Namecheap": 10,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 22,
-        "total": 44
+        "total": 38
     },
     "percentage": {
-        "Above.com Pty Ltd": 13.636363636363637,
-        "Gransy s.r.o.": 9.090909090909092,
-        "Namecheap": 22.727272727272727,
-        "Spaceship, Inc.": 4.545454545454546,
-        "URL Solutions Inc.": 50.0,
+        "Gransy s.r.o.": 10.526315789473685,
+        "Namecheap": 26.31578947368421,
+        "Spaceship, Inc.": 5.2631578947368425,
+        "URL Solutions Inc.": 57.89473684210526,
         "total": 100.0
     }
 }
