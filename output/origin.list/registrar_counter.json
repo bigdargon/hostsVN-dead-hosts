@@ -4,13 +4,15 @@
         "Namecheap": 10,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 22,
-        "total": 38
+        "URL Solutions, Inc.": 2,
+        "total": 40
     },
     "percentage": {
-        "Gransy s.r.o.": 10.526315789473685,
-        "Namecheap": 26.31578947368421,
-        "Spaceship, Inc.": 5.2631578947368425,
-        "URL Solutions Inc.": 57.89473684210526,
+        "Gransy s.r.o.": 10.0,
+        "Namecheap": 25.0,
+        "Spaceship, Inc.": 5.0,
+        "URL Solutions Inc.": 55.0,
+        "URL Solutions, Inc.": 5.0,
         "total": 100.0
     }
 }
