@@ -3,22 +3,20 @@
         "Above.com Pty Ltd.": 4,
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
-        "NameCheap, Inc.": 2,
         "Namecheap": 8,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 22,
         "URL Solutions, Inc.": 2,
-        "total": 46
+        "total": 44
     },
     "percentage": {
-        "Above.com Pty Ltd.": 8.695652173913043,
-        "Gransy s.r.o.": 8.695652173913043,
-        "MARCARIA INTERNATIONAL LLC": 4.3478260869565215,
-        "NameCheap, Inc.": 4.3478260869565215,
-        "Namecheap": 17.391304347826086,
-        "Spaceship, Inc.": 4.3478260869565215,
-        "URL Solutions Inc.": 47.82608695652174,
-        "URL Solutions, Inc.": 4.3478260869565215,
+        "Above.com Pty Ltd.": 9.090909090909092,
+        "Gransy s.r.o.": 9.090909090909092,
+        "MARCARIA INTERNATIONAL LLC": 4.545454545454546,
+        "Namecheap": 18.181818181818183,
+        "Spaceship, Inc.": 4.545454545454546,
+        "URL Solutions Inc.": 50.0,
+        "URL Solutions, Inc.": 4.545454545454546,
         "total": 100.0
     }
 }
