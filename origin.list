@@ -1,8 +1,4 @@
 blueserving.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -24,13 +20,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -102,8 +91,11 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 exelatesync.extend.tv
+sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -115,7 +107,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
@@ -140,7 +131,6 @@ www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
-xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -165,10 +155,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -239,6 +225,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -299,7 +287,6 @@ alwingulla.com
 amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
-ashoupsu.com
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -319,6 +306,7 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
+cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -506,6 +494,7 @@ stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 sumbreta.com
+surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
@@ -582,8 +571,5 @@ ztumuvofzbfe.com
 zucoagorsout.com
 zumdivdwug.com
 zunsoach.com
-comscoreresearch.com
 ping.kitidi.com
 sync2ad.com
-track.hydro.online
-umeng.co
