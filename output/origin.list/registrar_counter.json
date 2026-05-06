@@ -3,24 +3,26 @@
         "GoDaddy.com, LLC": 2,
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
+        "MarkMonitor": 2,
         "NETIM": 2,
         "NameCheap, Inc.": 2,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 18,
         "URL Solutions, Inc.": 2,
-        "total": 36
+        "total": 38
     },
     "percentage": {
-        "GoDaddy.com, LLC": 5.555555555555555,
-        "Gransy s.r.o.": 11.11111111111111,
-        "MARCARIA INTERNATIONAL LLC": 5.555555555555555,
-        "NETIM": 5.555555555555555,
-        "NameCheap, Inc.": 5.555555555555555,
-        "Namecheap": 5.555555555555555,
-        "Spaceship, Inc.": 5.555555555555555,
-        "URL Solutions Inc.": 50.0,
-        "URL Solutions, Inc.": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.2631578947368425,
+        "Gransy s.r.o.": 10.526315789473685,
+        "MARCARIA INTERNATIONAL LLC": 5.2631578947368425,
+        "MarkMonitor": 5.2631578947368425,
+        "NETIM": 5.2631578947368425,
+        "NameCheap, Inc.": 5.2631578947368425,
+        "Namecheap": 5.2631578947368425,
+        "Spaceship, Inc.": 5.2631578947368425,
+        "URL Solutions Inc.": 47.36842105263158,
+        "URL Solutions, Inc.": 5.2631578947368425,
         "total": 100.0
     }
 }
