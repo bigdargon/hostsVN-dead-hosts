@@ -1,6 +1,5 @@
 {
     "counter": {
-        "Gandi SAS": 2,
         "GoDaddy.com, LLC": 2,
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
@@ -10,19 +9,18 @@
         "Namecheap": 4,
         "URL Solutions Inc.": 14,
         "URL Solutions, Inc.": 2,
-        "total": 36
+        "total": 34
     },
     "percentage": {
-        "Gandi SAS": 5.555555555555555,
-        "GoDaddy.com, LLC": 5.555555555555555,
-        "Gransy s.r.o.": 11.11111111111111,
-        "MARCARIA INTERNATIONAL LLC": 5.555555555555555,
-        "MarkMonitor": 5.555555555555555,
-        "NETIM": 5.555555555555555,
-        "NameCheap, Inc.": 5.555555555555555,
-        "Namecheap": 11.11111111111111,
-        "URL Solutions Inc.": 38.888888888888886,
-        "URL Solutions, Inc.": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.882352941176471,
+        "Gransy s.r.o.": 11.764705882352942,
+        "MARCARIA INTERNATIONAL LLC": 5.882352941176471,
+        "MarkMonitor": 5.882352941176471,
+        "NETIM": 5.882352941176471,
+        "NameCheap, Inc.": 5.882352941176471,
+        "Namecheap": 11.764705882352942,
+        "URL Solutions Inc.": 41.1764705882353,
+        "URL Solutions, Inc.": 5.882352941176471,
         "total": 100.0
     }
 }
