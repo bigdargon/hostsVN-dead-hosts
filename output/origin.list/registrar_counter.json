@@ -6,8 +6,8 @@
         "NameCheap, Inc.": 2,
         "Namecheap": 4,
         "Spaceship, Inc.": 2,
-        "URL Solutions Inc.": 14,
-        "URL Solutions, Inc.": 2,
+        "URL Solutions Inc.": 12,
+        "URL Solutions, Inc.": 4,
         "total": 32
     },
     "percentage": {
@@ -17,8 +17,8 @@
         "NameCheap, Inc.": 6.25,
         "Namecheap": 12.5,
         "Spaceship, Inc.": 6.25,
-        "URL Solutions Inc.": 43.75,
-        "URL Solutions, Inc.": 6.25,
+        "URL Solutions Inc.": 37.5,
+        "URL Solutions, Inc.": 12.5,
         "total": 100.0
     }
 }
