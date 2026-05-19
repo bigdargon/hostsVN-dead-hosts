@@ -1,5 +1,6 @@
 {
     "counter": {
+        "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
         "NETIM": 2,
@@ -8,17 +9,18 @@
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 12,
         "URL Solutions, Inc.": 4,
-        "total": 32
+        "total": 34
     },
     "percentage": {
-        "Gransy s.r.o.": 12.5,
-        "MARCARIA INTERNATIONAL LLC": 6.25,
-        "NETIM": 6.25,
-        "NameCheap, Inc.": 6.25,
-        "Namecheap": 12.5,
-        "Spaceship, Inc.": 6.25,
-        "URL Solutions Inc.": 37.5,
-        "URL Solutions, Inc.": 12.5,
+        "Gandi SAS": 5.882352941176471,
+        "Gransy s.r.o.": 11.764705882352942,
+        "MARCARIA INTERNATIONAL LLC": 5.882352941176471,
+        "NETIM": 5.882352941176471,
+        "NameCheap, Inc.": 5.882352941176471,
+        "Namecheap": 11.764705882352942,
+        "Spaceship, Inc.": 5.882352941176471,
+        "URL Solutions Inc.": 35.294117647058826,
+        "URL Solutions, Inc.": 11.764705882352942,
         "total": 100.0
     }
 }
