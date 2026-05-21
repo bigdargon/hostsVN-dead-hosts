@@ -5,8 +5,8 @@
         "NETIM": 2,
         "NameCheap, Inc.": 2,
         "Namecheap": 4,
-        "URL Solutions Inc.": 12,
-        "URL Solutions, Inc.": 4,
+        "URL Solutions Inc.": 10,
+        "URL Solutions, Inc.": 6,
         "total": 30
     },
     "percentage": {
@@ -15,8 +15,8 @@
         "NETIM": 6.666666666666667,
         "NameCheap, Inc.": 6.666666666666667,
         "Namecheap": 13.333333333333334,
-        "URL Solutions Inc.": 40.0,
-        "URL Solutions, Inc.": 13.333333333333334,
+        "URL Solutions Inc.": 33.333333333333336,
+        "URL Solutions, Inc.": 20.0,
         "total": 100.0
     }
 }
