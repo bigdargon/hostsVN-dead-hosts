@@ -16,6 +16,8 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -44,6 +46,7 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -53,6 +56,7 @@ in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadsimz.com
+fadskiz.com
 gadskis.com
 madsecz.com
 hadsimz.com
@@ -67,11 +71,14 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+api.pvmax.net
+cdn.pvmax.net
+kuasa.pvmax.net
+monika.pvmax.net
+pvmax.net
+www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -80,10 +87,19 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -135,6 +151,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
+int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -148,8 +166,11 @@ geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
 s400.mxcdn.net
-ad-track.adiiix.com
-ads.adiiix.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -206,6 +227,10 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
+hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -219,7 +244,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -227,14 +251,13 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -244,6 +267,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -267,6 +291,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 734map.net
 7777align.net
+abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
 adcenter.net
@@ -275,7 +300,6 @@ adprojekt.pl
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
-ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
@@ -301,6 +325,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+bee7.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -429,7 +454,6 @@ ketchapp.org
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
-koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -533,6 +557,7 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -600,8 +625,10 @@ unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
 usheebainaut.com
+uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
+vionito.com
 vncnu.com
 vr.ringentkenlore.com
 vsgpxqdqk.com
@@ -661,4 +688,5 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
