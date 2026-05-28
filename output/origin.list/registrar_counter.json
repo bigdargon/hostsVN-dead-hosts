@@ -5,18 +5,20 @@
         "NETIM": 2,
         "NameCheap, Inc.": 2,
         "Namecheap": 4,
+        "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 10,
         "URL Solutions, Inc.": 6,
-        "total": 30
+        "total": 32
     },
     "percentage": {
-        "Gransy s.r.o.": 13.333333333333334,
-        "MARCARIA INTERNATIONAL LLC": 6.666666666666667,
-        "NETIM": 6.666666666666667,
-        "NameCheap, Inc.": 6.666666666666667,
-        "Namecheap": 13.333333333333334,
-        "URL Solutions Inc.": 33.333333333333336,
-        "URL Solutions, Inc.": 20.0,
+        "Gransy s.r.o.": 12.5,
+        "MARCARIA INTERNATIONAL LLC": 6.25,
+        "NETIM": 6.25,
+        "NameCheap, Inc.": 6.25,
+        "Namecheap": 12.5,
+        "Spaceship, Inc.": 6.25,
+        "URL Solutions Inc.": 31.25,
+        "URL Solutions, Inc.": 18.75,
         "total": 100.0
     }
 }
