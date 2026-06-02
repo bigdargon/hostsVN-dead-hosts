@@ -2,24 +2,22 @@
     "counter": {
         "Gransy s.r.o.": 4,
         "MARCARIA INTERNATIONAL LLC": 2,
-        "MarkMonitor": 2,
         "NETIM": 2,
         "NameCheap, Inc.": 2,
         "Namecheap": 4,
         "Spaceship, Inc.": 2,
-        "URL Solutions Inc.": 10,
+        "URL Solutions Inc.": 12,
         "URL Solutions, Inc.": 6,
         "total": 34
     },
     "percentage": {
         "Gransy s.r.o.": 11.764705882352942,
         "MARCARIA INTERNATIONAL LLC": 5.882352941176471,
-        "MarkMonitor": 5.882352941176471,
         "NETIM": 5.882352941176471,
         "NameCheap, Inc.": 5.882352941176471,
         "Namecheap": 11.764705882352942,
         "Spaceship, Inc.": 5.882352941176471,
-        "URL Solutions Inc.": 29.41176470588235,
+        "URL Solutions Inc.": 35.294117647058826,
         "URL Solutions, Inc.": 17.647058823529413,
         "total": 100.0
     }
