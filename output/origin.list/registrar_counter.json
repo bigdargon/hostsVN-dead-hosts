@@ -5,16 +5,16 @@
         "NETIM": 2,
         "Namecheap": 2,
         "URL Solutions Inc.": 14,
-        "URL Solutions, Inc.": 8,
-        "total": 32
+        "URL Solutions, Inc.": 10,
+        "total": 34
     },
     "percentage": {
-        "Gransy s.r.o.": 12.5,
-        "MarkMonitor": 6.25,
-        "NETIM": 6.25,
-        "Namecheap": 6.25,
-        "URL Solutions Inc.": 43.75,
-        "URL Solutions, Inc.": 25.0,
+        "Gransy s.r.o.": 11.764705882352942,
+        "MarkMonitor": 5.882352941176471,
+        "NETIM": 5.882352941176471,
+        "Namecheap": 5.882352941176471,
+        "URL Solutions Inc.": 41.1764705882353,
+        "URL Solutions, Inc.": 29.41176470588235,
         "total": 100.0
     }
 }
