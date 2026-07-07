@@ -1,25 +1,25 @@
 {
     "counter": {
         "Above.com Pty Ltd.": 2,
-        "Gransy s.r.o.": 4,
+        "Gransy s.r.o.": 2,
         "NETIM": 2,
         "Name.com, Inc.": 4,
         "NameCheap, Inc.": 16,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
-        "URL Solutions Inc.": 14,
+        "URL Solutions Inc.": 16,
         "URL Solutions, Inc.": 14,
         "total": 60
     },
     "percentage": {
         "Above.com Pty Ltd.": 3.3333333333333335,
-        "Gransy s.r.o.": 6.666666666666667,
+        "Gransy s.r.o.": 3.3333333333333335,
         "NETIM": 3.3333333333333335,
         "Name.com, Inc.": 6.666666666666667,
         "NameCheap, Inc.": 26.666666666666668,
         "Namecheap": 3.3333333333333335,
         "Spaceship, Inc.": 3.3333333333333335,
-        "URL Solutions Inc.": 23.333333333333332,
+        "URL Solutions Inc.": 26.666666666666668,
         "URL Solutions, Inc.": 23.333333333333332,
         "total": 100.0
     }
