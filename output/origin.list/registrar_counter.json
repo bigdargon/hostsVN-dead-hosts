@@ -2,25 +2,25 @@
     "counter": {
         "Above.com Pty Ltd.": 2,
         "Gransy s.r.o.": 4,
+        "MarkMonitor": 2,
         "Name.com, Inc.": 4,
-        "NameCheap, Inc.": 18,
+        "NameCheap, Inc.": 22,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
-        "Tool.Domains": 2,
         "URL Solutions Inc.": 16,
         "URL Solutions, Inc.": 14,
-        "total": 64
+        "total": 68
     },
     "percentage": {
-        "Above.com Pty Ltd.": 3.125,
-        "Gransy s.r.o.": 6.25,
-        "Name.com, Inc.": 6.25,
-        "NameCheap, Inc.": 28.125,
-        "Namecheap": 3.125,
-        "Spaceship, Inc.": 3.125,
-        "Tool.Domains": 3.125,
-        "URL Solutions Inc.": 25.0,
-        "URL Solutions, Inc.": 21.875,
+        "Above.com Pty Ltd.": 2.9411764705882355,
+        "Gransy s.r.o.": 5.882352941176471,
+        "MarkMonitor": 2.9411764705882355,
+        "Name.com, Inc.": 5.882352941176471,
+        "NameCheap, Inc.": 32.35294117647059,
+        "Namecheap": 2.9411764705882355,
+        "Spaceship, Inc.": 2.9411764705882355,
+        "URL Solutions Inc.": 23.529411764705884,
+        "URL Solutions, Inc.": 20.58823529411765,
         "total": 100.0
     }
 }
