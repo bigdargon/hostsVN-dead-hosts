@@ -2,11 +2,11 @@
     "counter": {
         "Above.com Pty Ltd.": 2,
         "Gransy s.r.o.": 4,
-        "NETIM": 2,
         "Name.com, Inc.": 4,
         "NameCheap, Inc.": 18,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
+        "Tool.Domains": 2,
         "URL Solutions Inc.": 16,
         "URL Solutions, Inc.": 14,
         "total": 64
@@ -14,11 +14,11 @@
     "percentage": {
         "Above.com Pty Ltd.": 3.125,
         "Gransy s.r.o.": 6.25,
-        "NETIM": 3.125,
         "Name.com, Inc.": 6.25,
         "NameCheap, Inc.": 28.125,
         "Namecheap": 3.125,
         "Spaceship, Inc.": 3.125,
+        "Tool.Domains": 3.125,
         "URL Solutions Inc.": 25.0,
         "URL Solutions, Inc.": 21.875,
         "total": 100.0
