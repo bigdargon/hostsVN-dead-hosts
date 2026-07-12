@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ds.polyad.net,AVAILABILITY,origin.list,2026-07-11 18:11:52.258844+00:00
-ak.hetaint.com,AVAILABILITY,origin.list,2026-07-11 18:12:16.800461+00:00
-bqrjotqnqh.com,AVAILABILITY,origin.list,2026-07-11 18:12:27.884133+00:00
-eelfpsgnicy.com,AVAILABILITY,origin.list,2026-07-11 18:12:38.844389+00:00
-fsavmklplmddsu.com,AVAILABILITY,origin.list,2026-07-11 18:12:49.741220+00:00
-tangerine.nexage.com,AVAILABILITY,origin.list,2026-07-11 18:13:00.137736+00:00
-core.polyad.net,AVAILABILITY,origin.list,2026-07-11 18:13:29.126406+00:00
-cpx.polyad.net,AVAILABILITY,origin.list,2026-07-11 18:13:40.067080+00:00
 acsshufxnu.com,AVAILABILITY,origin.list,2026-07-12 04:19:38.853573+00:00
 cben1.net,AVAILABILITY,origin.list,2026-07-12 04:19:39.244906+00:00
 t84c3srgclc9.com,AVAILABILITY,origin.list,2026-07-12 04:19:39.970907+00:00
@@ -1010,3 +1002,11 @@ abmkupxixavk.in,AVAILABILITY,origin.list,2026-07-12 22:33:58.705845+00:00
 ads.homedy.net,AVAILABILITY,origin.list,2026-07-12 22:34:04.629002+00:00
 roumaniangravelnot.com,AVAILABILITY,origin.list,2026-07-12 22:34:10.583701+00:00
 ke.minterhazes.com,AVAILABILITY,origin.list,2026-07-12 22:34:16.277568+00:00
+ak.hetaint.com,AVAILABILITY,origin.list,2026-07-12 22:36:22.631397+00:00
+bqrjotqnqh.com,AVAILABILITY,origin.list,2026-07-12 22:36:38.696258+00:00
+ds.polyad.net,AVAILABILITY,origin.list,2026-07-12 22:36:54.448361+00:00
+eelfpsgnicy.com,AVAILABILITY,origin.list,2026-07-12 22:36:54.775178+00:00
+fsavmklplmddsu.com,AVAILABILITY,origin.list,2026-07-12 22:37:10.531723+00:00
+core.polyad.net,AVAILABILITY,origin.list,2026-07-12 22:37:58.745288+00:00
+tangerine.nexage.com,AVAILABILITY,origin.list,2026-07-12 22:37:59.728688+00:00
+cpx.polyad.net,AVAILABILITY,origin.list,2026-07-12 22:38:46.712319+00:00
