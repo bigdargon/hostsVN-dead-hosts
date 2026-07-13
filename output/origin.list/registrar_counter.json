@@ -1,7 +1,6 @@
 {
     "counter": {
         "Above.com Pty Ltd.": 2,
-        "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
         "Name.com, Inc.": 4,
         "NameCheap, Inc.": 22,
@@ -9,18 +8,17 @@
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 16,
         "URL Solutions, Inc.": 14,
-        "total": 68
+        "total": 66
     },
     "percentage": {
-        "Above.com Pty Ltd.": 2.9411764705882355,
-        "Gandi SAS": 2.9411764705882355,
-        "Gransy s.r.o.": 5.882352941176471,
-        "Name.com, Inc.": 5.882352941176471,
-        "NameCheap, Inc.": 32.35294117647059,
-        "Namecheap": 2.9411764705882355,
-        "Spaceship, Inc.": 2.9411764705882355,
-        "URL Solutions Inc.": 23.529411764705884,
-        "URL Solutions, Inc.": 20.58823529411765,
+        "Above.com Pty Ltd.": 3.0303030303030303,
+        "Gransy s.r.o.": 6.0606060606060606,
+        "Name.com, Inc.": 6.0606060606060606,
+        "NameCheap, Inc.": 33.333333333333336,
+        "Namecheap": 3.0303030303030303,
+        "Spaceship, Inc.": 3.0303030303030303,
+        "URL Solutions Inc.": 24.242424242424242,
+        "URL Solutions, Inc.": 21.21212121212121,
         "total": 100.0
     }
 }
