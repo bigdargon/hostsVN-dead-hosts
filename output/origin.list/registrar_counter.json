@@ -1,7 +1,6 @@
 {
     "counter": {
-        "Above.com Pty Ltd.": 2,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4,
         "Gransy s.r.o.": 4,
         "Name.com, Inc.": 6,
         "NameCheap, Inc.": 28,
@@ -12,8 +11,7 @@
         "total": 76
     },
     "percentage": {
-        "Above.com Pty Ltd.": 2.6315789473684212,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.6315789473684212,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 5.2631578947368425,
         "Gransy s.r.o.": 5.2631578947368425,
         "Name.com, Inc.": 7.894736842105263,
         "NameCheap, Inc.": 36.8421052631579,
