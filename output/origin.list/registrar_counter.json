@@ -1,7 +1,7 @@
 {
     "counter": {
         "Above.com Pty Ltd.": 2,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4,
         "Gransy s.r.o.": 4,
         "MarkMonitor": 2,
         "Name.com, Inc.": 6,
@@ -10,19 +10,19 @@
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 14,
         "URL Solutions, Inc.": 16,
-        "total": 80
+        "total": 82
     },
     "percentage": {
-        "Above.com Pty Ltd.": 2.5,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.5,
-        "Gransy s.r.o.": 5.0,
-        "MarkMonitor": 2.5,
-        "Name.com, Inc.": 7.5,
-        "NameCheap, Inc.": 37.5,
-        "Namecheap": 2.5,
-        "Spaceship, Inc.": 2.5,
-        "URL Solutions Inc.": 17.5,
-        "URL Solutions, Inc.": 20.0,
+        "Above.com Pty Ltd.": 2.4390243902439024,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4.878048780487805,
+        "Gransy s.r.o.": 4.878048780487805,
+        "MarkMonitor": 2.4390243902439024,
+        "Name.com, Inc.": 7.317073170731708,
+        "NameCheap, Inc.": 36.58536585365854,
+        "Namecheap": 2.4390243902439024,
+        "Spaceship, Inc.": 2.4390243902439024,
+        "URL Solutions Inc.": 17.073170731707318,
+        "URL Solutions, Inc.": 19.51219512195122,
         "total": 100.0
     }
 }
