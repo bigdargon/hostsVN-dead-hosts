@@ -5,24 +5,24 @@
         "GoDaddy.com, LLC": 2,
         "Gransy s.r.o.": 4,
         "Name.com, Inc.": 6,
-        "NameCheap, Inc.": 32,
+        "NameCheap, Inc.": 34,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 14,
         "URL Solutions, Inc.": 16,
-        "total": 82
+        "total": 84
     },
     "percentage": {
-        "Above.com Pty Ltd.": 2.4390243902439024,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.4390243902439024,
-        "GoDaddy.com, LLC": 2.4390243902439024,
-        "Gransy s.r.o.": 4.878048780487805,
-        "Name.com, Inc.": 7.317073170731708,
-        "NameCheap, Inc.": 39.02439024390244,
-        "Namecheap": 2.4390243902439024,
-        "Spaceship, Inc.": 2.4390243902439024,
-        "URL Solutions Inc.": 17.073170731707318,
-        "URL Solutions, Inc.": 19.51219512195122,
+        "Above.com Pty Ltd.": 2.380952380952381,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.380952380952381,
+        "GoDaddy.com, LLC": 2.380952380952381,
+        "Gransy s.r.o.": 4.761904761904762,
+        "Name.com, Inc.": 7.142857142857143,
+        "NameCheap, Inc.": 40.476190476190474,
+        "Namecheap": 2.380952380952381,
+        "Spaceship, Inc.": 2.380952380952381,
+        "URL Solutions Inc.": 16.666666666666668,
+        "URL Solutions, Inc.": 19.047619047619047,
         "total": 100.0
     }
 }
