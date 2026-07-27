@@ -1,7 +1,7 @@
 {
     "counter": {
         "Above.com Pty Ltd.": 2,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4,
         "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
         "Name.com, Inc.": 6,
@@ -9,12 +9,12 @@
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 14,
-        "URL Solutions, Inc.": 16,
+        "URL Solutions, Inc.": 14,
         "total": 82
     },
     "percentage": {
         "Above.com Pty Ltd.": 2.4390243902439024,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.4390243902439024,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4.878048780487805,
         "Gandi SAS": 2.4390243902439024,
         "Gransy s.r.o.": 4.878048780487805,
         "Name.com, Inc.": 7.317073170731708,
@@ -22,7 +22,7 @@
         "Namecheap": 2.4390243902439024,
         "Spaceship, Inc.": 2.4390243902439024,
         "URL Solutions Inc.": 17.073170731707318,
-        "URL Solutions, Inc.": 19.51219512195122,
+        "URL Solutions, Inc.": 17.073170731707318,
         "total": 100.0
     }
 }
