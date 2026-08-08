@@ -1,8 +1,9 @@
 {
     "counter": {
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 4,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
         "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
+        "MarkMonitor": 2,
         "Name.com, Inc.": 2,
         "NameCheap, Inc.": 34,
         "Namecheap": 2,
@@ -12,9 +13,10 @@
         "total": 78
     },
     "percentage": {
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 5.128205128205129,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.5641025641025643,
         "Gandi SAS": 2.5641025641025643,
         "Gransy s.r.o.": 5.128205128205129,
+        "MarkMonitor": 2.5641025641025643,
         "Name.com, Inc.": 2.5641025641025643,
         "NameCheap, Inc.": 43.58974358974359,
         "Namecheap": 2.5641025641025643,
