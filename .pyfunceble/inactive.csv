@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-self-service.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:46:53.937360+00:00
-self-service-adm.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:01.448805+00:00
-st.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:11.180356+00:00
-self-service-pay.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:18.876084+00:00
-static.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:28.590317+00:00
-static2-src.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:36.123643+00:00
-st-n.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:45.750043+00:00
-static-src.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:47:53.398175+00:00
-tr.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:48:02.944300+00:00
-teasers.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:48:11.076465+00:00
-afcnuchxgo.com,AVAILABILITY,origin.list,2026-08-11 09:48:11.979742+00:00
-dowerlesssightseehow.com,AVAILABILITY,origin.list,2026-08-11 09:48:12.973463+00:00
-vi.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:48:20.594252+00:00
-www.adxxx.com,AVAILABILITY,origin.list,2026-08-11 09:48:32.159164+00:00
 service.maxymiser.net,AVAILABILITY,origin.list,2026-08-11 14:08:16.213957+00:00
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me,AVAILABILITY,origin.list,2026-08-11 14:08:18.159117+00:00
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me,AVAILABILITY,origin.list,2026-08-11 14:08:19.197377+00:00
@@ -1110,3 +1096,17 @@ pl.adxxx.com,AVAILABILITY,origin.list,2026-08-12 09:54:51.897315+00:00
 pr.adxxx.com,AVAILABILITY,origin.list,2026-08-12 09:55:02.220201+00:00
 ru.adxxx.com,AVAILABILITY,origin.list,2026-08-12 09:55:14.687982+00:00
 scan.adxxx.com,AVAILABILITY,origin.list,2026-08-12 09:55:23.667952+00:00
+self-service.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:05.493174+00:00
+self-service-adm.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:05.871122+00:00
+self-service-pay.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:28.411803+00:00
+st.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:28.441283+00:00
+static2-src.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:51.076025+00:00
+static.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:12:52.466432+00:00
+st-n.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:13:14.067108+00:00
+static-src.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:13:15.430282+00:00
+tr.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:13:37.635409+00:00
+teasers.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:13:38.632812+00:00
+afcnuchxgo.com,AVAILABILITY,origin.list,2026-08-12 14:13:43.742224+00:00
+dowerlesssightseehow.com,AVAILABILITY,origin.list,2026-08-12 14:13:44.668375+00:00
+vi.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:14:06.713195+00:00
+www.adxxx.com,AVAILABILITY,origin.list,2026-08-12 14:14:10.333423+00:00
