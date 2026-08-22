@@ -1,7 +1,7 @@
 {
     "counter": {
+        "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
-        "MarkMonitor": 2,
         "NameCheap, Inc.": 32,
         "Namecheap": 2,
         "REG-GRANSY": 2,
@@ -11,8 +11,8 @@
         "total": 72
     },
     "percentage": {
+        "Gandi SAS": 2.7777777777777777,
         "Gransy s.r.o.": 5.555555555555555,
-        "MarkMonitor": 2.7777777777777777,
         "NameCheap, Inc.": 44.44444444444444,
         "Namecheap": 2.7777777777777777,
         "REG-GRANSY": 2.7777777777777777,
