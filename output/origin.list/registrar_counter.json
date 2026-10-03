@@ -4,25 +4,25 @@
         "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
         "Gransy s.r.o.": 4,
         "MarkMonitor": 2,
-        "NameCheap, Inc.": 32,
+        "NameCheap, Inc.": 34,
         "Namecheap": 2,
         "REG-WEDOS": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 8,
         "URL Solutions, Inc.": 20,
-        "total": 76
+        "total": 78
     },
     "percentage": {
-        "CommuniGal Communication Ltd.": 2.6315789473684212,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.6315789473684212,
-        "Gransy s.r.o.": 5.2631578947368425,
-        "MarkMonitor": 2.6315789473684212,
-        "NameCheap, Inc.": 42.10526315789474,
-        "Namecheap": 2.6315789473684212,
-        "REG-WEDOS": 2.6315789473684212,
-        "Spaceship, Inc.": 2.6315789473684212,
-        "URL Solutions Inc.": 10.526315789473685,
-        "URL Solutions, Inc.": 26.31578947368421,
+        "CommuniGal Communication Ltd.": 2.5641025641025643,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.5641025641025643,
+        "Gransy s.r.o.": 5.128205128205129,
+        "MarkMonitor": 2.5641025641025643,
+        "NameCheap, Inc.": 43.58974358974359,
+        "Namecheap": 2.5641025641025643,
+        "REG-WEDOS": 2.5641025641025643,
+        "Spaceship, Inc.": 2.5641025641025643,
+        "URL Solutions Inc.": 10.256410256410257,
+        "URL Solutions, Inc.": 25.641025641025642,
         "total": 100.0
     }
 }
