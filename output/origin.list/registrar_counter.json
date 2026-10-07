@@ -8,21 +8,23 @@
         "NameCheap, Inc.": 34,
         "Namecheap": 2,
         "REG-WEDOS": 2,
+        "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 8,
         "URL Solutions, Inc.": 20,
-        "total": 78
+        "total": 80
     },
     "percentage": {
-        "CommuniGal Communication Ltd.": 2.5641025641025643,
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.5641025641025643,
-        "Gransy s.r.o.": 5.128205128205129,
-        "Instra Corporation Pty Ltd": 2.5641025641025643,
-        "MarkMonitor": 2.5641025641025643,
-        "NameCheap, Inc.": 43.58974358974359,
-        "Namecheap": 2.5641025641025643,
-        "REG-WEDOS": 2.5641025641025643,
-        "URL Solutions Inc.": 10.256410256410257,
-        "URL Solutions, Inc.": 25.641025641025642,
+        "CommuniGal Communication Ltd.": 2.5,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2.5,
+        "Gransy s.r.o.": 5.0,
+        "Instra Corporation Pty Ltd": 2.5,
+        "MarkMonitor": 2.5,
+        "NameCheap, Inc.": 42.5,
+        "Namecheap": 2.5,
+        "REG-WEDOS": 2.5,
+        "Spaceship, Inc.": 2.5,
+        "URL Solutions Inc.": 10.0,
+        "URL Solutions, Inc.": 25.0,
         "total": 100.0
     }
 }
