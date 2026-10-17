@@ -4,19 +4,17 @@
         "Instra Corporation Pty Ltd": 2,
         "NameCheap, Inc.": 34,
         "Namecheap": 2,
-        "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 8,
         "URL Solutions, Inc.": 20,
-        "total": 72
+        "total": 70
     },
     "percentage": {
-        "Gransy s.r.o.": 5.555555555555555,
-        "Instra Corporation Pty Ltd": 2.7777777777777777,
-        "NameCheap, Inc.": 47.22222222222222,
-        "Namecheap": 2.7777777777777777,
-        "Spaceship, Inc.": 2.7777777777777777,
-        "URL Solutions Inc.": 11.11111111111111,
-        "URL Solutions, Inc.": 27.77777777777778,
+        "Gransy s.r.o.": 5.714285714285714,
+        "Instra Corporation Pty Ltd": 2.857142857142857,
+        "NameCheap, Inc.": 48.57142857142857,
+        "Namecheap": 2.857142857142857,
+        "URL Solutions Inc.": 11.428571428571429,
+        "URL Solutions, Inc.": 28.571428571428573,
         "total": 100.0
     }
 }
