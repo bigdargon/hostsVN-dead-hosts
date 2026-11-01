@@ -8,21 +8,21 @@
         "NameCheap, Inc.": 32,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
-        "URL Solutions Inc.": 6,
+        "URL Solutions Inc.": 8,
         "URL Solutions, Inc.": 22,
-        "total": 76
+        "total": 78
     },
     "percentage": {
-        "Dynadot Inc": 2.6315789473684212,
-        "Enartia Single Member S.A.": 2.6315789473684212,
-        "Gransy s.r.o.": 5.2631578947368425,
-        "Instra Corporation Pty Ltd": 2.6315789473684212,
-        "MarkMonitor": 2.6315789473684212,
-        "NameCheap, Inc.": 42.10526315789474,
-        "Namecheap": 2.6315789473684212,
-        "Spaceship, Inc.": 2.6315789473684212,
-        "URL Solutions Inc.": 7.894736842105263,
-        "URL Solutions, Inc.": 28.94736842105263,
+        "Dynadot Inc": 2.5641025641025643,
+        "Enartia Single Member S.A.": 2.5641025641025643,
+        "Gransy s.r.o.": 5.128205128205129,
+        "Instra Corporation Pty Ltd": 2.5641025641025643,
+        "MarkMonitor": 2.5641025641025643,
+        "NameCheap, Inc.": 41.02564102564103,
+        "Namecheap": 2.5641025641025643,
+        "Spaceship, Inc.": 2.5641025641025643,
+        "URL Solutions Inc.": 10.256410256410257,
+        "URL Solutions, Inc.": 28.205128205128204,
         "total": 100.0
     }
 }
