@@ -3,22 +3,22 @@
         "Dynadot Inc": 2,
         "Gandi SAS": 2,
         "Gransy s.r.o.": 4,
-        "NameCheap, Inc.": 36,
+        "NameCheap, Inc.": 40,
         "Namecheap": 2,
         "Spaceship, Inc.": 2,
         "URL Solutions Inc.": 8,
         "URL Solutions, Inc.": 22,
-        "total": 78
+        "total": 82
     },
     "percentage": {
-        "Dynadot Inc": 2.5641025641025643,
-        "Gandi SAS": 2.5641025641025643,
-        "Gransy s.r.o.": 5.128205128205129,
-        "NameCheap, Inc.": 46.15384615384615,
-        "Namecheap": 2.5641025641025643,
-        "Spaceship, Inc.": 2.5641025641025643,
-        "URL Solutions Inc.": 10.256410256410257,
-        "URL Solutions, Inc.": 28.205128205128204,
+        "Dynadot Inc": 2.4390243902439024,
+        "Gandi SAS": 2.4390243902439024,
+        "Gransy s.r.o.": 4.878048780487805,
+        "NameCheap, Inc.": 48.78048780487805,
+        "Namecheap": 2.4390243902439024,
+        "Spaceship, Inc.": 2.4390243902439024,
+        "URL Solutions Inc.": 9.75609756097561,
+        "URL Solutions, Inc.": 26.829268292682926,
         "total": 100.0
     }
 }
